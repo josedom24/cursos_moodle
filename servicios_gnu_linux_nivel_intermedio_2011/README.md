@@ -1,25 +1,24 @@
 # Servicios en GNU/Linux (Nivel Intermedio) (2011)
 
-# Objetivos<br />
-<br />
-<br />
-Instalar y configurar servicios en GNU/Linux. (NIVEL INTERMEDIO)<br />
-Configurar los componentes de un servidor de correo completo.<br />
-Profundizar en el manejo del servidor web apache.<br />
-Administrar de forma desatendida las zonas DNS mediante actualizaciones DHCP.<br />
-Profundizar en el conocimiento de servicios en sistemas GNU/Linux, tratando aplicaciones habituales como Kerberos, LDAP o NFS4.<br />
-Monitorizar el servidor y realizar tareas de actualización y copias de seguridad.<br />
-<br />
-Contenidos<br />
-<br />
-Servidor de correo con postfix, dovecot, spamassasin, clamav, amavis y squirrelmail.<br />
-Servidor apache: Módulos. HTTPS<br />
-Sincronización de ISC DHCP3 y Bind9: DNS dinámico.<br />
-Sistema centralizado de cuentas: Kerberos, OpenLDAP y NFS4.<br />
-Estado del sistema, actualizaciones, copias de seguridad.
+## Objetivos
+
+* Instalar y configurar servicios en GNU/Linux. (NIVEL INTERMEDIO)
+* Configurar los componentes de un servidor de correo completo.
+* Profundizar en el manejo del servidor web apache.
+* Administrar de forma desatendida las zonas DNS mediante actualizaciones DHCP.
+* Profundizar en el conocimiento de servicios en sistemas GNU/Linux, tratando aplicaciones habituales como Kerberos, LDAP o NFS4.
+* Monitorizar el servidor y realizar tareas de actualización y copias de seguridad.
+
+## Contenidos
+
+* Servidor de correo con postfix, dovecot, spamassasin, clamav, amavis y squirrelmail.
+* Servidor apache: Módulos. HTTPS
+* Sincronización de ISC DHCP3 y Bind9: DNS dinámico.
+* Sistema centralizado de cuentas: Kerberos, OpenLDAP y NFS4.
+* Estado del sistema, actualizaciones, copias de seguridad.
 
 
-## <div style="text-align: center; font-weight: bold;"><font size="5" style="color: rgb(51, 102, 0);">Servicios en GNU/Linux</font><br style="color: rgb(51, 102, 0);" /><span style="color: rgb(51, 102, 0);">Nivel Intermedio</span><br /> </div>
+## <div style="text-align: center; font-weight: bold;"><font size="5" style="color: rgb(51, 102, 0);">Servicios en GNU/Linux</font><br style="color: rgb(51, 102, 0);" /><span style="color: rgb(51, 102, 0);">Nivel Intermedio</span> </div>
 
 <div style="text-align: center;"><a href="http://creativecommons.org/licenses/by-sa/3.0/" rel="license"><img src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" style="border-width: 0pt;" alt="Creative Commons License" /></a><br /><br /></div>Servicios en GNU/Linux (Nivel intermedio) de Alberto Molina Coballes, José Domingo Muñoz Rodríguez y José Luis Rodríguez Rodríguez tiene licencia <a href="http://creativecommons.org/licenses/by-sa/3.0/" rel="license">Creative Commons Reconocimiento-Compartir bajo la misma licencia 3.0</a><br /><br />
 

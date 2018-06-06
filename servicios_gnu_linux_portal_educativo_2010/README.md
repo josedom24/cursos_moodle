@@ -1,8 +1,5 @@
 # Servicios en GNU/Linux. Portal Educativo (2010)
 
-# None
-
-
 ## <div style="text-align: center;"><img hspace="0" height="100" border="0" width="400" vspace="0" src="img/titulo.jpg" alt="serv" title="serv" /> </div>
 
 

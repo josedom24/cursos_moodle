@@ -12,9 +12,8 @@
 #### <hr style="width: 100%; height: 2px;" />
 
 * [Cómo obtener la certificación del curso](doc/Como_obtener_la_certificacion_del_curso.md)
-* Cuestionario de valoración del curso (quiz)
 
-## <div style="text-align: center;"><img hspace="0" border="0" vspace="0" style="width: 248px; height: 31px;" src="img/comunes.jpg" alt="c" title="c" /><br /><br /><img hspace="0" border="0" vspace="0" style="width: 192px; height: 24px;" src="img/0.jpg" alt="0" title="0" /><br /> </div>
+## <div style="text-align: center;"><img hspace="0" border="0" vspace="0" style="width: 248px; height: 31px;" src="img/comunes.jpg" alt="c" title="c" /><br /><br /><img hspace="0" border="0" vspace="0" style="width: 192px; height: 24px;" src="img/t0.jpg" alt="0" title="0" /><br /> </div>
 
 
 #### <span style="font-weight: bold; color: rgb(0, 0, 255);">UNIDAD 0.- Puesta en marcha del entorno de trabajo<br /></span><hr style="width: 100%; height: 2px;" /><span style="font-weight: bold; color: rgb(0, 0, 255);"><br /></span>

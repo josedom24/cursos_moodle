@@ -14,13 +14,6 @@
 
 #### <hr style="width: 100%; height: 2px;" />
 
-* Novedades (forum)
-* Foro general (forum)
-* Foro del curso de nivel básico (forum)
-* Foro del curso de nivel intermedio (forum)
-* Foro de profesores (forum)
-* Chat (chat)
-* [Alumnos por niveles](doc/Alumnos_por_niveles.md)
 * [Cómo obtener la certificación del curso](doc/Como_obtener_la_certificacion_del_curso.md)
 * Cuestionario de valoración del curso (quiz)
 

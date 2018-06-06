@@ -30,7 +30,7 @@
 * [Ejercicio: Utilización de APT y manejo básico del sistema](doc/Ejercicio:_Utilizacion_de_APT_y_manejo_basico_del_sistema.md)
 * [Finalización de la Unidad 0](doc/Finalizacion_de_la_Unidad_0.md)
 
-## <div style="text-align: center;"><img hspace="0" height="24" border="0" width="192" vspace="0" src="img/1.jpg" alt="1" title="1" /> </div>
+## <div style="text-align: center;"><img hspace="0" height="24" border="0" width="192" vspace="0" src="img/t1.jpg" alt="1" title="1" /> </div>
 
 
 #### <span style="font-weight: bold; color: rgb(0, 0, 255);">UNIDAD 1.- NAT, LAMP, gestión de DNS externo</span>

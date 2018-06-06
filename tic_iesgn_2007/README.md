@@ -3,8 +3,8 @@
 #  Curso para profesores
 
 
-## <div style="text-align: center;"><font size="4"><table width="100%" border="0"><tbody><tr><td width="50%" valign="top" style="text-align: center;"><font size="4">CURSO TIC<br />
-<br /><font size="3">IES Gonzalo Nazareno<br /><br /></font></font><font size="4"><a href="http://creativecommons.org/licenses/by/2.5/es/deed.es"><img vspace="0" hspace="0" border="0" src="http://es.creativecommons.org/images/somerights20.png" alt="cc" title="cc" /></a></font><br /></td><td width="50%" valign="top" style="text-align: right;"><img width="91" vspace="0" hspace="0" height="128" border="0" src="../img/andatuz.png" alt="andatuz" title="andatuz" /><br /><br /></td></tr></tbody></table></font></div>
+<div style="text-align: center;"><font size="4"><table width="100%" border="0"><tbody><tr><td width="50%" valign="top" style="text-align: center;"><font size="4">CURSO TIC<br />
+<br /><font size="3">IES Gonzalo Nazareno<br /><br /></font></font><font size="4"><a href="http://creativecommons.org/licenses/by/2.5/es/deed.es"><img vspace="0" hspace="0" border="0" src="http://es.creativecommons.org/images/somerights20.png" alt="cc" title="cc" /></a></font><br /></td><td width="50%" valign="top" style="text-align: right;"><img width="91" vspace="0" hspace="0" height="128" border="0" src="img/andatuz.png" alt="andatuz" title="andatuz" /><br /><br /></td></tr></tbody></table></font></div>
 <div style="text-align: center;">
 </div>
 
@@ -21,8 +21,7 @@ Documentación General del Curso</span><br />
 
 * [Introducción al uso de la plataforma educativa Moodle](files/Plataforma_Educativa_Moodle.odp)
 
-## <span style="font-weight: bold;">Motivación y presentación del proyecto GNU/Linux, Guadalinex, TIC,
-	conocimiento libre, ...</span>
+## <span style="font-weight: bold;">Motivación y presentación del proyecto GNU/Linux, Guadalinex, TIC, conocimiento libre, ...</span>
 
 * [Presentación de Unidad 1 (odp)](files/conocimiento_libre.odp)
 * [Presentación Unidad 1 (pdf)](files/conocimiento_libre.pdf)

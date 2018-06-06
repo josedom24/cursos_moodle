@@ -1,15 +1,10 @@
 # Jornadas Cloud Computing (2013)
 
-# <p>Jornadas Cloud Computing</p>
-<p>Celebradas en el IES Gonzalo Nazareno</p>
-<p>26 febreo - 5 marzo</p>
-
 
 ## <div class="valor">
 <div style="text-align: center;" class="textoValor"><strong>CLOUD COMPUTING CON OPENSTACK COMO HERRAMIENTA DIDÁCTICA</strong></div>
 </div>
 
-* Novedades (forum)
 * [Objetivos y contenidos de las jornadas](doc/Objetivos_y_contenidos_de_las_jornadas.md)
 * [Proyecto de innovación: Cloud Computing con OpenStack en educación](http://www.gonzalonazareno.org/cloud/)
 

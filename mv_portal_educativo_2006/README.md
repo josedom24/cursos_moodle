@@ -1,20 +1,7 @@
 # Máquinas virtuales para la puesta en marcha de un portal educativo (2006)
 
 # <br />
-Objetivos:<br />    1. Uso de máquinas virtuales para el desarrollo del módulo Redes de Área Local y otros módulos orientados a la administración de sistemas informáticos.<br />    2. Puesta en marcha de un portal educativo.<br />    3. Configuración y securización de una infraestructura típica de un portal para un centro educativo (extensible para un entorno real de empresas): intranet/MZ, DMZ, router, cortafuegos, proxy, dns, web, ftp, etc. Puesta en marcha de una plataforma virtual educativa. Servicios securizados.<br />    4.El objetivo de este curso no es dar una visión en profundidad de los servicios,  sino el cómo montarlos haciendo uso de máquinas virtuales, que posibilite el desarrollo de unas  prácticas más completas a los alumnos, y al mismo tiempo les permitan tener  una visión global  e integradora de una infraestructura real.<br />    5.Homogeneizar la programación didáctica del módulo de Redes de Área Local y de otros módulos orientados a la administración de sistemas informáticos.<br />    6.Los servicios se montarán en linux.
-
-
-## <meta content="text/html; charset=utf-8" http-equiv="CONTENT-TYPE" /><title></title><meta content="OpenOffice.org 2.0  (Linux)" name="GENERATOR" /><meta content="20060812;13142700" name="CREATED" /><meta content="16010101;0" name="CHANGED" />
-	
-	
-	
-	
-	<style type="text/css">
-	&lt;!--
-		@page { size: 21cm 29.7cm; margin: 2cm }
-		P { margin-bottom: 0.21cm }
-	--&gt;
-	</style>
+Objetivos:<br />    1. Uso de máquinas virtuales para el desarrollo del módulo *Redes de Área Local* y otros módulos orientados a la administración de sistemas informáticos.<br />    2. Puesta en marcha de un portal educativo.<br />    3. Configuración y securización de una infraestructura típica de un portal para un centro educativo (extensible para un entorno real de empresas): intranet/MZ, DMZ, router, cortafuegos, proxy, dns, web, ftp, etc. Puesta en marcha de una plataforma virtual educativa. Servicios securizados.<br />    4.El objetivo de este curso no es dar una visión en profundidad de los servicios,  sino el cómo montarlos haciendo uso de máquinas virtuales, que posibilite el desarrollo de unas  prácticas más completas a los alumnos, y al mismo tiempo les permitan tener  una visión global  e integradora de una infraestructura real.<br />    5.Homogeneizar la programación didáctica del módulo de Redes de Área Local y de otros módulos orientados a la administración de sistemas informáticos.<br />    6.Los servicios se montarán en linux.
 
 <p align="center" style="margin-bottom: 0cm;"><font color="#000080"><font size="4"><b>MÁQUINAS
 VIRTUALES PARA LA PUESTA EN</b></font></font></p>

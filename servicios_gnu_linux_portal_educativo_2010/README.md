@@ -1,0 +1,159 @@
+# Servicios en GNU/Linux. Portal Educativo (2010)
+
+# None
+
+
+## <div style="text-align: center;"><img hspace="0" height="100" border="0" width="400" vspace="0" src="img/titulo.jpg" alt="serv" title="serv" /> </div>
+
+
+#### <div style="text-align: center;"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width: 0pt;" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><br /></div>Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domingo Muñoz Rodríguez y José Luis Rodríguez Rodríguez tiene licencia <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Reconocimiento-Compartir bajo la misma licencia 3.0</a><br /><br />
+
+* [Convocatoria del curso](files/104132FC014_CURSO_LINUX.pdf)
+* [leeme.pdf](files/leeme.pdf)
+* [Calendario del curso](files/calendario.pdf)
+
+#### <hr style="width: 100%; height: 2px;" />
+
+* Novedades (forum)
+* Foro general (forum)
+* Foro del curso de nivel básico (forum)
+* Foro del curso de nivel intermedio (forum)
+* Foro de profesores (forum)
+* Chat (chat)
+* [Alumnos por niveles](doc/Alumnos_por_niveles.md)
+* [Cómo obtener la certificación del curso](doc/Como_obtener_la_certificacion_del_curso.md)
+* Cuestionario de valoración del curso (quiz)
+
+## <div style="text-align: center;"><img hspace="0" border="0" vspace="0" style="width: 248px; height: 31px;" src="img/comunes.jpg" alt="c" title="c" /><br /><br /><img hspace="0" border="0" vspace="0" style="width: 192px; height: 24px;" src="img/0.jpg" alt="0" title="0" /><br /> </div>
+
+
+#### <span style="font-weight: bold; color: rgb(0, 0, 255);">UNIDAD 0.- Puesta en marcha del entorno de trabajo<br /></span><hr style="width: 100%; height: 2px;" /><span style="font-weight: bold; color: rgb(0, 0, 255);"><br /></span>
+
+* [Índice de Puesta en marcha del entorno de trabajo](doc/Indice_de_Puesta_en_marcha_del_entorno_de_trabajo.md)
+* [1.- Esquema de la red de trabajo](doc/1.-_Esquema_de_la_red_de_trabajo.md)
+* [Ejercicio: Estudia el esquema de red implantado en tu centro](doc/Ejercicio:_Estudia_el_esquema_de_red_implantado_en_tu_centro.md)
+* [2.- Elección del entorno de trabajo: máquinas físicas o virtuales](doc/2.-_Eleccion_del_entorno_de_trabajo:_maquinas_fisicas_o_virtuales.md)
+* [Ejercicio: Selección de implementación a utilizar en el curso](doc/Ejercicio:_Seleccion_de_implementacion_a_utilizar_en_el_curso.md)
+* [3.- Instalación del sistema operativo](doc/3.-_Instalacion_del_sistema_operativo.md)
+* [Ejercicio: Instalación del sistema operativo](doc/Ejercicio:_Instalacion_del_sistema_operativo.md)
+* [4.- Configuración inicial del sistema](doc/4.-_Configuracion_inicial_del_sistema.md)
+* [Ejercicio: Configuración inicial](doc/Ejercicio:_Configuracion_inicial.md)
+* [Ejercicio: Utilización de APT y manejo básico del sistema](doc/Ejercicio:_Utilizacion_de_APT_y_manejo_basico_del_sistema.md)
+* [Finalización de la Unidad 0](doc/Finalizacion_de_la_Unidad_0.md)
+
+## <div style="text-align: center;"><img hspace="0" height="24" border="0" width="192" vspace="0" src="img/1.jpg" alt="1" title="1" /> </div>
+
+
+#### <span style="font-weight: bold; color: rgb(0, 0, 255);">UNIDAD 1.- NAT, LAMP, gestión de DNS externo</span>
+
+
+#### <hr style="width: 100%; height: 2px;" /><br />
+
+* [Indice de NAT, LAMP y gestión DNS externo](doc/Indice_de_NAT,_LAMP_y_gestion_DNS_externo.md)
+* [1.- NAT: Compartir una dirección IP pública entre varios equipos](doc/1.-_NAT:_Compartir_una_direccion_IP_publica_entre_varios_equipos.md)
+* [Ejercicio: Configuración de NAT del entorno de trabajo](doc/Ejercicio:_Configuracion_de_NAT_del_entorno_de_trabajo.md)
+* [2.- Instalación de un servidor LAMP (Linux, Apache, MySQL y PHP)](doc/2.-_Instalacion_de_un_servidor_LAMP__Linux,_Apache,_MySQL_y_PHP_.md)
+* [Instalación y configuración de apache [pdf]](files/apache.pdf)
+* [Ejercicio: Instalación del sistema LAMP](doc/Ejercicio:_Instalacion_del_sistema_LAMP.md)
+* [3.- Instalación de la plataforma educativa moodle](doc/3.-_Instalacion_de_la_plataforma_educativa_moodle.md)
+* [Ejercicio: Instalar la plataforma educativa moodle](doc/Ejercicio:_Instalar_la_plataforma_educativa_moodle.md)
+* [4.- Gestión de DNS externo](doc/4.-_Gestion_de_DNS_externo.md)
+* [Tarea: Acceso a moodle desde el exterior](doc/Tarea:_Acceso_a_moodle_desde_el_exterior.md)
+
+## <div style="text-align: center;"><img hspace="0" height="31" border="0" width="248" vspace="0" title="basico" alt="basico" src="img/basico.jpg" /><br /> </div>
+
+
+#### <span style="font-weight: bold; color: rgb(0, 0, 204);">UNIDAD 2. DHCP<br /></span><hr style="width: 100%; height: 2px;" /><span style="font-weight: bold; color: rgb(0, 0, 204);"><br /></span>
+
+* [Índice de DHCP](doc/Indice_de_DHCP.md)
+* [Documentación: Instalacion y configuración del servidor DHCP [dhcp.pdf]](files/dhcp.pdf)
+* [Ejercicio: Instalación y configuración del servidor DHCP](doc/Ejercicio:_Instalacion_y_configuracion_del_servidor_DHCP.md)
+* [Tarea: Configuración del servidor DHCP](doc/Tarea:_Configuracion_del_servidor_DHCP.md)
+
+#### <span style="font-weight: bold; color: rgb(0, 0, 255);">UNIDAD 3. DNS: Bind9<br /></span><hr style="width: 100%; height: 2px;" /><span style="font-weight: bold; color: rgb(0, 0, 255);"><br /></span>
+
+* [Índice de DNS: bind9](doc/Indice_de_DNS:_bind9.md)
+* [Documentación: Servidor de Nombres de Dominio: bind9 [pdf]](files/dns.pdf)
+* [Enlace: Javier Smaldone - Cómo funciona el DNS](http://blog.smaldone.com.ar/2006/12/05/como-funciona-el-dns/)
+* [Ejercicio: Consultas a un servidor DNS con dig](doc/Ejercicio:_Consultas_a_un_servidor_DNS_con_dig.md)
+* [Ejercicio: Resolución de nombres en nuestra intranet](doc/Ejercicio:_Resolucion_de_nombres_en_nuestra_intranet.md)
+* [Ejercicio: Instalación y configuración de Bind9 como servidor DNS maestro](doc/Ejercicio:_Instalacion_y_configuracion_de_Bind9_como_servidor_DNS_maestro.md)
+* [Tarea: Instalación y configuración del servidor bind9 en nuestra red local](doc/Tarea:_Instalacion_y_configuracion_del_servidor_bind9_en_nuestra_red_local.md)
+
+#### <span style="font-weight: bold; color: rgb(0, 0, 255);">UNIDAD 4. Proxy web: Squid<br /></span><hr style="width: 100%; height: 2px;" /><span style="font-weight: bold; color: rgb(0, 0, 255);"><br /></span>
+
+* [Índice de Proxy Web: Squid](doc/Indice_de_Proxy_Web:_Squid.md)
+* [Documentación: Squid, un proxy caché para GNU/Linux [pdf]](files/squid.pdf)
+* [Ejercicio: Instalación y configuración de squid](doc/Ejercicio:_Instalacion_y_configuracion_de_squid.md)
+* [Ejercicio: Control de acceso](doc/Ejercicio:_Control_de_acceso.md)
+* [Ejercicio: Autentificación de usuarios](doc/Ejercicio:_Autentificacion_de_usuarios.md)
+* [Tarea: Instalación y configuración del proxy-cache squid](doc/Tarea:_Instalacion_y_configuracion_del_proxy-cache_squid.md)
+
+#### <span style="font-weight: bold; color: rgb(0, 0, 255);">UNIDAD 5. Cortafuegos con iptables </span>
+
+* [Índice de cortafuegos con iptables](doc/Indice_de_cortafuegos_con_iptables.md)
+* [Documentación: Cortafuegos en GNU/Linux con iptables [iptables.pdf]](files/iptables.pdf)
+* [Ejercicio: Cortafuegos elemental con política DROP](doc/Ejercicio:_Cortafuegos_elemental_con_politica_DROP.md)
+* [Ejercicio: Abrir puertos en un cortafuegos con política DROP](doc/Ejercicio:_Abrir_puertos_en_un_cortafuegos_con_politica_DROP.md)
+* [Cortafuegos con iptables con política por defecto DROP](doc/Cortafuegos_con_iptables_con_politica_por_defecto_DROP.md)
+
+#### <span style="font-weight: bold; color: rgb(0, 0, 255);">UNIDAD 6. Correo electrónico: postfix</span>
+
+* [Índice de correo electrónico: Postfix](doc/Indice_de_correo_electronico:_Postfix.md)
+* [Documentación: correo electrónico (Postfix)](files/correo-e.pdf)
+
+#### <br /><u>Documentación formato web</u>
+
+* [Directivas a configurar](doc/Directivas_a_configurar.md)
+* [Ejercicio: Configuración](doc/Ejercicio:_Configuracion.md)
+* [Ficheros](doc/Ficheros.md)
+* [Ejercicio: ficheros del servidor](doc/Ejercicio:_ficheros_del_servidor.md)
+* [Ejemplos preliminares. Correo en Avatar](doc/Ejemplos_preliminares._Correo_en_Avatar.md)
+* [Ejercicio: correo local](doc/Ejercicio:_correo_local.md)
+* [Avatar como servidor de correo de los clientes de nuestra red](doc/Avatar_como_servidor_de_correo_de_los_clientes_de_nuestra_red.md)
+* [Ejercicio: correo interno en la red MZ](doc/Ejercicio:_correo_interno_en_la_red_MZ.md)
+* [Configuración de Postfix a través de un relay host autenticado](doc/Configuracion_de_Postfix_a_traves_de_un_relay_host_autenticado.md)
+* [Ejercicio: configuración; solución a los casos 3 y 5.](doc/Ejercicio:_configuracion;_solucion_a_los_casos_3_y_5..md)
+* [Lectura del correo: Dovecot IMAP + POP](doc/Lectura_del_correo:_Dovecot_IMAP_+_POP.md)
+* [Ejercicio: Lectura desde un cliente](doc/Ejercicio:_Lectura_desde_un_cliente.md)
+* [Ejercicio: Squirrelmail como webmail](doc/Ejercicio:_Squirrelmail_como_webmail.md)
+* [Tarea: Envío y recepción de correos entre usuarios de nuestro dominio y usuarios de dominios externos.](doc/Tarea:_Envio_y_recepcion_de_correos_entre_usuarios_de_nuestro_dominio_y_usuarios_de_dominios_externos..md)
+
+## <div style="text-align: center;"><img border="0" width="248" vspace="0" hspace="0" height="31" title="intermedio" alt="intermedio" src="img/intermedio.jpg" /> </div>
+
+
+#### <span style="font-weight: bold; color: rgb(0, 0, 255);"> UNIDAD 7. DNS Dinámico<br /></span>
+
+* [Índice de DNS Dinámico](doc/Indice_de_DNS_Dinamico.md)
+* [Utilización de DNS dinámico en una red local](doc/Utilizacion_de_DNS_dinamico_en_una_red_local.md)
+* [ddns.pdf](files/ddns.pdf)
+* [Esquema: Proceso [jpeg]](files/EsquemaProceso.jpeg)
+* [Esquema: Servidor DHCP [jpeg]](files/EsquemaFicherosDHCP.jpeg)
+* [Esquema: Servidor DNS [jpeg]](files/EsquemaFicherosDNS.jpeg)
+* [Tarea: Registros de funcionamiento ddns](doc/Tarea:_Registros_de_funcionamiento_ddns.md)
+
+#### <span style="font-weight: bold; color: rgb(0, 0, 255);">UNIDAD 8. Web segura: https</span>
+
+* [Índice de web segura: https](doc/Indice_de_web_segura:_https.md)
+* [Documentación: HTTPS en Apache2 [https.pdf]](files/https.pdf)
+* [Tarea: Acceso a avatar mediante https](doc/Tarea:_Acceso_a_avatar_mediante_https.md)
+
+#### <span style="font-weight: bold; color: rgb(0, 0, 255);">UNIDAD 9. Sistema centralizado de cuentas: Kerberos, LDAP y NFS4</span>
+
+* [Índice de Sistema centralizado de cuentas: Kerberos, LDAP y NFS4](doc/Indice_de_Sistema_centralizado_de_cuentas:_Kerberos,_LDAP_y_NFS4.md)
+* [Documentación: Sistema de cuentas de usuario centralizadas con Kerberos 5, OpenLDAP y NFS4 [pdf]](files/krb_ldap.pdf)
+* [Tarea: Creación de un sistema de cuentas centralizadas](doc/Tarea:_Creacion_de_un_sistema_de_cuentas_centralizadas.md)
+
+#### <span style="font-weight: bold; color: rgb(0, 0, 255);">UNIDAD 10. Gestión remota, estado del sistema, actualizaciones y copias de seguridad</span>
+
+* [Índice de gestión remota, estado del sistema, actualizaciones y copias de seguridad](doc/Indice_de_gestion_remota,_estado_del_sistema,_actualizaciones_y_copias_de_seguridad.md)
+* [Documentación: Utilización elemental de ssh](files/ssh.pdf)
+* [Ejercicio: Gestión remota usando SSH](doc/Ejercicio:_Gestion_remota_usando_SSH.md)
+* [Ejercicio: Registro de actividades del sistema: logcheck](doc/Ejercicio:_Registro_de_actividades_del_sistema:_logcheck.md)
+* [Ejercicio: Herramientas para gestionar las actualización de paquetes](doc/Ejercicio:_Herramientas_para_gestionar_las_actualizacion_de_paquetes.md)
+* [Ejercicio: Planificación y realización de copias de seguridad del servidor](doc/Ejercicio:_Planificacion_y_realizacion_de_copias_de_seguridad_del_servidor.md)
+* [Ejercicio: Sincronización de directorios con Unison](doc/Ejercicio:_Sincronizacion_de_directorios_con_Unison.md)
+* [Enlace: Configuración de una tarea Cron](http://www.redhat.com/docs/manuals/enterprise/RHEL-5-manual/es-ES/Deployment_Guide/s2-autotasks-cron-configuring.html)
+* [Enlace: Programación en BASH](http://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html)
+* [Tarea: Gestión remota, estado del sistema, actualizaciones y copias de seguridad](doc/Tarea:_Gestion_remota,_estado_del_sistema,_actualizaciones_y_copias_de_seguridad.md)
+

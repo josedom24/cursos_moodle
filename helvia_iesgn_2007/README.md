@@ -1,10 +1,10 @@
 # Curso HELVIA - IES Gonzalo Nazareno (2007)
 
-# Curso impartido en el instituto IES Gonzalo Nazareno sobre la plataforma educativa HELVIA.<br />
+## Curso impartido en el instituto IES Gonzalo Nazareno sobre la plataforma educativa HELVIA.
 
 
 ##  <br />
-<div style="text-align: center;"><img vspace="0" hspace="0" border="0" title="helvia" alt="helvia" src="http://www.ceiplaleala.org/media/img/helvia.gif" /><br /><br /><span style="font-weight: bold;">Plataforma Educativa Helvia</span><br style="font-weight: bold;" /><span style="font-weight: bold;">Curso Impartido en el IES Gonzalo Nazareno</span><br style="font-weight: bold;" /><span style="font-weight: bold;">Noviembre de 2007<br /></span><font size="4"><font size="4"><font size="3"><br /></font></font><font size="4"><a href="http://creativecommons.org/licenses/by/2.5/es/deed.es"><img vspace="0" hspace="0" border="0" title="cc" alt="cc" src="http://es.creativecommons.org/images/somerights20.png" /></a><br /><br /><br /></font></font></div>
+<div style="text-align: center;"><span style="font-weight: bold;">Plataforma Educativa Helvia</span><br style="font-weight: bold;" /><span style="font-weight: bold;">Curso Impartido en el IES Gonzalo Nazareno</span><br style="font-weight: bold;" /><span style="font-weight: bold;">Noviembre de 2007<br /></span><font size="4"><font size="4"><font size="3"><br /></font></font><font size="4"><a href="http://creativecommons.org/licenses/by/2.5/es/deed.es"><img vspace="0" hspace="0" border="0" title="cc" alt="cc" src="http://es.creativecommons.org/images/somerights20.png" /></a><br /><br /><br /></font></font></div>
 <div style="text-align: center;"> </div>
 
 * Novedades (forum)

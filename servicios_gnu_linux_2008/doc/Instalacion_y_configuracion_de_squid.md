@@ -1,0 +1,2 @@
+# Instalación y configuración de squid
+<div style="text-align: justify;">Configura squid en el host de VMware para que puedan acceder los equipos de la red virtual 10.0.0.0/24 y tengan restringido el acceso a varios dominios utilizando ACL con &quot;url_regex&quot;. Por ejemplo:<br /><br />acl descargas_directas url_regex megaupload rapidshare gigasize<br />. <br />.<br />.<br />http_access deny descargas_directas<br /> </div>

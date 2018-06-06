@@ -1,0 +1,2 @@
+# Instalación de phpmyadmin
+d

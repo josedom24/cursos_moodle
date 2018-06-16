@@ -2,9 +2,9 @@
 
 Muchos CMS incluyen módulos para diferentes mecanismos de autenticación, como un ejemplo de ellos veremos la autenticación de usuarios en moodle sobre LDAP. La ventaja principal de esto es que permite tener un sistema único de auntenticación para todas las aplicaciones de una organización.
 
-Vamos a seguir los pasos que se describen en "LDAP Authentication" de la documentación oficial de Moodle y que aparece en Enlaces recomendados.
+Vamos a seguir los pasos que se describen en "LDAP Authentication" de la documentación oficial de Moodle y que aparece en *Enlaces recomendados*.
 
-Entramos en moodle con el perfil de administrador y vamos a *Administración del sitio>>Usuarios>>Autenticación>>Administrar autenticación* y en la tabla que aparece activamos *"Usar un servidor LDAP"* y hacemos click en *Configuración*.
+Entramos en moodle con el perfil de administrador y vamos a *Administración del sitio >> Usuarios >> Autenticación >> Administrar autenticación* y en la tabla que aparece activamos *"Usar un servidor LDAP"* y hacemos click en *Configuración*.
 
 Obtendremos la pantalla en la que tendremos que introducir todos los datos de la conexión con el servidor y las características de nuestros usuarios.
 

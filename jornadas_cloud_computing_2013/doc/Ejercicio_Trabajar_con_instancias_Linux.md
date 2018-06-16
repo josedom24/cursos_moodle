@@ -152,6 +152,7 @@ Vamos a crear una instancia de una imagen de un sistema operativo Linux Debian. 
 4. Crea una instancia de la imagen Debian-kvm. Puedes elegir el sabor vda.vdb0.micro.Accede a ella utilizando la consola VNC, para ello pulsa sobre el nombre de la instancia (desde el apartado Instances & Volumnes) y a la pestaña VNC.
 
 > **IP privada**: Dirección IP con la que se crean las instancias y que se utiliza para comunicación interna.
+
 > **IP flotante:** Dirección IP pública que puede asociarse a diferentes instancias con el fin de acceder a ellas desde fuera.
 
 5. Para poder acceder a nuestra instancia desde el exterior tenemos que asignarle a la instancia una IP flotante, para ello desde el apartado "Access & Security" solicita una nueva IP flotante (Allocate IP to project) y asígnala a la instancia que has creado.

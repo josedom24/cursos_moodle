@@ -12,7 +12,7 @@
 Vamos a crear una instancia de una imagen de un sistema operativo Linux Debian. La particularidad de este sistema operativo es que tiene establecido un nombre de usuario y una contraseña (root / usuario).
 
 > Un **sabor (flavor)** define para una instancia el número de CPUs virtuales, la RAM, si dispone o no de discos efímeros, etc. OpenStack preinstala una serie de sabores, que el administrador puede modificar.Los sabores que nosotros hemos definido son los siguientes:
-<table border="1">
+<table>
 <tbody>
 <tr><th>nombre</th><th>RAM (MiB)</th><th>vda (GiB)</th><th>vdb (GiB)</th><th>vcpu</th></tr>
 <tr>

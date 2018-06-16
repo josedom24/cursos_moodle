@@ -58,6 +58,8 @@ Introducción a los servicios en GNU/Linux de Alberto Molina Coballes y José Do
 
 ![](img/plantilla2.jpg)
 
+## Servidor DNS
+
 * [Índice de DNS](doc/Indice_de_DNS.md)
 
 ### Documentación
@@ -76,6 +78,8 @@ Introducción a los servicios en GNU/Linux de Alberto Molina Coballes y José Do
 * [Instalación y configuración de Bind9 como servidor DNS master en una red local](doc/Instalacion_y_configuracion_de_Bind9_como_servidor_DNS_master_en_una_red_local.md)
 
 ![](img/plantilla3.jpg)
+
+## Servidor DHCP
 
 * [Indice de DHCP](doc/Indice_de_DHCP.md)
 
@@ -98,6 +102,8 @@ Introducción a los servicios en GNU/Linux de Alberto Molina Coballes y José Do
 
 ![](img/plantilla4.jpg)
 
+## Servidor LDAP
+
 * [Índice de OpenLDAP](doc/Indice_de_OpenLDAP.md)
 
 ### Documentación
@@ -117,6 +123,8 @@ Introducción a los servicios en GNU/Linux de Alberto Molina Coballes y José Do
 * [Configurar un equipo cliente para autenticación mediante LDAP](doc/Configurar_un_equipo_cliente_para_autenticacion_mediante_LDAP.md)
 
 ![](img/plantilla5.jpg)
+
+## servidor de correo electrónico
 
 * [Índice de correo electrónico](doc/Indice_de_correo_electronico.md)
 
@@ -140,6 +148,8 @@ Introducción a los servicios en GNU/Linux de Alberto Molina Coballes y José Do
 
 ![](img/plantilla6.jpg)
 
+# Servidor FTP
+
 * [Indice de servidor FTP](doc/Indice_de_servidor_FTP.md)
 
 ### Documentación
@@ -157,6 +167,8 @@ Introducción a los servicios en GNU/Linux de Alberto Molina Coballes y José Do
 * [Creación de un FTP Anónimo](doc/Creacion_de_un_FTP_Anonimo.md)
 
 ![](img/plantilla7.jpg)
+
+## LAMP: Linux, Apache, mySql, PHP
 
 * [Indice de LAMP](doc/Indice_de_LAMP.md)
 
@@ -193,6 +205,8 @@ Introducción a los servicios en GNU/Linux de Alberto Molina Coballes y José Do
 
 ![](img/plantilla8.jpg)
 
+## NAT y Proxy
+
 * [Índice de NAT y proxy](doc/Indice_de_NAT_y_proxy.md)
 
 ### Documentación
@@ -212,6 +226,8 @@ Introducción a los servicios en GNU/Linux de Alberto Molina Coballes y José Do
 * [Configuración de un proxy APT con approx](doc/Configuracion_de_un_proxy_APT_con_approx.md)
 
 ![](img/plantilla9.jpg)
+
+## NFS, SAMBA y Mdns
 
 * [Índice de ficheros en red: NFS, SAMBA y Mdns](doc/Indice_de_ficheros_en_red:_NFS,_SAMBA_y_Mdns.md)
 
@@ -235,6 +251,8 @@ Introducción a los servicios en GNU/Linux de Alberto Molina Coballes y José Do
 * [Compartir fichero con Mdns y avahi](doc/Compartir_fichero_con_Mdns_y_avahi.md)
 
 ![](img/plantilla10.jpg)
+
+## Cortafuegos con iptables
 
 * [Índice de cortafuegos: iptables](doc/Indice_de_cortafuegos:_iptables.md)
 

@@ -7,7 +7,7 @@
 **Curso Impartido en el IES Gonzalo Nazareno**
 **Noviembre de 2007**
 
-[http://creativecommons.org/licenses/by/2.5/es/deed.es](![http://es.creativecommons.org/images/somerights20.png](http://es.creativecommons.org/images/somerights20.png))
+[![http://es.creativecommons.org/images/somerights20.png](http://es.creativecommons.org/images/somerights20.png)](http://creativecommons.org/licenses/by/2.5/es/deed.es)
 
 
 ## Introducción 
@@ -63,7 +63,7 @@
 * [Curso de Helvia (CEP El Ejido)](http://www.juntadeandalucia.es/averroes/cepdeelejido/moodle/course/view.php?id=24)
 * [Más en PLEDIN...](http://www.josedomingo.org/web/course/view.php?id=27)
 
-[http://creativecommons.org/licenses/by/2.5/es/deed.es](![http://es.creativecommons.org/images/somerights20.png](http://es.creativecommons.org/images/somerights20.png))
+[![http://es.creativecommons.org/images/somerights20.png](http://es.creativecommons.org/images/somerights20.png)](http://creativecommons.org/licenses/by/2.5/es/deed.es)
 
 Referencias:
 

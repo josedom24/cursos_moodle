@@ -16,7 +16,7 @@
 ![](img/plantilla0.jpg)
 
 
-[![http://i.creativecommons.org/l/by-sa/3.0/88x31.png]()](http://creativecommons.org/licenses/by-sa/3.0/)
+[![](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/)
 
 Introducción a los servicios en GNU/Linux de Alberto Molina Coballes y José Domingo Muñoz Rodríguez tiene licencia [Creative Commons Reconocimiento-Compartir bajo la misma licencia 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/). La versión inicial de este trabajo está en [www.loracep.org](http://www.loracep.org/moodle/course/view.php?id=27).
 

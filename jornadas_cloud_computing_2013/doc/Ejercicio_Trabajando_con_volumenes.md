@@ -1,4 +1,4 @@
-# Ejercicio: Trabajando con volúmenes
+# Ejercicio - Trabajando con volúmenes
 
 1. Desde el menú Instances and volumes, crea un volumen (create volume) de 1 GB de capacidad.
 2. Selecciona la acción "Edit Attachments" sobre el volumen creado y asocialo a una imágen WIndows que hayas creado anteriormente.

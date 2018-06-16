@@ -1,4 +1,4 @@
-# Ejercicio: Trabajar con instancias Windows
+# Ejercicio - Trabajar con instancias Windows
 
 Siguiendo el video-tutorial anterior vamos a crear una instancia de una imagen de un sistema operativo Windows, ten en cuenta algunas cosas:
 

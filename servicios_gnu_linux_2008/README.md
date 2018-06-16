@@ -28,6 +28,8 @@ Introducción a los servicios en GNU/Linux de Alberto Molina Coballes y José Do
 
 ![](img/plantilla1.jpg)
 
+## Introdución
+
 * [Índice de introducción](doc/Indice_de_introduccion.md)
 
 ### Documentación

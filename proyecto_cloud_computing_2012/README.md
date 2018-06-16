@@ -2,7 +2,7 @@
 
 ## Proyecto de Innovación Implantación y puesta a punto de la infraestructura de un cloud computing privado para el despliegue de servicios en la nube
 
-![](img/fse_ministerio_ancho_texto.png)
+![](img/fse_ministerio_ancho_texto.png =50%)
 
 ![](img/By-sa.png)
 

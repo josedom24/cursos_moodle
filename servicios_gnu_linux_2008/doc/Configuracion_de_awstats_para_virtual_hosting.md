@@ -7,11 +7,11 @@ En la documentación que ofrecemos se muestra como instalar awstats en unservido
     * `www.ies.org`, guarde los logs en `/var/log/apache2/access_ies.log`
     * `informatica.ies.org`, guarde los logs en `/var/log/aapache2/access_inf.log`
 
-  Por ejemplo:  
+    Por ejemplo:  
   
-    CustomLog /var/log/apache2/access_ies.log combined
+        CustomLog /var/log/apache2/access_ies.log combined
 
-  La opción `combined` ofrece información adicional (SO, navegador, ...) del cliente en el log.  
+    La opción `combined` ofrece información adicional (SO, navegador, ...) del cliente en el log.  
   
 2. Crea dos ficheros de configuración distintos para awstats para cada nombre de dominio.  
 3. Ahora tienes que generar los ficheros de estadísticas dos veces, utilizando los distintos ficheros de configuración que has creado.

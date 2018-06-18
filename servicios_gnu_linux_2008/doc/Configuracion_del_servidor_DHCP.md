@@ -49,7 +49,9 @@ Ejemplo de configuración de la sección subnet puede ser:
 * Vamos a configurar el cliente DHCP. Comprueba antes si está instalado en el ordenador cliente.
 * Tenemos que indicarle al servidor la interfaz de red por donde va a ofrecer direcciones IP. Para ello edita el fichero `/etc/default/dhcp3-server` e indica la intefaz de red en el parámetro INTERFACES.
 * Configura el servidor para que od direcciones IP dinámicamente. Cuando lo hagas, y tras haber arrancado de nuevo la red del cliente, comprueba que ha tomado una IP del rango del servidor DHCP.  
-    
+
+## Reservas
+
 Veamos la sección host, en ella configuramos un host para reservar una dirección IP para él.  
   
 En una sección host debemos poner el nombre que identifica al host y los siguientes parámetros:  

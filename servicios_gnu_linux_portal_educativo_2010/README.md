@@ -1,9 +1,11 @@
 # Servicios en GNU/Linux. Portal Educativo (2010)
 
-## <div style="text-align: center;"><img hspace="0" height="100" border="0" width="400" vspace="0" src="img/titulo.jpg" alt="serv" title="serv" /> </div>
+![](img/titulo.jpg)
 
 
-#### <div style="text-align: center;"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width: 0pt;" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><br /></div>Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domingo Muñoz Rodríguez y José Luis Rodríguez Rodríguez tiene licencia <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Reconocimiento-Compartir bajo la misma licencia 3.0</a><br /><br />
+[![](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/)
+
+Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domingo Muñoz Rodríguez y José Luis Rodríguez Rodríguez tiene licencia [Creative Commons Reconocimiento-Compartir bajo la misma licencia 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/)
 
 * [Convocatoria del curso](files/104132FC014_CURSO_LINUX.pdf)
 * [leeme.pdf](files/leeme.pdf)

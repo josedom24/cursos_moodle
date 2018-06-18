@@ -7,9 +7,9 @@ En este ejercicio vamos a realizar un script en bash para realizar las copias de
 1. Realiza el proceso de forma completamente automático: Para ello vamos a hacer que el script de copia de seguridad se ejecute en el cron diariamente.  
 2. Decidir qué información es necesaria guardar: Con los servicios que hemos ido instalando durante este curso, hemos decidido hacer copia de seguridad de los siguientes directorios:  
   
-  * `/etc` `/home` `/root` `/var/cache/bind` `/var/log` `/var/lib` `/usr/local` `/var/www`,  
+    * `/etc` `/home` `/root` `/var/cache/bind` `/var/log` `/var/lib` `/usr/local` `/var/www`,  
     
-  además vamos a hacer una copia de seguridad de la lista de paquetes actualmente instalado en el sistema. La lista de directorios la podemos guardar en una variable $DIRS.  
+    además vamos a hacer una copia de seguridad de la lista de paquetes actualmente instalado en el sistema. La lista de directorios la podemos guardar en una variable $DIRS.  
 3. Utilizar la herramienta tar: La sintaxis que se ha usado para el comando `tar` es:  
     * Completa: `tar czf $FICHERO_TGZ $DIRS`
     * Incremental: `tar czf $FICHEROTGZ $DIRS -N $FECHA_AYER`
@@ -20,7 +20,7 @@ En este ejercicio vamos a realizar un script en bash para realizar las copias de
 7. Semanalmente realizar una copia completa: Para llevar a cabo esta acción, podemos controlar qué día es cuando se ejecuta el script. Así, con sentencias de control (`if`) realizaremos un tipo de copia u otra. Para averiguar si es domingo o cualquier otro día he usado: `date +%w`. El comando anterior devuelve '0' en caso de ser domingo. En caso contrario devuelve números del 1 al 6 (de lunes de sábado respectivamente).  
 8. Diariamente realizar una copia incremental: La ventaja principal de usar la copia incremental es el poco tamaño que ocupa cada copia incremental (depende de cuántos ficheros se modifiquen). La desventaja principal es que deben existir todas las copias incrementales previas a la del último día para mantener todos los datos cuando haya que restaurarla. En este caso se hará una copia incremental cada día tomando como intervalo de modificación de un fichero el día anterior. Es decir, en cada copia se guardarán los ficheros que hayan sido modificados desde el día anterior (manteniendo su estructura en el sistema de directorios). La sintaxis para realizar la copia la hemos indicado anteriormente, pero para poder obtener el día anterior de la fecha actual se ha usado el siguiente comando: ++date -d yesterday +%F++  
 
-  Al realizar copias incrementales, no se puede permitir que no exista la copia de un día. Para ello se ha creado un fichero de control llamado 'lastcopy' que tendrá en cuenta cuándo fue el último día que se realizó una copia. Así, la copia incremental se realizará desde dicho día.
+    Al realizar copias incrementales, no se puede permitir que no exista la copia de un día. Para ello se ha creado un fichero de control llamado 'lastcopy' que tendrá en cuenta cuándo fue el último día que se realizó una copia. Así, la copia incremental se realizará desde dicho día.
   
 Algunas observaciones a tener en cuenta:  
 

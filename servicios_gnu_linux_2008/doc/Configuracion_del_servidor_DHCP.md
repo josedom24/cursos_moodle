@@ -54,10 +54,11 @@ Veamos la sección host, en ella configuramos un host para reservar una direcci�
   
 En una sección host debemos poner el nombre que identifica al host y los siguientes parámetros:  
 
-  * `hardware ethernet`: Es la dirección MAC de la tarjeta de red del host.
-  * `fixed-adress`: La dirección IP que le vamos a asignar.
-  * Podemos usar también las opciones ya explicadas en la sección principal.
+* `hardware ethernet`: Es la dirección MAC de la tarjeta de red del host.
+* `fixed-adress`: La dirección IP que le vamos a asignar.
+* Podemos usar también las opciones ya explicadas en la sección principal.
 
+Ejercicios a realizar:
 
 * Utilizando la instrucción `ifconfig` obtén la dirección MAC de la interfaz de red de tu cliente.
 * Crea en el servidor DHCP una sección HOST para conceder a tu cliente una dirección IP determinada.

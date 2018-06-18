@@ -13,6 +13,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 * [Cómo obtener la certificación del curso](doc/Como_obtener_la_certificacion_del_curso.md)
 
 ![](img/comunes.jpg)
+
 ![](img/t0.jpg)
 
 

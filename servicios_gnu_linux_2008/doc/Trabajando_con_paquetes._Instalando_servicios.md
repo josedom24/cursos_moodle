@@ -69,4 +69,4 @@ Con la opción -p podemos indicar el nivel de detalle que se hará la configurac
   
 * Reconfigura el paquete debconf, que se encarga precisamente de la configuración de los paquetes debian.  
 
-        dpkg-reconfigure debconf
+        dpkg-reconfigure debconf  

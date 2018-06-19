@@ -1,4 +1,4 @@
-\# Ficheros 
+# Ficheros 
 
 Use el siguiente árbol para localizar los ficheros de Postfix:
 

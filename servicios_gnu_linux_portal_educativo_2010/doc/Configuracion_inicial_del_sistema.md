@@ -6,7 +6,7 @@ Durante la instalación del sistema la mayoría de los parámetros que comentamo
 
 Siguiendo el primer esquema de red propuesto:  
 
-![1](..img/alt1.png "1")  
+![1](../img/alt1.png "1")  
 
 Vamos a determinar la configuración de cada interfaz de red de avatar:  
 

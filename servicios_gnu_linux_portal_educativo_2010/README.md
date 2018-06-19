@@ -79,7 +79,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 
 * [Índice de cortafuegos con iptables](doc/Indice_de_cortafuegos_con_iptables.md)
 * [Documentación: Cortafuegos en GNU/Linux con iptables [iptables.pdf]](files/iptables.pdf)
-* [Ejercicio: Cortafuegos elemental con política DROP](doc/Ejercicio:_Cortafuegos_elemental_con_politica_DROP.md)
+* [Ejercicio: Cortafuegos elemental con política DROP](doc/Ejercicio_Cortafuegos_elemental_con_politica_DROP.md)
 * [Ejercicio: Abrir puertos en un cortafuegos con política DROP](doc/Ejercicio_Abrir_puertos_en_un_cortafuegos_con_politica_DROP.md)
 * [Cortafuegos con iptables con política por defecto DROP](doc/Cortafuegos_con_iptables_con_politica_por_defecto_DROP.md)
 

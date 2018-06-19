@@ -82,11 +82,11 @@ Servicios en GNU/Linux (Nivel intermedio) de Alberto Molina Coballes, José Domi
 
 * [Índice de gestión remota, estado del sistema, actualizaciones y copias de seguridad](doc/Indice_de_gestion_remota,_estado_del_sistema,_actualizaciones_y_copias_de_seguridad.md)
 * [Utilización elemental de ssh](files/ssh.pdf)
-* [Ejercicio: Gestión remota usando SSH](doc/Ejercicio:_Gestion_remota_usando_SSH.md)
-* [Ejercicio: Registro de actividades del sistema: logcheck](doc/Ejercicio:_Registro_de_actividades_del_sistema:_logcheck.md)
-* [Ejercicio: Herramientas para gestionar las actualización de paquetes](doc/Ejercicio:_Herramientas_para_gestionar_las_actualizacion_de_paquetes.md)
-* [Ejercicio: Planificación y realización de copias de seguridad del servidor](doc/Ejercicio:_Planificacion_y_realizacion_de_copias_de_seguridad_del_servidor.md)
-* [Ejercicio: Sincronización de directorios con Unison](doc/Ejercicio:_Sincronizacion_de_directorios_con_Unison.md)
+* [Ejercicio: Gestión remota usando SSH](doc/Ejercicio_Gestion_remota_usando_SSH.md)
+* [Ejercicio: Registro de actividades del sistema: logcheck](doc/Ejercicio_Registro_de_actividades_del_sistema:_logcheck.md)
+* [Ejercicio: Herramientas para gestionar las actualización de paquetes](doc/Ejercicio_Herramientas_para_gestionar_las_actualizacion_de_paquetes.md)
+* [Ejercicio: Planificación y realización de copias de seguridad del servidor](doc/Ejercicio_Planificacion_y_realizacion_de_copias_de_seguridad_del_servidor.md)
+* [Ejercicio: Sincronización de directorios con Unison](doc/Ejercicio_Sincronizacion_de_directorios_con_Unison.md)
 * [Tarea: Gestión remota, estado del sistema, actualizaciones y copias de seguridad](doc/Tarea:_Gestion_remota,_estado_del_sistema,_actualizaciones_y_copias_de_seguridad.md)
 
 

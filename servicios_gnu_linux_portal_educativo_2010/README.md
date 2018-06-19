@@ -61,7 +61,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 * [Índice de DNS: bind9](doc/Indice_de_DNS:_bind9.md)
 * [Documentación: Servidor de Nombres de Dominio: bind9 [pdf]](files/dns.pdf)
 * [Enlace: Javier Smaldone - Cómo funciona el DNS](http://blog.smaldone.com.ar/2006/12/05/como-funciona-el-dns/)
-* [Ejercicio: Consultas a un servidor DNS con dig](doc/Ejercicio:_Consultas_a_un_servidor_DNS_con_dig.md)
+* [Ejercicio: Consultas a un servidor DNS con dig](doc/Ejercicio_Consultas_a_un_servidor_DNS_con_dig.md)
 * [Ejercicio: Resolución de nombres en nuestra intranet](doc/Ejercicio:_Resolucion_de_nombres_en_nuestra_intranet.md)
 * [Ejercicio: Instalación y configuración de Bind9 como servidor DNS maestro](doc/Ejercicio:_Instalacion_y_configuracion_de_Bind9_como_servidor_DNS_maestro.md)
 * [Tarea: Instalación y configuración del servidor bind9 en nuestra red local](doc/Tarea:_Instalacion_y_configuracion_del_servidor_bind9_en_nuestra_red_local.md)
@@ -71,7 +71,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 * [Índice de Proxy Web: Squid](doc/Indice_de_Proxy_Web:_Squid.md)
 * [Documentación: Squid, un proxy caché para GNU/Linux [pdf]](files/squid.pdf)
 * [Ejercicio: Instalación y configuración de squid](doc/Ejercicio:_Instalacion_y_configuracion_de_squid.md)
-* [Ejercicio: Control de acceso](doc/Ejercicio:_Control_de_acceso.md)
+* [Ejercicio: Control de acceso](doc/Ejercicio_Control_de_acceso.md)
 * [Ejercicio: Autentificación de usuarios](doc/Ejercicio_Autentificacion_de_usuarios.md)
 * [Tarea: Instalación y configuración del proxy-cache squid](doc/Tarea:_Instalacion_y_configuracion_del_proxy-cache_squid.md)
 

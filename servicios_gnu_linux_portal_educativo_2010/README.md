@@ -72,7 +72,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 * [Documentación: Squid, un proxy caché para GNU/Linux [pdf]](files/squid.pdf)
 * [Ejercicio: Instalación y configuración de squid](doc/Ejercicio:_Instalacion_y_configuracion_de_squid.md)
 * [Ejercicio: Control de acceso](doc/Ejercicio:_Control_de_acceso.md)
-* [Ejercicio: Autentificación de usuarios](doc/Ejercicio:_Autentificacion_de_usuarios.md)
+* [Ejercicio: Autentificación de usuarios](doc/Ejercicio_Autentificacion_de_usuarios.md)
 * [Tarea: Instalación y configuración del proxy-cache squid](doc/Tarea:_Instalacion_y_configuracion_del_proxy-cache_squid.md)
 
 ## UNIDAD 5. Cortafuegos con iptables 

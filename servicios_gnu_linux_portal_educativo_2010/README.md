@@ -27,7 +27,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 * [3.- Instalación del sistema operativo](doc/Instalacion_del_sistema_operativo.md)
 * [Ejercicio: Instalación del sistema operativo](doc/Ejercicio:_Instalacion_del_sistema_operativo.md)
 * [4.- Configuración inicial del sistema](doc/Configuracion_inicial_del_sistema.md)
-* [Ejercicio: Configuración inicial](doc/Ejercicio:_Configuracion_inicial.md)
+* [Ejercicio: Configuración inicial](doc/Ejercicio_Configuracion_inicial.md)
 * [Ejercicio: Utilización de APT y manejo básico del sistema](doc/Ejercicio:_Utilizacion_de_APT_y_manejo_basico_del_sistema.md)
 * [Finalización de la Unidad 0](doc/Finalizacion_de_la_Unidad_0.md)
 
@@ -37,7 +37,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 
 * [Indice de NAT, LAMP y gestión DNS externo](doc/Indice_de_NAT,_LAMP_y_gestion_DNS_externo.md)
 * [1.- NAT: Compartir una dirección IP pública entre varios equipos](doc/NAT:_Compartir_una_direccion_IP_publica_entre_varios_equipos.md)
-* [Ejercicio: Configuración de NAT del entorno de trabajo](doc/Ejercicio:_Configuracion_de_NAT_del_entorno_de_trabajo.md)
+* [Ejercicio: Configuración de NAT del entorno de trabajo](doc/Ejercicio_Configuracion_de_NAT_del_entorno_de_trabajo.md)
 * [2.- Instalación de un servidor LAMP (Linux, Apache, MySQL y PHP)](doc/Instalacion_de_un_servidor_LAMP__Linux,_Apache,_MySQL_y_PHP_.md)
 * [Instalación y configuración de apache [pdf]](files/apache.pdf)
 * [Ejercicio: Instalación del sistema LAMP](doc/Ejercicio:_Instalacion_del_sistema_LAMP.md)
@@ -99,7 +99,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 * [Avatar como servidor de correo de los clientes de nuestra red](doc/Avatar_como_servidor_de_correo_de_los_clientes_de_nuestra_red.md)
 * [Ejercicio: correo interno en la red MZ](doc/Ejercicio:_correo_interno_en_la_red_MZ.md)
 * [Configuración de Postfix a través de un relay host autenticado](doc/Configuracion_de_Postfix_a_traves_de_un_relay_host_autenticado.md)
-* [Ejercicio: configuración; solución a los casos 3 y 5.](doc/Ejercicio:_configuracion;_solucion_a_los_casos_3_y_5..md)
+* [Ejercicio: configuración; solución a los casos 3 y 5.](doc/Ejercicio_configuracion\_solucion_a_los_casos_3_y_5.md)
 * [Lectura del correo: Dovecot IMAP + POP](doc/Lectura_del_correo:_Dovecot_IMAP_+_POP.md)
 * [Ejercicio: Lectura desde un cliente](doc/Ejercicio:_Lectura_desde_un_cliente.md)
 * [Ejercicio: Squirrelmail como webmail](doc/Ejercicio:_Squirrelmail_como_webmail.md)

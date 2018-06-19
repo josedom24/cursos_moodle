@@ -95,7 +95,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 * [Ficheros](doc/Ficheros.md)
 * [Ejercicio: ficheros del servidor](doc/Ejercicio:_ficheros_del_servidor.md)
 * [Ejemplos preliminares. Correo en Avatar](doc/Ejemplos_preliminares_Correo_en_Avatar.md)
-* [Ejercicio: correo local](doc/Ejercicio:_correo_local.md)
+* [Ejercicio: correo local](doc/Ejercicio_correo_local.md)
 * [Avatar como servidor de correo de los clientes de nuestra red](doc/Avatar_como_servidor_de_correo_de_los_clientes_de_nuestra_red.md)
 * [Ejercicio: correo interno en la red MZ](doc/Ejercicio_correo_interno_en_la_red_MZ.md)
 * [Configuración de Postfix a través de un relay host autenticado](doc/Configuracion_de_Postfix_a_traves_de_un_relay_host_autenticado.md)

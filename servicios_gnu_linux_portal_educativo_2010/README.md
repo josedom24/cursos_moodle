@@ -25,7 +25,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 * [2.- Elección del entorno de trabajo: máquinas físicas o virtuales](doc/Eleccion_del_entorno_de_trabajo:_maquinas_fisicas_o_virtuales.md)
 * [Ejercicio: Selección de implementación a utilizar en el curso](doc/Ejercicio:_Seleccion_de_implementacion_a_utilizar_en_el_curso.md)
 * [3.- Instalación del sistema operativo](doc/Instalacion_del_sistema_operativo.md)
-* [Ejercicio: Instalación del sistema operativo](doc/Ejercicio:_Instalacion_del_sistema_operativo.md)
+* [Ejercicio: Instalación del sistema operativo](doc/Ejercicio_Instalacion_del_sistema_operativo.md)
 * [4.- Configuración inicial del sistema](doc/Configuracion_inicial_del_sistema.md)
 * [Ejercicio: Configuración inicial](doc/Ejercicio_Configuracion_inicial.md)
 * [Ejercicio: Utilización de APT y manejo básico del sistema](doc/Ejercicio:_Utilizacion_de_APT_y_manejo_basico_del_sistema.md)
@@ -40,9 +40,9 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 * [Ejercicio: Configuración de NAT del entorno de trabajo](doc/Ejercicio_Configuracion_de_NAT_del_entorno_de_trabajo.md)
 * [2.- Instalación de un servidor LAMP (Linux, Apache, MySQL y PHP)](doc/Instalacion_de_un_servidor_LAMP__Linux,_Apache,_MySQL_y_PHP_.md)
 * [Instalación y configuración de apache [pdf]](files/apache.pdf)
-* [Ejercicio: Instalación del sistema LAMP](doc/Ejercicio:_Instalacion_del_sistema_LAMP.md)
+* [Ejercicio: Instalación del sistema LAMP](doc/Ejercicio_Instalacion_del_sistema_LAMP.md)
 * [3.- Instalación de la plataforma educativa moodle](doc/Instalacion_de_la_plataforma_educativa_moodle.md)
-* [Ejercicio: Instalar la plataforma educativa moodle](doc/Ejercicio:_Instalar_la_plataforma_educativa_moodle.md)
+* [Ejercicio: Instalar la plataforma educativa moodle](doc/Ejercicio:Instalar_la_plataforma_educativa_moodle.md)
 * [4.- Gestión de DNS externo](doc/Gestion_de_DNS_externo.md)
 * [Tarea: Acceso a moodle desde el exterior](doc/Tarea:_Acceso_a_moodle_desde_el_exterior.md)
 
@@ -53,7 +53,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 
 * [Índice de DHCP](doc/Indice_de_DHCP.md)
 * [Documentación: Instalacion y configuración del servidor DHCP [dhcp.pdf]](files/dhcp.pdf)
-* [Ejercicio: Instalación y configuración del servidor DHCP](doc/Ejercicio:_Instalacion_y_configuracion_del_servidor_DHCP.md)
+* [Ejercicio: Instalación y configuración del servidor DHCP](doc/Ejercicio:Instalacion_y_configuracion_del_servidor_DHCP.md)
 * [Tarea: Configuración del servidor DHCP](doc/Tarea:_Configuracion_del_servidor_DHCP.md)
 
 ## UNIDAD 3. DNS: Bind9
@@ -63,14 +63,14 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 * [Enlace: Javier Smaldone - Cómo funciona el DNS](http://blog.smaldone.com.ar/2006/12/05/como-funciona-el-dns/)
 * [Ejercicio: Consultas a un servidor DNS con dig](doc/Ejercicio_Consultas_a_un_servidor_DNS_con_dig.md)
 * [Ejercicio: Resolución de nombres en nuestra intranet](doc/Ejercicio:_Resolucion_de_nombres_en_nuestra_intranet.md)
-* [Ejercicio: Instalación y configuración de Bind9 como servidor DNS maestro](doc/Ejercicio:_Instalacion_y_configuracion_de_Bind9_como_servidor_DNS_maestro.md)
+* [Ejercicio: Instalación y configuración de Bind9 como servidor DNS maestro](doc/Ejercicio_Instalacion_y_configuracion_de_Bind9_como_servidor_DNS_maestro.md)
 * [Tarea: Instalación y configuración del servidor bind9 en nuestra red local](doc/Tarea:_Instalacion_y_configuracion_del_servidor_bind9_en_nuestra_red_local.md)
 
 ## UNIDAD 4. Proxy web: Squid
 
 * [Índice de Proxy Web: Squid](doc/Indice_de_Proxy_Web:_Squid.md)
 * [Documentación: Squid, un proxy caché para GNU/Linux [pdf]](files/squid.pdf)
-* [Ejercicio: Instalación y configuración de squid](doc/Ejercicio:_Instalacion_y_configuracion_de_squid.md)
+* [Ejercicio: Instalación y configuración de squid](doc/Ejercicio_Instalacion_y_configuracion_de_squid.md)
 * [Ejercicio: Control de acceso](doc/Ejercicio_Control_de_acceso.md)
 * [Ejercicio: Autentificación de usuarios](doc/Ejercicio_Autentificacion_de_usuarios.md)
 * [Tarea: Instalación y configuración del proxy-cache squid](doc/Tarea:_Instalacion_y_configuracion_del_proxy-cache_squid.md)
@@ -101,7 +101,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 * [Configuración de Postfix a través de un relay host autenticado](doc/Configuracion_de_Postfix_a_traves_de_un_relay_host_autenticado.md)
 * [Ejercicio: configuración; solución a los casos 3 y 5.](doc/Ejercicio_configuracion\_solucion_a_los_casos_3_y_5.md)
 * [Lectura del correo: Dovecot IMAP + POP](doc/Lectura_del_correo:_Dovecot_IMAP_+_POP.md)
-* [Ejercicio: Lectura desde un cliente](doc/Ejercicio:_Lectura_desde_un_cliente.md)
+* [Ejercicio: Lectura desde un cliente](doc/Ejercicio_Lectura_desde_un_cliente.md)
 * [Ejercicio: Squirrelmail como webmail](doc/Ejercicio:_Squirrelmail_como_webmail.md)
 * [Tarea: Envío y recepción de correos entre usuarios de nuestro dominio y usuarios de dominios externos.](doc/Tarea:_Envio_y_recepcion_de_correos_entre_usuarios_de_nuestro_dominio_y_usuarios_de_dominios_externos..md)
 
@@ -121,7 +121,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 
 * [Índice de web segura: https](doc/Indice_de_web_segura:_https.md)
 * [Documentación: HTTPS en Apache2 [https.pdf]](files/https.pdf)
-* [Tarea: Acceso a avatar mediante https](doc/Tarea:_Acceso_a_avatar_mediante_https.md)
+* [Tarea: Acceso a avatar mediante https](doc/Tarea_Acceso_a_avatar_mediante_https.md)
 
 ## UNIDAD 9. Sistema centralizado de cuentas: Kerberos, LDAP y NFS4
 

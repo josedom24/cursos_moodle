@@ -154,15 +154,9 @@ Para tener una visión global de los [ficheros](../doc/Ficheros.md) a configurar
             -- end of saslfinger output --  
               
 
-*   **TLS**.
+### TLS
     
-    *   Por defecto, toda comunicación en Internet se hace sin ningún tipo de encriptación y sin una autenticación fiable. Esto significa que cualquiera con acceso físico a la línea de datos por la que viaja un paquete puede espiar dicha comunicación. Aún peor, es posible redirigir o alterar esa comunicación para que la información que se desea mandar se pierda y nadie se dé cuenta.
-        
-    *   De cara a solventar estos problemas de seguridad, Netscape, Inc. introdujo el protocolo SSL (Secure Sockets Layer), que ha ido evolucionando en el protocolo estandarizado TLS (Transportation Layer Security). Ofrece tanto encriptación de la comunicación (frenando las escuchas) como autenticación fuerte (asegurando que ambas partes de una comunicación son correctamente identificadas y que la comunicación no puede ser alterada).
-        
-    *   Postfix/TLS no implementa el protocolo TLS por sí mismo, sino que usa el paquete OpenSSL para esta tarea. En la página de OpenSSL, [www.openssl.org](http://www.openssl.org/), pueden encontrarse enlaces a documentación que profundiza en el protocolo y sus características.
-        
-    *   Comprueba con “_dpkg -l openssl_” que tienes instalado el paquete.
-        
-    
-
+* Por defecto, toda comunicación en Internet se hace sin ningún tipo de encriptación y sin una autenticación fiable. Esto significa que cualquiera con acceso físico a la línea de datos por la que viaja un paquete puede espiar dicha comunicación. Aún peor, es posible redirigir o alterar esa comunicación para que la información que se desea mandar se pierda y nadie se dé cuenta.
+* De cara a solventar estos problemas de seguridad, Netscape, Inc. introdujo el protocolo SSL (Secure Sockets Layer), que ha ido evolucionando en el protocolo estandarizado TLS (Transportation Layer Security). Ofrece tanto encriptación de la comunicación (frenando las escuchas) como autenticación fuerte (asegurando que ambas partes de una comunicación son correctamente identificadas y que la comunicación no puede ser alterada).
+* Postfix/TLS no implementa el protocolo TLS por sí mismo, sino que usa el paquete OpenSSL para esta tarea. En la página de OpenSSL, [www.openssl.org](http://www.openssl.org/), pueden encontrarse enlaces a documentación que profundiza en el protocolo y sus características.
+* Comprueba con `dpkg -l openssl` que tienes instalado el paquete.

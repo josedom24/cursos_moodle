@@ -2,7 +2,6 @@
 
 En al mayoría de los casos no existe acceso físico al servidor, o simplemente la máquina no tiene conectada un monitor. Lo normal es acceder de forma remota. Nosotros vamos a usar ssh, para acceder de forma remota dede el cliente al servidor avatar.  
   
-  
 1. Instala ssh en avatar.  
 2. Configura ssh para no permitir el acceso al root, para salvaguardar la seguridad.  
 3. Accede a avatar por ssh desde el cliente.  

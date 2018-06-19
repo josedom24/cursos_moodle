@@ -20,13 +20,13 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 ## UNIDAD 0.- Puesta en marcha del entorno de trabajo
 
 * [Índice de Puesta en marcha del entorno de trabajo](doc/Indice_de_Puesta_en_marcha_del_entorno_de_trabajo.md)
-* [1.- Esquema de la red de trabajo](doc/1.-_Esquema_de_la_red_de_trabajo.md)
+* [1.- Esquema de la red de trabajo](doc/Esquema_de_la_red_de_trabajo.md)
 * [Ejercicio: Estudia el esquema de red implantado en tu centro](doc/Ejercicio:_Estudia_el_esquema_de_red_implantado_en_tu_centro.md)
-* [2.- Elección del entorno de trabajo: máquinas físicas o virtuales](doc/2.-_Eleccion_del_entorno_de_trabajo:_maquinas_fisicas_o_virtuales.md)
+* [2.- Elección del entorno de trabajo: máquinas físicas o virtuales](doc/Eleccion_del_entorno_de_trabajo:_maquinas_fisicas_o_virtuales.md)
 * [Ejercicio: Selección de implementación a utilizar en el curso](doc/Ejercicio:_Seleccion_de_implementacion_a_utilizar_en_el_curso.md)
-* [3.- Instalación del sistema operativo](doc/3.-_Instalacion_del_sistema_operativo.md)
+* [3.- Instalación del sistema operativo](doc/Instalacion_del_sistema_operativo.md)
 * [Ejercicio: Instalación del sistema operativo](doc/Ejercicio:_Instalacion_del_sistema_operativo.md)
-* [4.- Configuración inicial del sistema](doc/4.-_Configuracion_inicial_del_sistema.md)
+* [4.- Configuración inicial del sistema](doc/Configuracion_inicial_del_sistema.md)
 * [Ejercicio: Configuración inicial](doc/Ejercicio:_Configuracion_inicial.md)
 * [Ejercicio: Utilización de APT y manejo básico del sistema](doc/Ejercicio:_Utilizacion_de_APT_y_manejo_basico_del_sistema.md)
 * [Finalización de la Unidad 0](doc/Finalizacion_de_la_Unidad_0.md)
@@ -36,14 +36,14 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 ## UNIDAD 1.- NAT, LAMP, gestión de DNS externo
 
 * [Indice de NAT, LAMP y gestión DNS externo](doc/Indice_de_NAT,_LAMP_y_gestion_DNS_externo.md)
-* [1.- NAT: Compartir una dirección IP pública entre varios equipos](doc/1.-_NAT:_Compartir_una_direccion_IP_publica_entre_varios_equipos.md)
+* [1.- NAT: Compartir una dirección IP pública entre varios equipos](doc/NAT:_Compartir_una_direccion_IP_publica_entre_varios_equipos.md)
 * [Ejercicio: Configuración de NAT del entorno de trabajo](doc/Ejercicio:_Configuracion_de_NAT_del_entorno_de_trabajo.md)
-* [2.- Instalación de un servidor LAMP (Linux, Apache, MySQL y PHP)](doc/2.-_Instalacion_de_un_servidor_LAMP__Linux,_Apache,_MySQL_y_PHP_.md)
+* [2.- Instalación de un servidor LAMP (Linux, Apache, MySQL y PHP)](doc/Instalacion_de_un_servidor_LAMP__Linux,_Apache,_MySQL_y_PHP_.md)
 * [Instalación y configuración de apache [pdf]](files/apache.pdf)
 * [Ejercicio: Instalación del sistema LAMP](doc/Ejercicio:_Instalacion_del_sistema_LAMP.md)
-* [3.- Instalación de la plataforma educativa moodle](doc/3.-_Instalacion_de_la_plataforma_educativa_moodle.md)
+* [3.- Instalación de la plataforma educativa moodle](doc/Instalacion_de_la_plataforma_educativa_moodle.md)
 * [Ejercicio: Instalar la plataforma educativa moodle](doc/Ejercicio:_Instalar_la_plataforma_educativa_moodle.md)
-* [4.- Gestión de DNS externo](doc/4.-_Gestion_de_DNS_externo.md)
+* [4.- Gestión de DNS externo](doc/Gestion_de_DNS_externo.md)
 * [Tarea: Acceso a moodle desde el exterior](doc/Tarea:_Acceso_a_moodle_desde_el_exterior.md)
 
 ![](img/basico.jpg)

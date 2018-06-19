@@ -1,6 +1,5 @@
-# Ficheros
-<style type="text/css"> <img width="869" vspace="0" hspace="0" height="400" border="0" src="../img/correo$@SLASH@$Ficheros.jpeg" alt="sistema de ficheros" title="sistema de ficheros" />&amp;lt;!-- @page { margin: 2cm } P { margin-bottom: 0.21cm } A:link { color: #0000ff } --&amp;gt; </style>
-<ul>
-  <p lang="es-ES" align="justify" class="western" style="margin-bottom: 0cm; font-style: normal; widows: 2; orphans: 2;"> <font size="2" color="#000000"><font color="#0000ff"><font color="#000000"><font face="Times New Roman, serif"><span style="text-decoration: none;"><span style="background: transparent none repeat scroll 0% 0%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">Use el siguiente árbol para localizar los ficheros de Postfix:</span></span></font></font></font></font></p>
-  <p lang="es-ES" align="justify" class="western" style="margin-bottom: 0cm; font-style: normal; widows: 2; orphans: 2;"><font size="2" color="#000000"><font color="#0000ff"><font color="#000000"><font face="Times New Roman, serif"><span style="text-decoration: none;"><span style="background: transparent none repeat scroll 0% 0%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;"><img width="869" vspace="0" hspace="0" height="400" border="0" src="../img/correo$@SLASH@$Ficheros.jpeg" alt="sistema de ficheros" title="sistema de ficheros" /></span></span></font></font></font></font></p>
-</ul>
+\# Ficheros 
+
+Use el siguiente árbol para localizar los ficheros de Postfix:
+
+![sistema de ficheros](../img/Ficheros.jpeg "sistema de ficheros")

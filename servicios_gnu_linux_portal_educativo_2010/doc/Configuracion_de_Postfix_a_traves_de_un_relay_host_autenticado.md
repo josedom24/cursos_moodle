@@ -16,7 +16,7 @@ En los siguientes apartados configuraremos Postfix para lograr este objetivo.
 
 ## Figura: Sistema de archivos
 
-Para tener una visión global de los [ficheros](../ficheros) a configurar, usa esta figura, destacándose en rojo aquellos que serán objeto de modificaciones.
+Para tener una visión global de los [ficheros](/doc/Ficheros.md) a configurar, usa esta figura, destacándose en rojo aquellos que serán objeto de modificaciones.
 
 ![Ficheros configuración smarthost](../img/FicherosSmarthost.jpeg "Ficheros configuración smarthost")  
 

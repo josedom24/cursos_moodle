@@ -14,13 +14,13 @@
 
 * Cliente: Usaremos como cliente, en primer lugar, una conexión telnet (poco vistosa y nada usada por los usuarios, pero muy interesante tanto para entender los pasos que sigue el protocolo SMTP (y otros) y para un administrador de redes).
 
-![Comandos SMTP](../img/Caso4-clientecomandos.jpg "Comandos SMTP")
+    ![Comandos SMTP](../img/Caso4-clientecomandos.jpg "Comandos SMTP")
 
 * En la figura anterior observa los pasos del protocolo SMTP (ten en cuenta que estos pasos se siguen en cualquier de los 5 casos explicados, pero se introducen en este apartado al conectar en modo comando con telnet). Pasemos a describirlos.
 
 * Esquema general:
 
-![Esquema General SMTP](../img/Caso4-FaseGeneral.jpg "Esquema General SMTP")
+    ![Esquema General SMTP](../img/Caso4-FaseGeneral.jpg "Esquema General SMTP")
 
 * Fases en el envío de un mensaje de correo
 
@@ -52,7 +52,7 @@
 
 * Servidor Avatar: lista de mensajes recibidos.
 
-![Recepcion correo del caso 4](../img/Caso4-EnvíoComandos-ListaEnAvatar.jpg "Recepcion correo del caso 4")
+    ![Recepcion correo del caso 4](../img/Caso4-EnvíoComandos-ListaEnAvatar.jpg "Recepcion correo del caso 4")
 
 
 * Por último, usaremos un cliente gráfico, en nuestro caso Evolution. Evolution es el cliente gráfico clásico para el envío del correo -similar a las versiones Outlook de Microsoft y otras de Linux-.
@@ -60,20 +60,20 @@
         * En nuestro programa Evolution accederemos a menú --> preferencias. Observése el uso intencionado de la interfaz en inglés como recurso para potenciar el programa de bilingúismo (el hábito hace al monje).
         * Añadiremos una cuenta cuya configuración será:
 
-        ![Configuracion Evolution. Identidad](../img/caso4-grafico-Identidad.png "Configuracion Evolution. Identidad")
+            ![Configuracion Evolution. Identidad](../img/caso4-grafico-Identidad.png "Configuracion Evolution. Identidad")
 
-        ![Cliente gráfico. Configuración identidad](../img/caso4-grafico-Sending.png "Cliente gráfico. Configuración identidad")
+            ![Cliente gráfico. Configuración identidad](../img/caso4-grafico-Sending.png "Cliente gráfico. Configuración identidad")
 
 
         * Componemos el mensaje y enviamos
 
-        ![Cliente gráfico. Envío de mensaje](../img/Caso4-grafico-EnvioMensaje.png "Cliente gráfico. Envío de mensaje")
+            ![Cliente gráfico. Envío de mensaje](../img/Caso4-grafico-EnvioMensaje.png "Cliente gráfico. Envío de mensaje")
 
 
         * Servidor Avatar: lista de mensajes recibidos.
             * Observamos como tenemos el mensaje anterior enviado desde línea de comandos y este último haciendo uso de Evolution. La siguiente figura muestra la parte final del buzón del usuario "alumno" (`/var/mail/alumno`).
 
-            ![Envío del cliente. Buzón](../img/caso4-servidor.jpg "Envío del cliente. Buzón")
+                ![Envío del cliente. Buzón](../img/caso4-servidor.jpg "Envío del cliente. Buzón")
 
 
 ## Caso 5: envío de correo a usuarios de otros servidores en Internet usando Avatar como servidor de correo local

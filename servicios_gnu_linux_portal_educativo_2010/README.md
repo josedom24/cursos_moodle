@@ -37,7 +37,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 
 * [Indice de NAT, LAMP y gestión DNS externo](doc/Indice_de_NAT,_LAMP_y_gestion_DNS_externo.md)
 * [1.- NAT: Compartir una dirección IP pública entre varios equipos](doc/NAT:_Compartir_una_direccion_IP_publica_entre_varios_equipos.md)
-* [Ejercicio: Configuración de NAT del entorno de trabajo](doc/Ejercicio_Configuracion_de_NAT_del_entorno_de_trabajo.md)
+    * [Ejercicio: Configuración de NAT del entorno de trabajo](doc/Ejercicio_Configuracion_de_NAT_del_entorno_de_trabajo.md)
 * [2.- Instalación de un servidor LAMP (Linux, Apache, MySQL y PHP)](doc/Instalacion_de_un_servidor_LAMP__Linux,_Apache,_MySQL_y_PHP_.md)
 * [Instalación y configuración de apache [pdf]](files/apache.pdf)
 * [Ejercicio: Instalación del sistema LAMP](doc/Ejercicio_Instalacion_del_sistema_LAMP.md)

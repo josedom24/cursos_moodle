@@ -88,7 +88,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 * [Índice de correo electrónico: Postfix](doc/Indice_de_correo_electronico_Postfix.md)
 * [Documentación: correo electrónico (Postfix)](files/correo-e.pdf)
 
-## Documentación formato web
+**Documentación formato web**
 
 * [Directivas a configurar](doc/Directivas_a_configurar.md)
     * [Ejercicio: Configuración](doc/Ejercicio:_Configuracion.md)

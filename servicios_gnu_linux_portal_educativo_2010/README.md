@@ -58,7 +58,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 
 ## UNIDAD 3. DNS: Bind9
 
-* [Índice de DNS: bind9](doc/Indice_de_DNS:_bind9.md)
+* [Índice de DNS: bind9](doc/Indice_de_DNS_bind9.md)
 * [Documentación: Servidor de Nombres de Dominio: bind9 [pdf]](files/dns.pdf)
 * [Enlace: Javier Smaldone - Cómo funciona el DNS](http://blog.smaldone.com.ar/2006/12/05/como-funciona-el-dns/)
 * [Ejercicio: Consultas a un servidor DNS con dig](doc/Ejercicio_Consultas_a_un_servidor_DNS_con_dig.md)
@@ -85,7 +85,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 
 ## UNIDAD 6. Correo electrónico: postfix
 
-* [Índice de correo electrónico: Postfix](doc/Indice_de_correo_electronico:_Postfix.md)
+* [Índice de correo electrónico: Postfix](doc/Indice_de_correo_electronico_Postfix.md)
 * [Documentación: correo electrónico (Postfix)](files/correo-e.pdf)
 
 ## Documentación formato web
@@ -119,13 +119,13 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 
 ## UNIDAD 8. Web segura: https
 
-* [Índice de web segura: https](doc/Indice_de_web_segura:_https.md)
+* [Índice de web segura: https](doc/Indice_de_web_segura_https.md)
 * [Documentación: HTTPS en Apache2 [https.pdf]](files/https.pdf)
 * [Tarea: Acceso a avatar mediante https](doc/Tarea_Acceso_a_avatar_mediante_https.md)
 
 ## UNIDAD 9. Sistema centralizado de cuentas: Kerberos, LDAP y NFS4
 
-* [Índice de Sistema centralizado de cuentas: Kerberos, LDAP y NFS4](doc/Indice_de_Sistema_centralizado_de_cuentas:_Kerberos,_LDAP_y_NFS4.md)
+* [Índice de Sistema centralizado de cuentas: Kerberos, LDAP y NFS4](doc/Indice_de_Sistema_centralizado_de_cuentas_Kerberos,_LDAP_y_NFS4.md)
 * [Documentación: Sistema de cuentas de usuario centralizadas con Kerberos 5, OpenLDAP y NFS4 [pdf]](files/krb_ldap.pdf)
 * [Tarea: Creación de un sistema de cuentas centralizadas](doc/Tarea:_Creacion_de_un_sistema_de_cuentas_centralizadas.md)
 

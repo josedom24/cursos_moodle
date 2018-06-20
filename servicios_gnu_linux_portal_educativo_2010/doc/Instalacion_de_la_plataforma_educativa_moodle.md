@@ -78,11 +78,11 @@ La última versión de moodle es la 1.9.7, y la página de descarga es: [http://
   
     * Configuración de la cuenta del administrador: Debes indicar nombre de usuario administrador, contraseña, nombre y apellido, correo electrónico, provincia y país.  
   
-    ![8](img/moodle8.png "8")  
+    ![8](../img/moodle8.png "8")  
   
     * Configuración del sitio: Debes indicar el nombre de la página, el nombre corto y una descripción.  
   
-    ![9](img/moodle9.png "9")  
+    ![9](../img/moodle9.png "9")  
   
     * Y hemos terminado la instalación, puedes encontrar manuales sobre moodle en los siguientes enlaces:  
 

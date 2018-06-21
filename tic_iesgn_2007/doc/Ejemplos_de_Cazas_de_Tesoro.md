@@ -175,7 +175,7 @@ A continuación incluimos algunas páginas que contienen cazas de tesoros. Tambi
     <td width="50%" valign="top" height="22">
     <font face="Arial Narrow" color="#000033">
   
-    <a target="_blank" href="http://www.auladeletras.net/webquest/documentos/western.htm">
+<a target="_blank" href="http://www.auladeletras.net/webquest/documentos/western.htm">
     El western cinematográfico (Cazatesoros).</a> </font></td>
   </tr>
   <tr>

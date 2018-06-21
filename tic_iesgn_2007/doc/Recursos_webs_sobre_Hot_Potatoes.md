@@ -1,3 +1,6 @@
 # Recursos webs sobre Hot Potatoes
-<div style="text-align: center; font-weight: bold;"><font size="4">Hot Potatoes<br /><br /></font><ul style="text-align: left;"><li><span style="font-weight: normal;"><a href="http://www.aula21.net/segunda/hotpotatoes.htm">Curso de Hot Potatoes, en Aula21.net</a></span></li><li><span style="font-weight: normal;"><a href="http://platea.pntic.mec.es/%7Eiali/CN/Hot_Potatoes/intro.htm">Tutoriales sobre Hot Potatoes</a></span></li><li><span style="font-weight: normal;"><a href="http://platea.pntic.mec.es/%7Eiali/CN/Hot_Potatoes/intro.htm">Curso de recursos informáticos: Hot Potatoes</a></span></li><li><span style="font-weight: normal;"><a href="http://www.educa.madrid.org/portal/c/portal/layout?p_l_id=10970.55">Actividades Hot Potatoes</a><br /></span></li></ul>
-</div>
+
+* [Curso de Hot Potatoes, en Aula21.net](http://www.aula21.net/segunda/hotpotatoes.htm)
+* [Tutoriales sobre Hot Potatoes](http://platea.pntic.mec.es/%7Eiali/CN/Hot_Potatoes/intro.htm)
+* [Curso de recursos informáticos: Hot Potatoes](http://platea.pntic.mec.es/%7Eiali/CN/Hot_Potatoes/intro.htm)
+* [Actividades Hot Potatoes](http://www.educa.madrid.org/portal/c/portal/layout?p_l_id=10970.55)

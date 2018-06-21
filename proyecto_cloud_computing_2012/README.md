@@ -59,7 +59,7 @@ Puedes acceder a los contenidos de este curso mediante una página html:
 
 ## Curso de formación
 
-### Materiales del curso de formación iimpartido por Miguel Vidal y José Castro de la empresa [FLOSSystems](http://flossystems.com/).
+### Materiales del curso de formación impartido por Miguel Vidal y José Castro de la empresa [FLOSSystems](http://flossystems.com/).
 
 * [Introducción a la Virtualización](http://db.tt/B6KnBir1)
 * [StaaS: almacenamiento como servicio](http://db.tt/DqaTTgun)

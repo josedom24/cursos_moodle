@@ -1,2 +1,8 @@
 # Manejo de unidades de memoria USB
-<ul><li>Inserta la unidad de memoria y explora su contenido</li><li>Copia un fichero del escritorio a la unidad de memoria</li><li>Copia un fichero de la unidad de memoria al escritorio</li><li>Modifica los permisos de este último fichero a "sólo lectura"</li><li>Intenta borrar el fichero anterior</li><li>Desmonta correctamente la unidad de memoria<br /></li></ul>
+
+* Inserta la unidad de memoria y explora su contenido
+* Copia un fichero del escritorio a la unidad de memoria
+* Copia un fichero de la unidad de memoria al escritorio
+* Modifica los permisos de este último fichero a "sólo lectura"
+* Intenta borrar el fichero anterior
+* Desmonta correctamente la unidad de memoria

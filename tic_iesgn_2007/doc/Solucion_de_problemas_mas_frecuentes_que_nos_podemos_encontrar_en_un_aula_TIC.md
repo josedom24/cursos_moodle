@@ -14,7 +14,7 @@
 
 2. Una fila de ordenadores no funciona.
 
-    ![fig](..img/fig5.jpg "fig")
+    ![fig](../img/fig5.jpg "fig")
 
     Comprueba en el armario de suministro eléctrico que todos los diferencias están conectados.
 

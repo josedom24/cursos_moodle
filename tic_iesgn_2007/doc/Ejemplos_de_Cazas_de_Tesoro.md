@@ -643,8 +643,7 @@ sus alumnos. </p>
 			<a href="http://www.xtec.es/iesserrallarga/Materiales/LITERATURA/HISTORIA_LITERATURA/CERVANTES_ESO/caza_cervantes.htm">
 			Miguel de Cervantes Saavedra </a> . Área: Literatura castellana. 
 			Nivel: Educación Secundaria 
-			</p></li><li>
-			<p align="justify"> </p><br /></li></ul>
+			</p></li></ul>
 		<p align="justify">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
   </a><a href="http://www.omerique.net/twiki/pub/Recursos/SistemaNumeracionDecimal/sistemasnumeracion.html">Nuestros 
@@ -878,7 +877,9 @@ http://canariaswebquest.blogspot.com/2006/08/la-caza-del-tesoro.html#links</a>
   <p> </p></td>
   </tr>
   </table>
+  
   **Cazas de Tesoros en inglés**
+  
   <table>
   <tr>
     <td height="44">

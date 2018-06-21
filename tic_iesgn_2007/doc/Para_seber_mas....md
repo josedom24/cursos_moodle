@@ -1,2 +1,11 @@
 # Para seber más...
-<div style="text-align: center;"><font style="color: rgb(255, 0, 0);" size="5"><span style="font-weight: bold;">Recursos sobre Webquest</span></font><br /></div><ul><li><a href="http://www.aula21.net/index.htm">Webquest en aula21.net</a></li><li><a href="http://www.isabelperez.com/webquest/">¿Qué son las webquest?</a></li><li><a href="http://webpages.ull.es/users/manarea/webquest/">Las Webquest (Universidad de La Laguna)</a></li><li><a href="http://cfievalladolid2.net/webquest/common/index.php">Biblioteca semática de WebQuest</a></li><li><a href="http://platea.pntic.mec.es/%7Eerodri1/">Una metodología para enseñar con Internet</a></li><li><a href="http://www.batiburrillo.net/webquest/webquest.php">Otra página sobre webquest</a></li><li><a href="http://es.wikipedia.org/wiki/WebQuest">¿Y qué dice la Wikipedia?</a><br /></li></ul>
+
+Recursos sobre Webquest
+
+* <a href="http://www.aula21.net/index.htm">Webquest en aula21.net</a>
+* <a href="http://www.isabelperez.com/webquest/">¿Qué son las webquest?</a>
+* <a href="http://webpages.ull.es/users/manarea/webquest/">Las Webquest (Universidad de La Laguna)</a>
+* <a href="http://cfievalladolid2.net/webquest/common/index.php">Biblioteca semática de WebQuest</a>
+* <a href="http://platea.pntic.mec.es/%7Eerodri1/">Una metodología para enseñar con Internet</a>
+* <a href="http://www.batiburrillo.net/webquest/webquest.php">Otra página sobre webquest</a>
+* <a href="http://es.wikipedia.org/wiki/WebQuest">¿Y qué dice la Wikipedia?</a>

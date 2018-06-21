@@ -1,23 +1,58 @@
-# Operaciones con ficheros: Abrir, guardar, ...
+# Operaciones con ficheros: Abrir, guardar, ... Operaciones con ficheros: Abrir, guardar, ...  
+  
+## Writer  
+  
+Una vez que has terminado de escribir el documento, tenemos que guardarlo.  
 
-<font size="4"><span style="font-weight: bold;">Operaciones con ficheros: Abrir, guardar, ...<br /><br />Writer<br /><br /></span></font><font size="3">Una vez que has terminado de escribir el documento, tenemos que guardarlo.<br /></font><p><font size="3">En el momento de guardar el documento creado utilizaremos, también, el menú <b>Archivo</b> pero usaremos la opción <b>Guardar</b>, con la que obtendremos el siguiente cuadro de diálogo:</font>
-</p><div style="text-align: center;"><a title="imagen:Writer3.png" class="image" href="http://wiki.gleducar.org.ar/wiki/Imagen:Writer3.png"><img width="689" vspace="0" hspace="0" height="407" border="0" src="img/oo.jpg" alt="oo" title="oo" /><br /></a></div><p>
-</p><p><font size="3">Hay que prestar especial atención a dos aspectos en esta etapa:
-</font></p>
-<ol><li><font size="3"> El lugar donde se guarda el archivo, ya que de eso depende que más adelante lo podamos encontrar.  
-</font></li><li><font size="3"> El tipo de archivo. Acá es donde OpenOffice se luce, ya que
-tiene una enorme variedad de posibilidades según lo que necesitemos.
-</font></li></ol>
-<p><font size="3">El formato propio de Writer es <b>.odt</b>, pero podemos elegir <b>.doc</b>, <span style="font-weight: bold;">.sxw</span>, <b>.html</b>, entre otros. 
-</font></p><p><font size="3">También, este diálogo le permite crear nuevos directorios para guardar sus documentos o moverse por los que ya existen. 
-</font></p><hr style="width: 100%; height: 3px;" /><font size="4" style="font-weight: bold;">Guardar imagen desde Firefox</font><font size="3"><br /></font><p><font size="3">Para guardar una imagen desde el Firefox, pulsamos con el botón derecho sobre la imagen y escogemos &quot;Guardar imagen como...&quot;</font></p><font size="3"><font size="3">Posteriormente escogemos en la carpeta y el nombre del fichero donde lo vamos a guardar.</font><br />
-</font><p>
-</p><div style="text-align: center;"><font size="3"><img width="572" vspace="0" hspace="0" height="206" border="0" src="img/guardar2.jpg" alt="Guardar" title="Guardar" /><br /></font></div><ul><li><font size="3">Si elegimos la lista <span style="font-weight: bold;">Guardar en una carpeta: </span>nos encontramos las siguientes opciones:</font></li></ul><div style="text-align: center;"><img width="572" vspace="0" hspace="0" height="206" border="0" src="img/gopc.jpg" alt="Carpeta" title="Carpeta" /><br /><br /><div style="text-align: justify;"><ul><li><font size="3">Si queremos guardar el archivo en otra carpeta, debemos escoger la opción<span style="font-weight: bold;"> Buscar otras carpetas</span></font></li></ul><div style="text-align: center;"><span style="font-weight: bold;"><img width="572" vspace="0" hspace="0" height="365" border="0" src="img/gopc2.jpg" alt="otras carpetas" title="otras carpetas" /><br /><br /></span><div style="text-align: left;"><span style="font-weight: bold;"><span style="font-weight: bold;"><font size="5">Descargar un documento con Firefox<br /><font size="3"><br /></font></font></span></span><div style="text-align: justify;"><font size="5"><font size="3">Cuando descargamos un fichero desde internet con el navegador Firefox, aparece esta ventana de dialogo, en las que podemos realizar dos operaciones:</font></font><br /></div><ul><li style="text-align: justify;"><font size="3">Abrir con: Y nos da una lista con los programas que podemos utilizar para visualizar dicho fichero.</font></li><li style="text-align: justify;"><font size="3">Guardar en disco: Que nos permite guardar el fichero en el disco duro (normalmente en el escritorio), sin abrirlo on un programa.</font></li></ul><div style="text-align: center;"><img width="624" vspace="0" hspace="0" height="341" border="0" src="img/firefox.jpg" alt="firefox" title="firefox" /><br /></div><span style="font-weight: bold;"><span style="font-weight: bold;"></span></span><span style="font-weight: bold;"></span></div><hr style="width: 100%; height: 2px;" /><span style="font-weight: bold;"></span><span style="font-weight: bold;"></span></div></div></div><span style="font-weight: bold;"><br /></span><font size="4" style="font-weight: bold;">Guardar un fichero de Acrobat Reader</font><p><font size="3">Cuando abrimos un fichero pdf con el programa Acrobat Reader y le damos al botón &quot;Guardar una copia&quot; nos encontramos con la siguiente pantalla:</font></p><div style="text-align: center;"><br /><br /><img width="572" vspace="0" hspace="0" height="448" border="0" src="img/acrobat.jpg" alt="acrobat" title="acrobat" /><br /><br /><font size="1">Este documento se distribuye bajo una licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual<br />
-<br />Reconocimiento. Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciador.<br />No comercial. No puede utilizar esta obra para fines comerciales.<br />Compartir bajo la misma licencia. Si altera o transforma esta obra, o
-genera una obra derivada, sólo puede distribuir la obra generada bajo
-una licencia idéntica a ésta.<br />
-<br />
-<br />
-Para más información visitar: http://creativecommons.org/licenses/by-nc-sa/2.5/es/</font>
+En el momento de guardar el documento creado utilizaremos, también, el menú **Archivo** pero usaremos la opción **Guardar**, con la que obtendremos el siguiente cuadro de diálogo:
 
-<br /></div>
+![oo](../img/oo.jpg "oo")  
+
+Hay que prestar especial atención a dos aspectos en esta etapa:
+
+1. El lugar donde se guarda el archivo, ya que de eso depende que más adelante lo podamos encontrar. 
+2. El tipo de archivo. Acá es donde OpenOffice se luce, ya que tiene una enorme variedad de posibilidades según lo que necesitemos.
+
+El formato propio de Writer es **.odt**, pero podemos elegir **.doc**, .sxw, **.html**, entre otros.
+
+También, este diálogo le permite crear nuevos directorios para guardar sus documentos o moverse por los que ya existen.
+
+## Guardar imagen desde Firefox  
+
+Para guardar una imagen desde el Firefox, pulsamos con el botón derecho sobre la imagen y escogemos "Guardar imagen como..."
+
+Posteriormente escogemos en la carpeta y el nombre del fichero donde lo vamos a guardar.  
+
+![Guardar](../img/guardar2.jpg "Guardar")  
+
+* Si elegimos la lista Guardar en una carpeta: nos encontramos las siguientes opciones:
+
+![Carpeta](../img/gopc.jpg "Carpeta")  
+  
+* Si queremos guardar el archivo en otra carpeta, debemos escoger la opción Buscar otras carpetas
+
+![otras carpetas](../img/gopc2.jpg "otras carpetas")  
+  
+## Descargar un documento con Firefox  
+  
+Cuando descargamos un fichero desde internet con el navegador Firefox, aparece esta ventana de dialogo, en las que podemos realizar dos operaciones:  
+
+* Abrir con: Y nos da una lista con los programas que podemos utilizar para visualizar dicho fichero.
+* Guardar en disco: Que nos permite guardar el fichero en el disco duro (normalmente en el escritorio), sin abrirlo on un programa.
+
+![firefox](../img/firefox.jpg "firefox")  
+
+## Guardar un fichero de Acrobat Reader
+
+Cuando abrimos un fichero pdf con el programa Acrobat Reader y le damos al botón "Guardar una copia" nos encontramos con la siguiente pantalla:
+
+![acrobat](../img/acrobat.jpg "acrobat")  
+  
+> Este documento se distribuye bajo una licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual  
+  
+> Reconocimiento. Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciador.  
+> No comercial. No puede utilizar esta obra para fines comerciales.  
+> Compartir bajo la misma licencia. Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.  
+  
+  
+> Para más información visitar: http://creativecommons.org/licenses/by-nc-sa/2.5/es/

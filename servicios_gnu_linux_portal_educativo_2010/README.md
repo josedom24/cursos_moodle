@@ -22,7 +22,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 * [Índice de Puesta en marcha del entorno de trabajo](doc/Indice_de_Puesta_en_marcha_del_entorno_de_trabajo.md)
 * [1.- Esquema de la red de trabajo](doc/Esquema_de_la_red_de_trabajo.md)
     * [Ejercicio: Estudia el esquema de red implantado en tu centro](doc/Ejercicio_Estudia_el_esquema_de_red_implantado_en_tu_centro.md)
-* [2.- Elección del entorno de trabajo: máquinas físicas o virtuales](doc/Eleccion_del_entorno_de_trabajo:_maquinas_fisicas_o_virtuales.md)
+* [2.- Elección del entorno de trabajo: máquinas físicas o virtuales](doc/Eleccion_del_entorno_de_trabajo_maquinas_fisicas_o_virtuales.md)
     * [Ejercicio: Selección de implementación a utilizar en el curso](doc/Ejercicio:Seleccion_de_implementacion_a_utilizar_en_el_curso.md)
 * [3.- Instalación del sistema operativo](doc/Instalacion_del_sistema_operativo.md)
     * [Ejercicio: Instalación del sistema operativo](doc/Ejercicio_Instalacion_del_sistema_operativo.md)
@@ -68,7 +68,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 
 ## UNIDAD 4. Proxy web: Squid
 
-* [Índice de Proxy Web: Squid](doc/Indice_de_Proxy_Web:_Squid.md)
+* [Índice de Proxy Web: Squid](doc/Indice_de_Proxy_Web_Squid.md)
 * [Documentación: Squid, un proxy caché para GNU/Linux [pdf]](files/squid.pdf)
     * [Ejercicio: Instalación y configuración de squid](doc/Ejercicio_Instalacion_y_configuracion_de_squid.md)
     * [Ejercicio: Control de acceso](doc/Ejercicio_Control_de_acceso.md)
@@ -134,7 +134,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 * [Índice de gestión remota, estado del sistema, actualizaciones y copias de seguridad](doc/Indice_de_gestion_remota,_estado_del_sistema,_actualizaciones_y_copias_de_seguridad.md)
 * [Documentación: Utilización elemental de ssh](files/ssh.pdf)
     * [Ejercicio: Gestión remota usando SSH](doc/Ejercicio_Gestion_remota_usando_SSH.md)
-    * [Ejercicio: Registro de actividades del sistema: logcheck](doc/Ejercicio_Registro_de_actividades_del_sistema:_logcheck.md)
+    * [Ejercicio: Registro de actividades del sistema: logcheck](doc/Ejercicio_Registro_de_actividades_del_sistema_logcheck.md)
     * [Ejercicio: Herramientas para gestionar las actualización de paquetes](doc/Ejercicio_Herramientas_para_gestionar_las_actualizacion_de_paquetes.md)
     * [Ejercicio: Planificación y realización de copias de seguridad del servidor](doc/Ejercicio_Planificacion_y_realizacion_de_copias_de_seguridad_del_servidor.md)
     * [Ejercicio: Sincronización de directorios con Unison](doc/Ejercicio_Sincronizacion_de_directorios_con_Unison.md)

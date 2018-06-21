@@ -44,7 +44,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 * [3.- Instalación de la plataforma educativa moodle](doc/Instalacion_de_la_plataforma_educativa_moodle.md)
     * [Ejercicio: Instalar la plataforma educativa moodle](doc/Ejercicio:Instalar_la_plataforma_educativa_moodle.md)
 * [4.- Gestión de DNS externo](doc/Gestion_de_DNS_externo.md)
-* [Tarea: Acceso a moodle desde el exterior](doc/Tarea:_Acceso_a_moodle_desde_el_exterior.md)
+* [Tarea: Acceso a moodle desde el exterior](doc/Tarea_Acceso_a_moodle_desde_el_exterior.md)
 
 ![](img/basico.jpg)
 
@@ -54,7 +54,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 * [Índice de DHCP](doc/Indice_de_DHCP.md)
 * [Documentación: Instalacion y configuración del servidor DHCP [dhcp.pdf]](files/dhcp.pdf)
     * [Ejercicio: Instalación y configuración del servidor DHCP](doc/Ejercicio:Instalacion_y_configuracion_del_servidor_DHCP.md)
-* [Tarea: Configuración del servidor DHCP](doc/Tarea:_Configuracion_del_servidor_DHCP.md)
+* [Tarea: Configuración del servidor DHCP](doc/Tarea_Configuracion_del_servidor_DHCP.md)
 
 ## UNIDAD 3. DNS: Bind9
 
@@ -64,7 +64,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
     * [Ejercicio: Consultas a un servidor DNS con dig](doc/Ejercicio_Consultas_a_un_servidor_DNS_con_dig.md)
     * [Ejercicio: Resolución de nombres en nuestra intranet](doc/Ejercicio_Resolucion_de_nombres_en_nuestra_intranet.md)
     * [Ejercicio: Instalación y configuración de Bind9 como servidor DNS maestro](doc/Ejercicio_Instalacion_y_configuracion_de_Bind9_como_servidor_DNS_maestro.md)
-* [Tarea: Instalación y configuración del servidor bind9 en nuestra red local](doc/Tarea:_Instalacion_y_configuracion_del_servidor_bind9_en_nuestra_red_local.md)
+* [Tarea: Instalación y configuración del servidor bind9 en nuestra red local](doc/Tarea_Instalacion_y_configuracion_del_servidor_bind9_en_nuestra_red_local.md)
 
 ## UNIDAD 4. Proxy web: Squid
 
@@ -73,7 +73,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
     * [Ejercicio: Instalación y configuración de squid](doc/Ejercicio_Instalacion_y_configuracion_de_squid.md)
     * [Ejercicio: Control de acceso](doc/Ejercicio_Control_de_acceso.md)
     * [Ejercicio: Autentificación de usuarios](doc/Ejercicio_Autentificacion_de_usuarios.md)
-* [Tarea: Instalación y configuración del proxy-cache squid](doc/Tarea:_Instalacion_y_configuracion_del_proxy-cache_squid.md)
+* [Tarea: Instalación y configuración del proxy-cache squid](doc/Tarea_Instalacion_y_configuracion_del_proxy-cache_squid.md)
 
 ## UNIDAD 5. Cortafuegos con iptables 
 
@@ -103,7 +103,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 * [Lectura del correo: Dovecot IMAP + POP](doc/Lectura_del_correo_Dovecot_IMAP_+_POP.md)
     * [Ejercicio: Lectura desde un cliente](doc/Ejercicio_Lectura_desde_un_cliente.md)
     * [Ejercicio: Squirrelmail como webmail](doc/Ejercicio_Squirrelmail_como_webmail.md)
-* [Tarea: Envío y recepción de correos entre usuarios de nuestro dominio y usuarios de dominios externos.](doc/Tarea:_Envio_y_recepcion_de_correos_entre_usuarios_de_nuestro_dominio_y_usuarios_de_dominios_externos..md)
+* [Tarea: Envío y recepción de correos entre usuarios de nuestro dominio y usuarios de dominios externos.](doc/Tarea_Envio_y_recepcion_de_correos_entre_usuarios_de_nuestro_dominio_y_usuarios_de_dominios_externos.md)
 
 ![](img/intermedio.jpg)
 
@@ -115,7 +115,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
     * [Esquema: Proceso [jpeg]](files/EsquemaProceso.jpeg)
     * [Esquema: Servidor DHCP [jpeg]](files/EsquemaFicherosDHCP.jpeg)
     * [Esquema: Servidor DNS [jpeg]](files/EsquemaFicherosDNS.jpeg)
-* [Tarea: Registros de funcionamiento ddns](doc/Tarea:_Registros_de_funcionamiento_ddns.md)
+* [Tarea: Registros de funcionamiento ddns](doc/Tarea_Registros_de_funcionamiento_ddns.md)
 
 ## UNIDAD 8. Web segura: https
 
@@ -127,7 +127,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 
 * [Índice de Sistema centralizado de cuentas: Kerberos, LDAP y NFS4](doc/Indice_de_Sistema_centralizado_de_cuentas_Kerberos,_LDAP_y_NFS4.md)
     * [Documentación: Sistema de cuentas de usuario centralizadas con Kerberos 5, OpenLDAP y NFS4 [pdf]](files/krb_ldap.pdf)
-* [Tarea: Creación de un sistema de cuentas centralizadas](doc/Tarea:_Creacion_de_un_sistema_de_cuentas_centralizadas.md)
+* [Tarea: Creación de un sistema de cuentas centralizadas](doc/Tarea_Creacion_de_un_sistema_de_cuentas_centralizadas.md)
 
 ## UNIDAD 10. Gestión remota, estado del sistema, actualizaciones y copias de seguridad
 
@@ -140,5 +140,5 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
     * [Ejercicio: Sincronización de directorios con Unison](doc/Ejercicio_Sincronizacion_de_directorios_con_Unison.md)
 * [Enlace: Configuración de una tarea Cron](http://www.redhat.com/docs/manuals/enterprise/RHEL-5-manual/es-ES/Deployment_Guide/s2-autotasks-cron-configuring.html)
 * [Enlace: Programación en BASH](http://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html)
-* [Tarea: Gestión remota, estado del sistema, actualizaciones y copias de seguridad](doc/Tarea:_Gestion_remota,_estado_del_sistema,_actualizaciones_y_copias_de_seguridad.md)
+* [Tarea: Gestión remota, estado del sistema, actualizaciones y copias de seguridad](doc/Tarea_Gestion_remota,_estado_del_sistema,_actualizaciones_y_copias_de_seguridad.md)
 

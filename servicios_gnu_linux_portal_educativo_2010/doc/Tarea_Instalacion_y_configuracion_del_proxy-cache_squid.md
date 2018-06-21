@@ -1,6 +1,6 @@
 # Tarea: Instalación y configuración del proxy-cache squid
 
-Instala el proxy-cache squid en avatar, configura el navegador del cliente para que acceda a internet a través del proxy de avatar, crea una ACL que deniegue el acceso a algunas páginas web y crea otra ACL que deniege el acceso a contenido flash.
+Instala el proxy-cache squid en avatar, configura el navegador del cliente para que acceda a internet a través del proxy de avatar, crea una ACL que deniegue el acceso a algunas páginas web y crea otra ACL que deniegue el acceso a contenido flash.
 
 En esta tarea tienes que entregar dos ficheros:
 

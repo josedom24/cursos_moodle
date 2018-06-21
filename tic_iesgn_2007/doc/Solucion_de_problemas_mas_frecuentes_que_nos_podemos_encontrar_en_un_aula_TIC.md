@@ -44,7 +44,7 @@
 
 7. Llegamos a la pantalla de autentificación de Gudalinex v3 y no autentifica nuestro nombre de usuario y contraseña
 
-    ![imagen](..img/fig4.jpg "imagen")
+    ![imagen](../img/fig4.jpg "imagen")
 
     Cada usuario del sistema tiene asignado un nombre de usuario y una contraseña para acceder a su espacio. En ocasiones cuando vamos a introducir nuestro nombre de usuario y contraseña el ordenador no es capaz de autentificarlo. Eso es debido a que el servidor de contenidos del armario de datos no está funcionando bien. La única solución es contactar con el coordinador TIC para que desde el CGAse arregle el problema.
 
@@ -85,7 +85,7 @@
     * Normalmente el nuevo panel creado es muy ancho, por lo tanto elegimos la opción Propiedades, pulsando el botón derecho y le ponemos de anchura 24 píxeles.
     * Ahora tenemos que añadir elementos al panel para dejarlos como estaban anteriormente, para ello elijo la opción Añadir al panel...
 
-    ![paneles](img/paneles.png "paneles")
+    ![paneles](../img/paneles.png "paneles")
     
     * Hay que añadir los siguientes elementos, dependiendo de la posición del panel:
 

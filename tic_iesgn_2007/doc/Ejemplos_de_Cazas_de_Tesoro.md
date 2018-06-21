@@ -245,7 +245,7 @@ Huerta </a> . Nueva caza de Tesoros para 2º de Primaria.</td>
   de la televisión.</a></td>
   </tr>
   <tr>
-    <td width="100%" height="22" colspan="2">
+    <td height="22" colspan="2">
 
 <p align="justify">
 
@@ -325,7 +325,7 @@ Primo</p>
  </td>
   </tr>
   <tr>
-    <td width="100%" height="22" colspan="2">
+    <td height="22" colspan="2">
 
   <b>L</b>os 
   profesores del
@@ -550,7 +550,7 @@ ESO  <br />
   fuerza y sus efectos</a> </span></td>
   </tr>
   <tr>
-    <td width="100%" valign="top" height="21" colspan="2">
+    <td valign="top" height="21" colspan="2">
 
   
   Colección de
@@ -567,7 +567,7 @@ Público de Educación Infantil y Primaria San Walabonso</a>.de Niebla (Huelva).
 </span></p></td>
   </tr>
   <tr>
-    <td width="100%" valign="top" height="21" colspan="2">
+    <td valign="top" height="21" colspan="2">
 
   
   En esta página podemos 
@@ -585,7 +585,7 @@ Público de Educación Infantil y Primaria San Walabonso</a>.de Niebla (Huelva).
     </td>
   </tr>
   <tr>
-    <td width="100%" valign="top" height="21" colspan="2">
+    <td valign="top" height="21" colspan="2">
 
   <p>
   <a href="http://www.juntadeandalucia.es/averroes/manuelperez/alumnos/cazatesoro/fosiles/fosiles.html">Los 
@@ -889,7 +889,7 @@ http://canariaswebquest.blogspot.com/2006/08/la-caza-del-tesoro.html#links</a>
 past to present: an interactive treasure hunt</a> </p>
 
   </td>
-    <td width="100%">
+    <td>
   <a target="_blank" href="http://www.ctnba.org/ctn/k8/treasure.html">Internet-Based 
 Scavenger Hunts for Students.</a></td>
   </tr>
@@ -897,46 +897,46 @@ Scavenger Hunts for Students.</a></td>
     <td>
   <a target="_blank" href="http://users.rcn.com/tstrong.massed/Martin2000.html">Dr. Martin Luther 
 King, Jr.  Scavenger Hunt </a></td>
-    <td width="100%">
+    <td>
   <a target="_blank" href="http://www.aea14.k12.ia.us/technology/ScavengerHunt.html">The Scavenger Hunt Page (Apple Valley (Iowa) Area Education Agency 14) </a>
     </td>
   </tr>
   <tr>
     <td height="22">
   <a target="_blank" href="http://www.isabelperez.com/webquest/teens-pregnancy.htm">Teens and Birth Control </a>de Isabel Pérez.</td>
-    <td width="100%" height="22">
+    <td height="22">
   <a target="_blank" href="http://www.otterbein.edu/dept/educ/educ675/bug.htm">Insect Scavenger Hunt</a></td>
   </tr>
   <tr>
     <td>
   <a target="_blank" href="http://www.marshall-es.marshall.k12.tn.us/jobe/Read-Write/dinosaur/dinohunt.html">Dinosaurios</a></td>
-    <td width="100%">
+    <td>
   <a target="_blank" href="http://cecasun.utc.edu/%7Etpa/mcallister/scavenger.html">Internet Scavenger Hunts (University of Tennessee at Chattanooga)</a></td>
   </tr>
   <tr>
     <td valign="top" height="31">
     <a href="http://webtech.kennesaw.edu/ltaylor/scav_hunts/scavhunt_barcelona.htm">Barcelona</a>
   </td>
-    <td width="100%" valign="top" height="31">
+    <td valign="top" height="31">
     <a target="_blank" href="http://iteslj.org/th/">Internet Treasure Hunts for 
     ESL students.</a></td>
   </tr>
   <tr>
     <td valign="top" height="36">
     <a href="http://www.henry.k12.ga.us/pges/xmas_around.htm" target="_blank">Christmas around the World</a>,</td>
-    <td width="100%" valign="top" height="36">
+    <td valign="top" height="36">
     <a target="_blank" href="http://www.prof2000.pt/users/estante/treasure_hunts/thanksgiving/index.html">Thanksgiving</a> </td>
   </tr>
   <tr>
     <td height="22">
     <a href="http://www.kn.pacbell.com/wired/China/chinahunt.html" target="_blank">The treasure of China </a></td>
-    <td width="100%" height="22">
+    <td height="22">
   <a target="_blank" href="http://edweb.sdsu.edu/courses/edtec670/egypt/hunt/EgyptHunt.html">Egyptian Scavenger Hunt</a> </td>
   </tr>
   <tr>
     <td>
     <a target="_blank" href="http://www.geocities.com/Athens/Parthenon/8565/Film/hitch.html">Alfred Hitchcock</a></td>
-    <td width="100%">
+    <td>
     <a target="_blank" href="http://www.aea14.k12.ia.us/technology/ScavengerHunt.html">Bernie Poole´s 
     Edinex of Web Resources </a> muchos 
     ejemplos clasificados por áreas y enlaces de interés.</td>

@@ -882,22 +882,22 @@ http://canariaswebquest.blogspot.com/2006/08/la-caza-del-tesoro.html#links</a>
   
   <table>
   <tr>
-    <td height="44">
+    <td>
 
 <p align="justify">
   <a href="http://www.kn.pacbell.com/wired/BHM/bh_hunt_quiz.html">Black History- 
 past to present: an interactive treasure hunt</a> </p>
 
   </td>
-    <td width="100%" height="44">
+    <td width="100%">
   <a target="_blank" href="http://www.ctnba.org/ctn/k8/treasure.html">Internet-Based 
 Scavenger Hunts for Students.</a></td>
   </tr>
   <tr>
-    <td height="44">
+    <td>
   <a target="_blank" href="http://users.rcn.com/tstrong.massed/Martin2000.html">Dr. Martin Luther 
 King, Jr.  Scavenger Hunt </a></td>
-    <td width="100%" height="44">
+    <td width="100%">
   <a target="_blank" href="http://www.aea14.k12.ia.us/technology/ScavengerHunt.html">The Scavenger Hunt Page (Apple Valley (Iowa) Area Education Agency 14) </a>
     </td>
   </tr>
@@ -908,9 +908,9 @@ King, Jr.  Scavenger Hunt </a></td>
   <a target="_blank" href="http://www.otterbein.edu/dept/educ/educ675/bug.htm">Insect Scavenger Hunt</a></td>
   </tr>
   <tr>
-    <td height="44">
+    <td>
   <a target="_blank" href="http://www.marshall-es.marshall.k12.tn.us/jobe/Read-Write/dinosaur/dinohunt.html">Dinosaurios</a></td>
-    <td width="100%" height="44">
+    <td width="100%">
   <a target="_blank" href="http://cecasun.utc.edu/%7Etpa/mcallister/scavenger.html">Internet Scavenger Hunts (University of Tennessee at Chattanooga)</a></td>
   </tr>
   <tr>
@@ -934,9 +934,9 @@ King, Jr.  Scavenger Hunt </a></td>
   <a target="_blank" href="http://edweb.sdsu.edu/courses/edtec670/egypt/hunt/EgyptHunt.html">Egyptian Scavenger Hunt</a> </td>
   </tr>
   <tr>
-    <td height="44">
+    <td>
     <a target="_blank" href="http://www.geocities.com/Athens/Parthenon/8565/Film/hitch.html">Alfred Hitchcock</a></td>
-    <td width="100%" height="44">
+    <td width="100%">
     <a target="_blank" href="http://www.aea14.k12.ia.us/technology/ScavengerHunt.html">Bernie Poole´s 
     Edinex of Web Resources </a> muchos 
     ejemplos clasificados por áreas y enlaces de interés.</td>

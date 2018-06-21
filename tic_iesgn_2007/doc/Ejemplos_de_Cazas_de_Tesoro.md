@@ -122,14 +122,9 @@ A continuación incluimos algunas páginas que contienen cazas de tesoros. Tambi
         </tr>
         </tbody></table>
 
-<table width="90%" height="1157" cellspacing="0" cellpadding="0" bordercolor="#111111" border="1" style="border-collapse: collapse;" id="AutoNumber2">
-  <tbody><tr>
-    <td width="100%" height="23" colspan="2">
-    <p align="center"><font size="4" face="Arial Narrow">
-    <img width="27" height="19" border="0" src="http://www.aula21.net/tercera/imagenes/espana.gif" /> </font>
-    <strong><font face="Arial" color="#cf6834">Cazas deTesoros 
-    en español</font></strong></p></td>
-  </tr>
+**Cazas deTesoros en español**
+
+<table>
   <tr>
     <td width="50%" height="22">
   <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000033"><a target="_blank" href="http://www.brunswick.k12.me.us/bjh/depart/curric/foreignlang/hmiller/index.htm">Madrid y sus alrededores.</a></font></td>

@@ -181,7 +181,7 @@ A continuación incluimos algunas páginas que contienen cazas de tesoros. Tambi
   <tr>
     <td width="50%" height="22">
 <p align="justify">
-  <a href="http://www.freewebs.com/cazas/plantas.html" target="_blank"><font face="Arial Narrow">Las 
+  <a href="http://www.freewebs.com/cazas/plantas.html" target="_blank">Las 
 plantas </a></p></td>
     <td width="50%" valign="top" height="22">
     
@@ -190,7 +190,7 @@ plantas </a></p></td>
   </tr>
   <tr>
     <td width="50%" height="22">
-  <font face="Arial Narrow">
+  
 <a target="_blank" href="http://webtech.kennesaw.edu/ltaylor/scav_hunts/scavhuntgreco.htm">
 El Greco</a> </td>
     <td width="50%" valign="top" height="22">
@@ -241,7 +241,7 @@ Huerta </a> . Nueva caza de Tesoros para 2º de Primaria.</td>
   La Tierra tiembla</a> . Nivel: ESO. Elaborada con el generador de aula21.net</td>
     <td width="50%" valign="top" height="22">
   
-  <a href="http://www.auladeletras.net/webquest/documentos/historiaTV.htm" target="_blank"><font face="Arial Narrow">Historia 
+  <a href="http://www.auladeletras.net/webquest/documentos/historiaTV.htm" target="_blank">Historia 
   de la televisión.</a></td>
   </tr>
   <tr>
@@ -268,7 +268,7 @@ mí. Además, así los alumnos profundizan también en destrezas relacionadas co
 alfabetización digital. Puedo afirmar que el experimento ha sido todo un éxito: 
 vosotros mismos podéis comprobar cómo la calidad de a sus cazas es equiparable a 
 las diseñadas <a href="http://www.lopezdearenas.com/filosofia/tesoro/cep/">
-Profesores de Filosofía de Secundaria</a></i><i><font face="Arial Narrow">
+Profesores de Filosofía de Secundaria</a></i><i>
 , y en algunos casos, 
 incluso superior". </i>
 Sus alumnos de 1º de 
@@ -278,7 +278,7 @@ Filosofía han realizado 17 "Cazas de Tesoros "
 el generador es de utilidad para profesores y alumnos.<br />
 Los profesores han realizado un total de
 <a href="http://www.lopezdearenas.com/filosofia/tesoro/cep/">10 Cazas de Tesoros
-</a><font color="#000080">.
+</a>.
 
   </td>
   </tr>
@@ -480,8 +480,8 @@ tesoros.</td>
 
   <p align="justify">
 
-  <a href="http://www.juntadeandalucia.es/averroes/cepmotril/webquest/trabajos/dama/dama.htm"><font face="Arial Narrow">La 
-Dama de Baza</a><font face="Arial Narrow">. 
+  <a href="http://www.juntadeandalucia.es/averroes/cepmotril/webquest/trabajos/dama/dama.htm">La 
+Dama de Baza</a>. 
     Área: Historia. Nivel Educación de 
   Adultos. 
     </p></td>
@@ -533,7 +533,7 @@ ESO  <br />
 </span></td>
     <td width="50%" valign="top" height="21">
 
-  <font face="Arial Narrow"><a href="http://www.juntadeandalucia.es/averroes/menendezypelayo/actividadestic/caza_constitucion/constitucion.html">Día de la Constitución</a>
+  <a href="http://www.juntadeandalucia.es/averroes/menendezypelayo/actividadestic/caza_constitucion/constitucion.html">Día de la Constitución</a>
    Ár ea: Conocimiento del 
   Medio. Nivel: 2º y 3º Ciclo de E. Primaria</span></td>
   </tr>
@@ -546,7 +546,7 @@ ESO  <br />
 
   
 
-  <a href="http://www.terra.es/personal2/gonzaloylola/segundo-tema-2/tema2.htm"><font face="Arial Narrow">La 
+  <a href="http://www.terra.es/personal2/gonzaloylola/segundo-tema-2/tema2.htm">La 
   fuerza y sus efectos</a> </span></td>
   </tr>
   <tr>
@@ -705,45 +705,45 @@ sus alumnos. </p>
 			<a href="http://www.maristasleon.com/biologia/cazas.htm">En esta 
 			página </a>  del Dpto. de Ciencias del Colegio Maristas de León 
 			encontramos diversas Cazas:</p>
-			<table width="100%" height="49" cellspacing="1" cellpadding="3" bordercolor="#111111" border="0" style="border-collapse: collapse;">
+			<table>
 				<tbody><tr>
 					<td width="13%" height="26" bgcolor="#6699cc">
 					<div align="center">
-						<b><font face="Verdana, Arial">Temática</b></div>
+						<b>Temática</b></div>
 					</td>
 					<td width="18%" height="26" bgcolor="#6699cc" align="center">
-					<b><font face="Verdana, Arial">Curso-Nivel</b></td>
+					<b>Curso-Nivel</b></td>
 					<td width="69%" height="26" bgcolor="#6699cc" align="center">
-					<b><font face="Verdana, Arial">Caza</b></td>
+					<b>Caza</b></td>
 				</tr>
 				<tr>
 					<td width="13%" valign="top" height="20" bgcolor="#e9f7fa" align="center">
-					<font size="2" face="Trebuchet MS">Microorganismos</td>
+					Microorganismos</td>
 					<td width="18%" valign="top" height="20" bgcolor="#ffffff" align="center">
-					<font size="2" face="Trebuchet MS">3º ESO</td>
+					3º ESO</td>
 					<td width="69%" valign="top" height="20" bgcolor="#e9f7fa" align="left">
-					<b><font size="2" face="Trebuchet MS">
+					<b>
 					<a href="http://www.maristasleon.com/biologia/TH/bacterias3eso/index.html">
 					Las bacterias ¿Amigos o enemigos?</a></b></td>
 				</tr>
 				<tr>
 					<td width="13%" valign="top" height="20" bgcolor="#e9f7fa" align="center">
-					<font size="2" face="Trebuchet MS">Alimentación</td>
+					Alimentación</td>
 					<td width="18%" valign="top" height="20" bgcolor="#ffffff" align="center">
-					<font size="2" face="Trebuchet MS">3º ESO</td>
+					3º ESO</td>
 					<td width="69%" valign="top" height="20" bgcolor="#e9f7fa" align="left">
-					<b><font size="2" face="Trebuchet MS">
+					<b>
 					<a href="http://www.maristasleon.com/biologia/TH/aditivos/index.htm">
 					¡Hay que ver lo que comemos!</a></b></td>
 				</tr>
 				<tr>
 					<td width="13%" valign="top" height="20" bgcolor="#e9f7fa" align="center">
-					<font size="2" face="Trebuchet MS">Geología</td>
+					Geología</td>
 					<td width="18%" valign="top" height="20" bgcolor="#ffffff" align="center">
-					<font size="2" face="Trebuchet MS">4º ESO - 1º Bachillerato
+					4º ESO - 1º Bachillerato
 					</td>
 					<td width="69%" valign="top" height="20" bgcolor="#e9f7fa" align="left">
-					<b><font size="2" face="Trebuchet MS">
+					<b>
 					<a target="_blank" href="http://www.maristasleon.com/biologia/TH/geoespa%C3%B1a/index.html">
 					¿Cuántos años tiene la tierra que pisas?</a></b></td>
 				</tr>
@@ -777,8 +777,8 @@ prehistoria</a> Caza de tesoros 5º de Primaria</p>
 			<p align="justify">
 
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  </a><font face="Arial Narrow"><a href="http://www.juntadeandalucia.es/averroes/ceip_san_tesifon/recursos/curso6/noticia/index.html">Caza 
-del Tesoro sobre LA NOTICIA</a><font color="#000080"> 5º de Primaria.
+  </a><a href="http://www.juntadeandalucia.es/averroes/ceip_san_tesifon/recursos/curso6/noticia/index.html">Caza 
+del Tesoro sobre LA NOTICIA</a> 5º de Primaria.
 			<p align="justify">
 
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
@@ -831,7 +831,7 @@ Callas </a></p>
 
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
   </a> 
-<font size="3" face="Arial Narrow" color="#000080">
+
 <a href="http://iesdolmendesoto.org/zonatic/mozart/index.html">Descubriendo a un 
 genio, Mozart</a> , completa unidad didáctica que incluye
 <a href="http://iesdolmendesoto.org/zonatic/mozart/investiga.html">dos Cazas de 
@@ -841,7 +841,7 @@ Tesoros</a> sobre el genial músico</p>
 			<img width="22" height="14" border="0" src="http://www.aula21.net/segunda/imghotpotatoes/new.gif" /></p><p align="justify">
 
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  </a><font size="3" face="Arial Narrow" color="#000080"><a href="http://www.juntadeandalucia.es/averroes/%7E29602220/Mi_Caza/Dia_del_Libro3.htm">El día del libro.</a> Área: Transversales. Nivel: Primaria (2º y 3er. Ciclo)</p><p align="justify">
+  </a><a href="http://www.juntadeandalucia.es/averroes/%7E29602220/Mi_Caza/Dia_del_Libro3.htm">El día del libro.</a> Área: Transversales. Nivel: Primaria (2º y 3er. Ciclo)</p><p align="justify">
 
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
   </a>
@@ -854,12 +854,12 @@ fotoeléctrico</a> De José Cuerva.</p><p align="justify">
 La Real Academia de la lengua</a> para la ESO</p><p align="justify">
 
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  </a><font color="#000080"><a href="http://www.aehermes.org/phormiga/inv/inv_cazas.htm">Colección 
+  </a><a href="http://www.aehermes.org/phormiga/inv/inv_cazas.htm">Colección 
 de Cazas del proyecto Hormiga </a> <img width="22" height="14" border="0" src="http://www.aula21.net/segunda/imghotpotatoes/new.gif" /></p><p align="justify">
 
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
   </a>
-<font size="3">Cazas de Tesoros y 
+Cazas de Tesoros y 
 WebQuests del curso impartido por Isabel Pérez este verano en Canarias
 <a href="http://www.isabelperez.com/webquest/taller/canarias_06.htm">
 http://www.isabelperez.com/webquest/taller/canarias_06.htm</a><b> </b>
@@ -868,7 +868,7 @@ http://www.isabelperez.com/webquest/taller/canarias_06.htm</a><b> </b>
 
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
   </a> 
-<font size="3" face="Arial Narrow" color="#000080">Colección de Cazas de Tesoros
+Colección de Cazas de Tesoros
 <a href="http://canariaswebquest.blogspot.com/2006/08/la-caza-del-tesoro.html#links">
 http://canariaswebquest.blogspot.com/2006/08/la-caza-del-tesoro.html#links</a>
 </p>
@@ -924,28 +924,32 @@ King, Jr.  Scavenger Hunt </a></td>
     <td valign="top" height="36">
     <a href="http://www.henry.k12.ga.us/pges/xmas_around.htm" target="_blank">Christmas around the World</a>,</td>
     <td width="100%" valign="top" height="36">
-    <font face="Arial Narrow"><a target="_blank" href="http://www.prof2000.pt/users/estante/treasure_hunts/thanksgiving/index.html">Thanksgiving</a> </td>
+    <a target="_blank" href="http://www.prof2000.pt/users/estante/treasure_hunts/thanksgiving/index.html">Thanksgiving</a> </td>
   </tr>
   <tr>
     <td height="22">
     <a href="http://www.kn.pacbell.com/wired/China/chinahunt.html" target="_blank">The treasure of China </a></td>
     <td width="100%" height="22">
-  <font face="Arial Narrow"><a target="_blank" href="http://edweb.sdsu.edu/courses/edtec670/egypt/hunt/EgyptHunt.html">Egyptian Scavenger Hunt</a> </td>
+  <a target="_blank" href="http://edweb.sdsu.edu/courses/edtec670/egypt/hunt/EgyptHunt.html">Egyptian Scavenger Hunt</a> </td>
   </tr>
   <tr>
     <td height="44">
     <a target="_blank" href="http://www.geocities.com/Athens/Parthenon/8565/Film/hitch.html">Alfred Hitchcock</a></td>
     <td width="100%" height="44">
-    <a target="_blank" href="http://www.aea14.k12.ia.us/technology/ScavengerHunt.html"><font face="Arial Narrow">Bernie Poole´s 
-    Edinex of Web Resources </a><font face="Arial Narrow"> muchos 
+    <a target="_blank" href="http://www.aea14.k12.ia.us/technology/ScavengerHunt.html">Bernie Poole´s 
+    Edinex of Web Resources </a> muchos 
     ejemplos clasificados por áreas y enlaces de interés.</td>
   </tr>
 </tbody></table>
-<br /><font size="1">Referencias:<br />Aula Tecnológica Siglo XXI (http://www.aula21.net/)<br />
-<font size="1"><br />Este documento se distribuye bajo una licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual<br />
-<br />Reconocimiento. Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciador.<br />No comercial. No puede utilizar esta obra para fines comerciales.<br />Compartir bajo la misma licencia. Si altera o transforma esta obra, o
-genera una obra derivada, sólo puede distribuir la obra generada bajo
-una licencia idéntica a ésta.<br />
-<br />
-<br />
-Para más información visitar: http://creativecommons.org/licenses/by-nc-sa/2.5/es/<br />
+
+> Referencias:
+> Aula Tecnológica Siglo XXI (http://www.aula21.net/)
+
+> Este documento se distribuye bajo una licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual
+
+> Reconocimiento. Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciador.
+> No comercial. No puede utilizar esta obra para fines comerciales.
+> Compartir bajo la misma licencia. Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.
+
+> Para más información visitar: http://creativecommons.org/licenses/by-nc-sa/2.5/es/
+

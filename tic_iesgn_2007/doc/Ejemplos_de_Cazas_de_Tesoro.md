@@ -127,14 +127,14 @@ A continuación incluimos algunas páginas que contienen cazas de tesoros. Tambi
 <table>
   <tr>
     <td width="50%" height="22">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000033"><a target="_blank" href="http://www.brunswick.k12.me.us/bjh/depart/curric/foreignlang/hmiller/index.htm">Madrid y sus alrededores.</a></font></td>
+  <font face="Arial Narrow" color="#000033"><a target="_blank" href="http://www.brunswick.k12.me.us/bjh/depart/curric/foreignlang/hmiller/index.htm">Madrid y sus alrededores.</a></font></td>
     <td width="50%" height="22">
-    <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000033"><a target="_blank" href="http://www.quia.com/sh/2614.html">El narcotráfico.</a></font></td>
+    <font face="Arial Narrow" color="#000033"><a target="_blank" href="http://www.quia.com/sh/2614.html">El narcotráfico.</a></font></td>
   </tr>
   <tr>
     <td width="50%" height="85">
   <font face="Arial Narrow" color="#000033">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" />
+  
   <a target="_blank" href="http://www.proarabatic.org/webquest/La%20caza%20del%20tesoro/Ejemplos/la%20aventura%20del%20motor/aventura_motor2.htm">
   La aventura del mundo del motor</a>. Área: Ámbitos socio-lingüístico y 
   científico-tecnológico<br />
@@ -142,107 +142,107 @@ A continuación incluimos algunas páginas que contienen cazas de tesoros. Tambi
  </td>
     <td width="50%" height="85">
     <font face="Arial Narrow" color="#000033">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><a href="http://www.proarabatic.org/webquest/La%20caza%20del%20tesoro/Ejemplos/El%20Universo.htm">El 
+  <a href="http://www.proarabatic.org/webquest/La%20caza%20del%20tesoro/Ejemplos/El%20Universo.htm">El 
     universo, nuestro entorno</a>.  Área: Ciencias Naturales. <br />
     Nivel: Enseñanza Secundaria (ESO)</font></td>
   </tr>
   <tr>
     <td width="50%" height="66">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000000"><a target="_blank" href="http://platea.pntic.mec.es/%7Eerodri1/EJEMPLO3.htm">¿Qué pasó el día que nací?</a>.</font><font face="Arial Narrow" color="#000033"> Actividad motivadora para 
+  <font face="Arial Narrow" color="#000000"><a target="_blank" href="http://platea.pntic.mec.es/%7Eerodri1/EJEMPLO3.htm">¿Qué pasó el día que nací?</a>.</font><font face="Arial Narrow" color="#000033"> Actividad motivadora para 
     iniciar a los alumnos de primaria en la búsqueda de información en la Red.</font></td>
     <td width="50%" height="66">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000033"><a target="_blank" href="http://everyschool.org/u/global/cfeige/valentine.html">Dia de San Valentín</a></font></td>
+  <font face="Arial Narrow" color="#000033"><a target="_blank" href="http://everyschool.org/u/global/cfeige/valentine.html">Dia de San Valentín</a></font></td>
   </tr>
   <tr>
     <td width="50%" height="22">
-    <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000033"><a target="_blank" href="http://www.esc20.net/etprojects/formats/treasure_hunt/misc99/matter/default.html">What is Matter? ¿Qué 
+    <font face="Arial Narrow" color="#000033"><a target="_blank" href="http://www.esc20.net/etprojects/formats/treasure_hunt/misc99/matter/default.html">What is Matter? ¿Qué 
   es la materia? </a>  </font></td>
     <td width="50%" height="22">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000033"><a target="_blank" href="http://coestudents.valdosta.edu/amadams/new_page_1.htm"> La 
+  <font face="Arial Narrow" color="#000033"><a target="_blank" href="http://coestudents.valdosta.edu/amadams/new_page_1.htm"> La 
     cultura de Méjico</a></font></td>
   </tr>
   <tr>
     <td width="50%" height="22">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000033"><a target="_blank" href="http://www.terra.es/personal6/jjflorido/materialasist/treasuremat.htm">Cazas del Tesoro creadas en Word.</a></font></td>
+  <font face="Arial Narrow" color="#000033"><a target="_blank" href="http://www.terra.es/personal6/jjflorido/materialasist/treasuremat.htm">Cazas del Tesoro creadas en Word.</a></font></td>
     <td width="50%" height="22">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000033"><a target="_blank" href="http://everyschool.org/u/global/cfeige/Barcelon.html">Fin de semana en Barcelona</a></font></td>
+  <font face="Arial Narrow" color="#000033"><a target="_blank" href="http://everyschool.org/u/global/cfeige/Barcelon.html">Fin de semana en Barcelona</a></font></td>
   </tr>
   <tr>
     <td width="50%" height="22">
 <p align="justify">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000033"><a target="_blank" href="http://www.quia.com/sh/5107.html">Mujeres en la música</a></font></p>
+  <font face="Arial Narrow" color="#000033"><a target="_blank" href="http://www.quia.com/sh/5107.html">Mujeres en la música</a></font></p>
     </td>
     <td width="50%" valign="top" height="22">
     <font face="Arial Narrow" color="#000033">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" />
+  
     <a target="_blank" href="http://www.auladeletras.net/webquest/documentos/western.htm">
     El western cinematográfico (Cazatesoros).</a> </font></td>
   </tr>
   <tr>
     <td width="50%" height="22">
 <p align="justify">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><a href="http://www.freewebs.com/cazas/plantas.html" target="_blank"><font face="Arial Narrow">Las 
+  <a href="http://www.freewebs.com/cazas/plantas.html" target="_blank"><font face="Arial Narrow">Las 
 plantas </font></a></p></td>
     <td width="50%" valign="top" height="22">
     <font face="Arial Narrow" color="#000033">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><a target="_blank" href="http://www.elrebumbio.org/materialasist/cursointernet/Arte%20paleol%C3%ADtico.%20B%C3%BAsqueda%20del%20tesoro.doc">Búsqueda 
+  <a target="_blank" href="http://www.elrebumbio.org/materialasist/cursointernet/Arte%20paleol%C3%ADtico.%20B%C3%BAsqueda%20del%20tesoro.doc">Búsqueda 
     del Tesoro sobre el Arte Paleolítico</a></font></td>
   </tr>
   <tr>
     <td width="50%" height="22">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow">
+  <font face="Arial Narrow">
 <a target="_blank" href="http://webtech.kennesaw.edu/ltaylor/scav_hunts/scavhuntgreco.htm">
 El Greco</a> </font></td>
     <td width="50%" valign="top" height="22">
     <font face="Arial Narrow" color="#000033">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><a target="_blank" href="http://www.iesaguilarycano.com/dpto/fyq/tabla_periodica/tabla_periodica.html">La 
+  <a target="_blank" href="http://www.iesaguilarycano.com/dpto/fyq/tabla_periodica/tabla_periodica.html">La 
     tabla periódica de los elementos</a> </font></td>
   </tr>
   <tr>
     <td width="50%" height="22">
   <font face="Arial Narrow" color="#000033">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" />
+  
   <a target="_blank" href="http://www.lopezdearenas.com/filosofia/tesoro/ma-ro/">
   Atapuerca y la evolución humana</a> </font></td>
     <td width="50%" valign="top" height="22">
     <font face="Arial Narrow" color="#000033">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><a href="http://www.boulesis.com/didactica/cazatesoros/derechos-humanos/">Los 
+  <a href="http://www.boulesis.com/didactica/cazatesoros/derechos-humanos/">Los 
     derechos humanos como proyecto ético contemporáneo</a> Materia: Ética Nivel: 
     4º de la ESO (15-16 años) Autores: Miguel Santa Olalla y Daniel Primo</font></td>
   </tr>
   <tr>
     <td width="50%" height="22">
   <font face="Arial Narrow" color="#000033">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" />
+  
 
 <a href="http://www.juntadeandalucia.es/averroes/manuelperez/alumnos/cazatesoro/lahuerta/lahuerta.htm">La 
 Huerta </a> . Nueva caza de Tesoros para 2º de Primaria.</font></td>
     <td width="50%" valign="top" height="22">
     <font face="Arial Narrow" color="#000033">
-    <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><a href="http://www.juntadeandalucia.es/averroes/cepmotril/webquest/trabajos/ecoanda/ecoanda.htm">La Economía Andaluza </a> . Área: Desarrollo social y funcional. Nivel: Formación de Base.</font></td>
+    <a href="http://www.juntadeandalucia.es/averroes/cepmotril/webquest/trabajos/ecoanda/ecoanda.htm">La Economía Andaluza </a> . Área: Desarrollo social y funcional. Nivel: Formación de Base.</font></td>
   </tr>
   <tr>
     <td width="50%" height="22">
   <font face="Arial Narrow" color="#000033">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><a href="http://www.juntadeandalucia.es/averroes/cepmotril/webquest/trabajos/becquer/becquer.htm">Gustavo 
+  <a href="http://www.juntadeandalucia.es/averroes/cepmotril/webquest/trabajos/becquer/becquer.htm">Gustavo 
   Adolfo Becquer</a>  Área: Desarrollo Social y Funcional</font><p>
   <font face="Arial Narrow" color="#000033">Nivel: 
   Formación de Base (Educación de Adultos)</font></p></td>
     <td width="50%" valign="top" height="22">
   <font face="Arial Narrow" color="#000033">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" />
+  
     <a href="http://www.juntadeandalucia.es/averroes/cepmotril/webquest/trabajos/sol/sol.htm">
     El Sol</a>. Área: Conocimiento del medio. Nivel: TERCERO</font></td>
   </tr>
   <tr>
     <td width="50%" height="22">
 <font face="Arial Narrow" color="#000033">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" />
+  
   <a href="http://www.proarabatic.org/webquest/La%20caza%20del%20tesoro/Ejemplos/terremotos/LA%20TIERRA%20TIEMBLA.mht">
   La Tierra tiembla</a> . Nivel: ESO. Elaborada con el generador de aula21.net</font></td>
     <td width="50%" valign="top" height="22">
   <font face="Arial Narrow" color="#000033">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></font><a href="http://www.auladeletras.net/webquest/documentos/historiaTV.htm" target="_blank"><font face="Arial Narrow">Historia 
+  </font><a href="http://www.auladeletras.net/webquest/documentos/historiaTV.htm" target="_blank"><font face="Arial Narrow">Historia 
   de la televisión.</font></a></td>
   </tr>
   <tr>
@@ -250,7 +250,7 @@ Huerta </a> . Nueva caza de Tesoros para 2º de Primaria.</font></td>
 
 <p align="justify">
 <font face="Arial Narrow" color="#000033">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></font><font face="Arial Narrow" color="#000080"><a href="http://www.lopezdearenas.com/filosofia/tesoro/alumnos/"><b>I</b>nteresante 
+  </font><font face="Arial Narrow" color="#000080"><a href="http://www.lopezdearenas.com/filosofia/tesoro/alumnos/"><b>I</b>nteresante 
 propuesta</a>  de<i> Ga</i>briel F. del Pilar profesor de Filosofía, del
   <a href="http://www.lopezdearenas.com/">I.E.S. López de Arenas</a> de Marchena.</font></p>
 
@@ -286,7 +286,7 @@ Los profesores han realizado un total de
   <tr>
     <td width="50%" height="22">
 
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000080"><a href="http://www.auladeletras.net/material/gloriafuertes/gloriafuertes.htm">"Biografía 
+  <font face="Arial Narrow" color="#000080"><a href="http://www.auladeletras.net/material/gloriafuertes/gloriafuertes.htm">"Biografía 
 de Gloria Fuertes" </a></font>
 
     </td>
@@ -294,20 +294,20 @@ de Gloria Fuertes" </a></font>
 
 <p align="justify">
 
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000080"><a target="_blank" href="http://www.juntadeandalucia.es/averroes/manuales/ozono/index.htm">El ozono... ¿Arriba o Abajo?</a> Caza de Tesoros para 2º Ciclo de la ESO</font></p></td>
+  <font face="Arial Narrow" color="#000080"><a target="_blank" href="http://www.juntadeandalucia.es/averroes/manuales/ozono/index.htm">El ozono... ¿Arriba o Abajo?</a> Caza de Tesoros para 2º Ciclo de la ESO</font></p></td>
   </tr>
   <tr>
     <td width="50%" height="22">
 
   <p align="justify">
 
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000080"><a target="_blank" href="http://www.juntadeandalucia.es/averroes/manuales/The%20European%20Union/The_European_Union.html">The European Union</a> Es una MiniQuest sobre la Unión Europea, diseñada 
+  <font face="Arial Narrow" color="#000080"><a target="_blank" href="http://www.juntadeandalucia.es/averroes/manuales/The%20European%20Union/The_European_Union.html">The European Union</a> Es una MiniQuest sobre la Unión Europea, diseñada 
 por Alicia Menéndez Sánchez, y que se podría usar en inglés con los alumnos de 
 2º de Bachillerato.</font></p></td>
     <td width="50%" height="22">
 
 <p align="justify">
-<font face="Arial Narrow" color="#000080"> </font><img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000080">¿Qué 
+<font face="Arial Narrow" color="#000080"> </font><font face="Arial Narrow" color="#000080">¿Qué 
 es filosofía?</font><font face="Arial Narrow" color="#000080"><br />
 <a href="http://www.boulesis.com/didactica/cazatesoros/que-es-filosofia/">
 http://www.boulesis.com/didactica/cazatesoros/que-es-filosofia/</a><br />
@@ -316,7 +316,7 @@ Primo.</font></p>
 
 <p align="justify">
 
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000080">Historia 
+  <font face="Arial Narrow" color="#000080">Historia 
 de la Filosofía, ¿Cómo sistema?</font><font face="Arial Narrow" color="#000080"><br />
 <a href="http://www.boulesis.com/didactica/cazatesoros/historia-filosofia-sistema/">
 http://www.boulesis.com/didactica/cazatesoros/historia-filosofia-sistema/</a><br />
@@ -328,7 +328,7 @@ Primo</font></p>
   <tr>
     <td width="100%" height="22" colspan="2">
 
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000080"><b>L</b>os 
+  <font face="Arial Narrow" color="#000080"><b>L</b>os 
   profesores del
   <a href="http://www.omerique.net/twiki/bin/view/Main/CeipSanJoseArtesano">
   colegio San José Artesano de Cádiz</a>  nos ofrecen un montón de cazas de 
@@ -481,7 +481,7 @@ tesoros.</font></td>
 
   <p align="justify">
 
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><a href="http://www.juntadeandalucia.es/averroes/cepmotril/webquest/trabajos/dama/dama.htm"><font face="Arial Narrow">La 
+  <a href="http://www.juntadeandalucia.es/averroes/cepmotril/webquest/trabajos/dama/dama.htm"><font face="Arial Narrow">La 
 Dama de Baza</font></a><font face="Arial Narrow">. </font>
     <font face="Arial Narrow" color="#000080">Área: Historia. Nivel Educación de 
   Adultos. </font>
@@ -490,14 +490,14 @@ Dama de Baza</font></a><font face="Arial Narrow">. </font>
 
 <p align="justify">
 
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000080"><a href="http://www.innova.uned.es/users/fruiz/cazamarte/marte.htm">A la caza de 
+  <font face="Arial Narrow" color="#000080"><a href="http://www.innova.uned.es/users/fruiz/cazamarte/marte.htm">A la caza de 
 Marte</a> Área: Ámbito científico-tecnológico. Nivel: 4º Diversificación 
 Curricular.</font></p><p align="justify"> </p></td>
   </tr>
   <tr>
     <td width="50%" valign="top" height="22">
 
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000080">
+  <font face="Arial Narrow" color="#000080">
   <a href="http://www.isabelperez.com/webquest/taller/works.htm">
   http://www.isabelperez.com/webquest/taller/works.htm</a>  Colección de 
   Cazas y WebQuests realizadas por los alumnos de diversos Talleres impartidos 
@@ -507,25 +507,25 @@ Curricular.</font></p><p align="justify"> </p></td>
 
 <p align="justify"><font face="Arial Narrow" color="#000080">
 
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><a href="http://www.juntadeandalucia.es/averroes/menendezypelayo/actividadestic/cazaandalucia/hunt.php.html">Día 
+  <a href="http://www.juntadeandalucia.es/averroes/menendezypelayo/actividadestic/cazaandalucia/hunt.php.html">Día 
 de Andalucía</a>. Área: Conocimiento del medio. Nivel: 5º y 6º</font></p>
 <p> </p></td>
   </tr>
   <tr>
     <td width="50%" valign="top" height="22">
 
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000080"><a href="http://www.juntadeandalucia.es/averroes/manuales/caza/inicio.htm"><b>La </b>vuelta al mundo en 80 dias </a> Área Matemáticas. Nivel 3º 
+  <font face="Arial Narrow" color="#000080"><a href="http://www.juntadeandalucia.es/averroes/manuales/caza/inicio.htm"><b>La </b>vuelta al mundo en 80 dias </a> Área Matemáticas. Nivel 3º 
 ESO </font><font face="Arial Narrow" color="#000080"> <br />
  </font></td>
     <td width="50%" valign="top" height="22">
 
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000080"><a href="http://www.juntadeandalucia.es/averroes/manuales/carbonoxi/carbonoxi.htm">El bueno, el feo y el malo</a> SERIE: ECOLOGÍA Nº 2 NIVEL: ESO, 1º Bto </font><span style="font-weight: 400;"><font size="4" face="Arial Narrow" color="#000080">
+  <font face="Arial Narrow" color="#000080"><a href="http://www.juntadeandalucia.es/averroes/manuales/carbonoxi/carbonoxi.htm">El bueno, el feo y el malo</a> SERIE: ECOLOGÍA Nº 2 NIVEL: ESO, 1º Bto </font><span style="font-weight: 400;"><font size="4" face="Arial Narrow" color="#000080">
 <img width="23" height="14" border="0" src="http://www.aula21.net/segunda/imghotpotatoes/new.gif" /></font></span></td>
   </tr>
   <tr>
     <td width="50%" valign="top" height="21">
 
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000080"><b>C</b>aza de Tesoros sobre 
+  <font face="Arial Narrow" color="#000080"><b>C</b>aza de Tesoros sobre 
   cultura clásica 
   <a href="http://iessapostol.juntaextremadura.net/latin/cazatesoros/sociedad/" target="_blank">
   La sociedad romana.</a> de
@@ -534,27 +534,27 @@ ESO </font><font face="Arial Narrow" color="#000080"> <br />
 <img width="23" height="14" border="0" src="http://www.aula21.net/segunda/imghotpotatoes/new.gif" /></font></span></td>
     <td width="50%" valign="top" height="21">
 
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow"><a href="http://www.juntadeandalucia.es/averroes/menendezypelayo/actividadestic/caza_constitucion/constitucion.html">Día de la Constitución</a>
+  <font face="Arial Narrow"><a href="http://www.juntadeandalucia.es/averroes/menendezypelayo/actividadestic/caza_constitucion/constitucion.html">Día de la Constitución</a>
   </font><font face="Arial Narrow" color="#000080"> Ár ea: Conocimiento del 
   Medio. Nivel: 2º y 3º Ciclo de E. Primaria</font><span style="font-weight: 400;"><font size="4" face="Arial Narrow" color="#000080"><img width="23" height="14" border="0" src="http://www.aula21.net/segunda/imghotpotatoes/new.gif" /></font></span></td>
   </tr>
   <tr>
     <td width="50%" valign="top" height="21">
 
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000080"><a href="http://www.uantof.cl/recursos_mar/mc/conceptos.htm">La 
+  <font face="Arial Narrow" color="#000080"><a href="http://www.uantof.cl/recursos_mar/mc/conceptos.htm">La 
   acuicultura. Conceptos</a> </font></td>
     <td width="50%" valign="top" height="21">
 
   <font face="Arial Narrow" color="#000080">
 
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></font><a href="http://www.terra.es/personal2/gonzaloylola/segundo-tema-2/tema2.htm"><font face="Arial Narrow">La 
+  </font><a href="http://www.terra.es/personal2/gonzaloylola/segundo-tema-2/tema2.htm"><font face="Arial Narrow">La 
   fuerza y sus efecto</font>s</a><span style="font-weight: 400;"><font size="4" face="Arial Narrow" color="#000080"> </font></span></td>
   </tr>
   <tr>
     <td width="100%" valign="top" height="21" colspan="2">
 
   <font face="Arial Narrow" color="#000080">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" />Colección de
+  Colección de
   <a href="http://www.juntadeandalucia.es/averroes/sanwalabonso/webquest.htm">
   WebQuests</a> y
   <a href="http://www.juntadeandalucia.es/averroes/sanwalabonso/cazasdeltesoro.htm">
@@ -571,7 +571,7 @@ Público de Educación Infantil y Primaria San Walabonso</a>.de Niebla (Huelva).
     <td width="100%" valign="top" height="21" colspan="2">
 
   <font face="Arial Narrow" color="#000080">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" />En esta página podemos 
+  En esta página podemos 
   ver los contenidos de un curso de Cazas de Tesoros.
   <a href="http://www.terra.es/personal2/gonzaloylola/paginacurso.htm">
   http://www.terra.es/personal2/gonzaloylola/paginacurso.htm</a> en ella encontré 
@@ -589,26 +589,26 @@ Público de Educación Infantil y Primaria San Walabonso</a>.de Niebla (Huelva).
     <td width="100%" valign="top" height="21" colspan="2">
 
   <p><font face="Arial Narrow" color="#000080">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><a href="http://www.juntadeandalucia.es/averroes/manuelperez/alumnos/cazatesoro/fosiles/fosiles.html">Los 
+  <a href="http://www.juntadeandalucia.es/averroes/manuelperez/alumnos/cazatesoro/fosiles/fosiles.html">Los 
   fósiles</a>  4º ESO</font></p>
   <p><font face="Arial Narrow" color="#000080">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><a href="http://www.cslaval.qc.ca/prof-inet/aai/web/chelnino.htm">Quand 
+  <a href="http://www.cslaval.qc.ca/prof-inet/aai/web/chelnino.htm">Quand 
   El Nino Frappe</a> Une chasse au trésor pour mieux comprendre ce phénomène 
   climatique </font></p>
   <p><font face="Arial Narrow" color="#000080">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><a href="http://www.epvasconia.com/WEBQUEST/NTICs%20y%20educacion/ejemplos/cazatesoros/Primaria/LasAbejas.html">Las 
+  <a href="http://www.epvasconia.com/WEBQUEST/NTICs%20y%20educacion/ejemplos/cazatesoros/Primaria/LasAbejas.html">Las 
   abejas</a> Área: Conocimiento del Medio .Nivel: 5º y 6º Primaria</font></p><p align="justify">
 <font face="Arial Narrow" color="#000080">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><a href="http://estudiantes.uam.es/fernando.dominguez/cazapi_pi.htm">El número p</a> 
+  <a href="http://estudiantes.uam.es/fernando.dominguez/cazapi_pi.htm">El número p</a> 
 Matemáticas, Bachillerato.</font></p>
 
 <p align="justify">
 <font face="Arial Narrow" color="#000080">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><a href="http://estudiantes.uam.es/fernando.dominguez/cazahistoria.htm" target="_self">Historia de la Matemática</a>. Nivel ESO.</font></p>
+  <a href="http://estudiantes.uam.es/fernando.dominguez/cazahistoria.htm" target="_self">Historia de la Matemática</a>. Nivel ESO.</font></p>
 
   <p>
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a>
+  </a>
 <font face="Arial Narrow" color="#000080">
   <a href="http://www.juntadeandalucia.es/averroes/manuales/usos_educativos/barra_navegacion/bibliotecas.htm">
   http://www.juntadeandalucia.es/averroes/manuales/usos_educativos/barra_navegacion/bibliotecas.htm</a> 
@@ -620,17 +620,17 @@ Matemáticas, Bachillerato.</font></p>
   </p>
   <p>
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a><font face="Arial Narrow" color="#000080"><a href="http://www.juntadeandalucia.es/averroes/ieslaribera/musica/rock/">Música Rock</a> Para la asignatura de Músiva 4º ESO </font>
+  </a><font face="Arial Narrow" color="#000080"><a href="http://www.juntadeandalucia.es/averroes/ieslaribera/musica/rock/">Música Rock</a> Para la asignatura de Músiva 4º ESO </font>
 
   </p><p>
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a><font face="Arial Narrow" color="#000080"><a href="http://www.juntadeandalucia.es/averroes/menendezypelayo/actividadestic/actividadestic.htm">Actividades 
+  </a><font face="Arial Narrow" color="#000080"><a href="http://www.juntadeandalucia.es/averroes/menendezypelayo/actividadestic/actividadestic.htm">Actividades 
 Tic</a>  WebQuests y cazas  creadas con el generador de aula21, 
 elaboradas por profesores del CEIP Menendez y Pelayo de Valverde del Camino 
 (Huelva) </font>
 	</p><p align="justify">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a><font face="Arial Narrow" color="#000080">Lourdes 
+  </a><font face="Arial Narrow" color="#000080">Lourdes 
 Domenech  me envía el enlace a dos Cazas de Tesoros que ha elaborado para 
 sus alumnos. </font></p>
 	<div>
@@ -648,35 +648,35 @@ sus alumnos. </font></p>
 			<p align="justify"> </p><br /></li></ul>
 		<p align="justify">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a><font face="Arial Narrow" color="#000080"><a href="http://www.omerique.net/twiki/pub/Recursos/SistemaNumeracionDecimal/sistemasnumeracion.html">Nuestros 
+  </a><font face="Arial Narrow" color="#000080"><a href="http://www.omerique.net/twiki/pub/Recursos/SistemaNumeracionDecimal/sistemasnumeracion.html">Nuestros 
 		números</a></font></p><p align="justify">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a><font face="Arial Narrow" color="#000080"><a href="http://lourdesziga.iespana.es/">La 
+  </a><font face="Arial Narrow" color="#000080"><a href="http://lourdesziga.iespana.es/">La 
 	belleza por la belleza.</a> Área: Comunicación. Nivel: Cuarto de Secundaria.</font></p><div>
 			<p align="justify"><font face="Arial Narrow" color="#000080">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a>
+  </a>
 			<a href="http://personales.ya.com/helmanticoxx/Oro_Matematico/">Caza 
 			del Tesoro sobre El Número Áureo para 4º de ESO</a>de Ceferino Parra 
 			profesor del <a href="http://es.geocities.com/guijuelo10/">
 			Departamento de Matemáticas del IES La Rábida</a><img width="23" height="14" border="0" src="http://www.aula21.net/segunda/imghotpotatoes/new.gif" /></font></p>
 			<p align="justify"><font face="Arial Narrow" color="#000080">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a>
+  </a>
 			<a href="http://es.geocities.com/parrita62_2/Poliedros/inicio.htm">
 			Caza del Tesoro sobre Poliedros para 3º de ESO </a> de Fernando 
 			Muñoz profesor del <a href="http://es.geocities.com/guijuelo10/">
 			Departamento de Matemáticas del IES La Rábida</a> <img width="23" height="14" border="0" src="http://www.aula21.net/segunda/imghotpotatoes/new.gif" /></font></p>
 			<p align="justify"><font face="Arial Narrow" color="#000080">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a>Caza 
+  </a>Caza 
 			del Tesoro sobre los Husos Horarios para 3º de ESO :
 			<a href="http://personales.ya.com/helmanticoxx/Husos/inicio.htm">La 
 			vuelta al mundo en 80 días </a>de Fernando Muñoz profesor del
 			<a href="http://es.geocities.com/guijuelo10/">Departamento de 
 			Matemáticas del IES La Rábida</a><img width="22" height="14" border="0" src="http://www.aula21.net/segunda/imghotpotatoes/new.gif" /></font></p><p align="justify"><font face="Arial Narrow" color="#000080">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a> 
+  </a> 
 			Me escriben del<a href="http://iesmonterroso.org/index.php"> I.E.S. 
 			Monterroso</a> informándome que han elaborado diversas Caza con el 
 			generador de aula21.net </font>
@@ -702,7 +702,7 @@ sus alumnos. </font></p>
 				</li></ul>
 			<p align="justify"><font face="Arial Narrow" color="#000080">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a> 
+  </a> 
 			<a href="http://www.maristasleon.com/biologia/cazas.htm">En esta 
 			página </a>  del Dpto. de Ciencias del Colegio Maristas de León 
 			encontramos diversas Cazas:</font></p>
@@ -751,20 +751,20 @@ sus alumnos. </font></p>
 			</tbody></table>
 			<p align="justify"><font face="Arial Narrow" color="#000080">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a>Desertificación
+  </a>Desertificación
 			<a href="http://www.freewebs.com/milanes1351/desertificacion.htm">
 			http://www.freewebs.com/milanes1351/desertificacion.htm </a></font>
 			<font face="Arial Narrow" color="#000080"> 5º de primaria. 
 			Área: Educación Ambiental</font></p>
 			<p align="justify"><font face="Arial Narrow" color="#000080">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a>
+  </a>
 			<a href="http://www.ieslosremedios.org/%7Eelena/websociales/3eso/desigualdades/cazatesorotamnistia.htm">
 			Aprende a ser toleran</a></font><a href="http://www.ieslosremedios.org/%7Eelena/websociales/3eso/desigualdades/cazatesorotamnistia.htm"><font face="Arial Narrow" color="#000080">te
 			</font></a><font face="Arial Narrow" color="#000080">  Área: 
 			Ciencias Sociales Nivel: 3º ESO</font></p>
 			<p align="justify"><font face="Arial Narrow" color="#000080">
-   <a href="http://www.elrebumbio.org/materialasist/index.htm"><img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a> 
+   <a href="http://www.elrebumbio.org/materialasist/index.htm"></a> 
 			<a href="http://apiedeaula.bitacoras.com/">Lourdes Domenech </a>me 
 			envía el enlace a una Caza de Tesoros que ha elaborado para sus 
 			alumnos  titulada
@@ -773,29 +773,29 @@ sus alumnos. </font></p>
 			<p align="justify">
 <font face="Arial Narrow" color="#000080">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a><a href="http://www.juntadeandalucia.es/averroes/ceip_san_tesifon/recursos/curso5/caza_prehistoria/C_T_LA_PREHISTORIA.html">La 
+  </a><a href="http://www.juntadeandalucia.es/averroes/ceip_san_tesifon/recursos/curso5/caza_prehistoria/C_T_LA_PREHISTORIA.html">La 
 prehistoria</a> Caza de tesoros 5º de Primaria</font></p>
 			<p align="justify">
 <font face="Arial Narrow" color="#000080">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a></font><font face="Arial Narrow"><a href="http://www.juntadeandalucia.es/averroes/ceip_san_tesifon/recursos/curso6/noticia/index.html">Caza 
+  </a></font><font face="Arial Narrow"><a href="http://www.juntadeandalucia.es/averroes/ceip_san_tesifon/recursos/curso6/noticia/index.html">Caza 
 del Tesoro sobre LA NOTICIA</a><font color="#000080"> 5º de Primaria.
 			<p align="justify">
 <font face="Arial Narrow" color="#000080">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a><a href="http://www.juntadeandalucia.es/averroes/ceip_san_tesifon/recursos/curso5/caza_prehistoria/C_T_LA_PREHISTORIA.html">La 
+  </a><a href="http://www.juntadeandalucia.es/averroes/ceip_san_tesifon/recursos/curso5/caza_prehistoria/C_T_LA_PREHISTORIA.html">La 
 Constitución</a>  Caza de Tesoros 5º de Primaria</font></p>
 			<p align="justify">
 <font face="Arial Narrow" color="#000080">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a>
+  </a>
 <a href="http://phpwebquest.org/wq2/caza/soporte_tablon_c.php?id_actividad=2323&id_pagina=1">
 El enigma escondido en un grabado de Goya </a>, Caza de Tesoros elaborada por 
 Pepa Vilches, el tema es el alfabeto manual de los sordos.</font></p>
 			<p align="justify">
 <font face="Arial Narrow" color="#000080">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a>Mª 
+  </a>Mª 
 José Reina, profesora de lengua castellana en el IES S'Agulla de Blanes (Girona) 
 ha elaborado la Caza titulada
 <a href="http://ies-sagulla.xtec.net/Departament_Castella/reina/romancero/cazaromancero2.htm">
@@ -803,35 +803,35 @@ El Romancero </a> Área: Lengua castellana y literatura Nivel: 1º ESO.</font></
 			<p align="justify">
 <font face="Arial Narrow" color="#000080">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a> </font>
+  </a> </font>
 <font face="Arial Narrow" color="#000080">Investigamos... El haiku
 <a href="http://www.auladeletras.net/material/haiku.htm">
 http://www.auladeletras.net/material/haiku.htm</a> </font></p>
 			<p align="justify">
 <font face="Arial Narrow" color="#000080">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a> 
+  </a> 
 <a href="http://www.religion.profes.net/apieaula2.asp?id_contenido=46495">El año 
 litúrgico  </a>de Pablo Rodriguez, profesor de religión.</font></p>
 			<p align="justify">
 <font face="Arial Narrow" color="#000080">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a><a href="http://www.aehermes.org/costa21/cambios/inv/invest.html">http://www.aehermes.org/costa21/cambios/inv/invest.html</a> 
+  </a><a href="http://www.aehermes.org/costa21/cambios/inv/invest.html">http://www.aehermes.org/costa21/cambios/inv/invest.html</a> 
 Cambios y paisajes históricos, investigaciones. 2º ciclo de Primaria</font></p>
 			<p align="justify">
 <font face="Arial Narrow" color="#000080">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a><a href="http://www.xtec.es/iesserrallarga/Materiales/LITERATURA/HISTORIA_LITERATURA/MARSE/h_caza_marse.htm">Juán 
+  </a><a href="http://www.xtec.es/iesserrallarga/Materiales/LITERATURA/HISTORIA_LITERATURA/MARSE/h_caza_marse.htm">Juán 
 Marsé</a> de Lourdes Domenech y Ana Romeo. <img width="22" height="14" border="0" src="http://www.aula21.net/segunda/imghotpotatoes/new.gif" /></font></p>
 			<p align="justify">
 <font face="Arial Narrow" color="#000080">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a><a href="http://www.telefonica.net/web2/isidrovidal/callas/">María 
+  </a><a href="http://www.telefonica.net/web2/isidrovidal/callas/">María 
 Callas </a></font></p>
 			<p align="justify">
 <font face="Arial Narrow" color="#000080">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a> </font>
+  </a> </font>
 <font size="3" face="Arial Narrow" color="#000080">
 <a href="http://iesdolmendesoto.org/zonatic/mozart/index.html">Descubriendo a un 
 genio, Mozart</a> , completa unidad didáctica que incluye
@@ -842,24 +842,24 @@ Tesoros</a> sobre el genial músico</font></p>
 			<img width="22" height="14" border="0" src="http://www.aula21.net/segunda/imghotpotatoes/new.gif" /></font></p><p align="justify">
 <font face="Arial Narrow" color="#000080">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a></font><font size="3" face="Arial Narrow" color="#000080"><a href="http://www.juntadeandalucia.es/averroes/%7E29602220/Mi_Caza/Dia_del_Libro3.htm">El día del libro.</a> Área: Transversales. Nivel: Primaria (2º y 3er. Ciclo)</font></p><p align="justify">
+  </a></font><font size="3" face="Arial Narrow" color="#000080"><a href="http://www.juntadeandalucia.es/averroes/%7E29602220/Mi_Caza/Dia_del_Libro3.htm">El día del libro.</a> Área: Transversales. Nivel: Primaria (2º y 3er. Ciclo)</font></p><p align="justify">
 <font face="Arial Narrow" color="#000080">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a>
+  </a>
 <a href="http://www.tinglado.net/?id=efecto-fotoelectrico">El Efecto 
 fotoeléctrico</a> De José Cuerva.</font></p><p align="justify">
 <font face="Arial Narrow" color="#000080">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a></font><font face="Arial Narrow" color="#000080">
+  </a></font><font face="Arial Narrow" color="#000080">
 <a href="http://www.materialesdelengua.org/LENGUA/historialengua/caza_rae/caza_rae.htm">
 La Real Academia de la lengua</a> para la ESO</font></p><p align="justify">
 <font face="Arial Narrow" color="#000080">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a></font><font color="#000080"><a href="http://www.aehermes.org/phormiga/inv/inv_cazas.htm">Colección 
+  </a></font><font color="#000080"><a href="http://www.aehermes.org/phormiga/inv/inv_cazas.htm">Colección 
 de Cazas del proyecto Hormiga </a> </font><font face="Arial Narrow" color="#000080"><img width="22" height="14" border="0" src="http://www.aula21.net/segunda/imghotpotatoes/new.gif" /></font></p><p align="justify">
 <font face="Arial Narrow" color="#000080">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a>
+  </a>
 <font size="3">Cazas de Tesoros y 
 WebQuests del curso impartido por Isabel Pérez este verano en Canarias
 <a href="http://www.isabelperez.com/webquest/taller/canarias_06.htm">
@@ -868,7 +868,7 @@ http://www.isabelperez.com/webquest/taller/canarias_06.htm</a></font><b> </b>
 <p align="justify">
 <font face="Arial Narrow" color="#000080">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a> </font>
+  </a> </font>
 <font size="3" face="Arial Narrow" color="#000080">Colección de Cazas de Tesoros
 <a href="http://canariaswebquest.blogspot.com/2006/08/la-caza-del-tesoro.html#links">
 http://canariaswebquest.blogspot.com/2006/08/la-caza-del-tesoro.html#links</a>
@@ -878,68 +878,66 @@ http://canariaswebquest.blogspot.com/2006/08/la-caza-del-tesoro.html#links</a>
 
   <p> </p></td>
   </tr>
-  <tr>
-    <td width="100%" height="23" colspan="2">
-    <p align="center"><font face="Arial" color="#cf6834"><strong>Cazas de 
-    Tesoros en inglés <img width="23" height="15" border="0" src="http://www.aula21.net/Wqfacil/band_uk.gif" /></strong></font></p></td>
-  </tr>
+  </table>
+  **Cazas de Tesoros en inglés**
+  <table>
   <tr>
     <td height="44">
 
 <p align="justify">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000033"><a href="http://www.kn.pacbell.com/wired/BHM/bh_hunt_quiz.html">Black History- 
+  <font face="Arial Narrow" color="#000033"><a href="http://www.kn.pacbell.com/wired/BHM/bh_hunt_quiz.html">Black History- 
 past to present: an interactive treasure hunt</a> </font></p>
 
     </td>
     <td width="100%" height="44">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000033"><a target="_blank" href="http://www.ctnba.org/ctn/k8/treasure.html">Internet-Based 
+  <font face="Arial Narrow" color="#000033"><a target="_blank" href="http://www.ctnba.org/ctn/k8/treasure.html">Internet-Based 
 Scavenger Hunts for Students.</a></font></td>
   </tr>
   <tr>
     <td height="44">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000033"><a target="_blank" href="http://users.rcn.com/tstrong.massed/Martin2000.html">Dr. Martin Luther 
+  <font face="Arial Narrow" color="#000033"><a target="_blank" href="http://users.rcn.com/tstrong.massed/Martin2000.html">Dr. Martin Luther 
 King, Jr.  Scavenger Hunt </a></font></td>
     <td width="100%" height="44">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000033"><a target="_blank" href="http://www.aea14.k12.ia.us/technology/ScavengerHunt.html">The Scavenger Hunt Page (Apple Valley (Iowa) Area Education Agency 14) </a></font>
+  <font face="Arial Narrow" color="#000033"><a target="_blank" href="http://www.aea14.k12.ia.us/technology/ScavengerHunt.html">The Scavenger Hunt Page (Apple Valley (Iowa) Area Education Agency 14) </a></font>
     </td>
   </tr>
   <tr>
     <td height="22">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000033"><a target="_blank" href="http://www.isabelperez.com/webquest/teens-pregnancy.htm">Teens and Birth Control </a>de Isabel Pérez.</font></td>
+  <font face="Arial Narrow" color="#000033"><a target="_blank" href="http://www.isabelperez.com/webquest/teens-pregnancy.htm">Teens and Birth Control </a>de Isabel Pérez.</font></td>
     <td width="100%" height="22">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000033"><a target="_blank" href="http://www.otterbein.edu/dept/educ/educ675/bug.htm">Insect Scavenger Hunt</a></font></td>
+  <font face="Arial Narrow" color="#000033"><a target="_blank" href="http://www.otterbein.edu/dept/educ/educ675/bug.htm">Insect Scavenger Hunt</a></font></td>
   </tr>
   <tr>
     <td height="44">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000033"><a target="_blank" href="http://www.marshall-es.marshall.k12.tn.us/jobe/Read-Write/dinosaur/dinohunt.html">Dinosaurios</a></font></td>
+  <font face="Arial Narrow" color="#000033"><a target="_blank" href="http://www.marshall-es.marshall.k12.tn.us/jobe/Read-Write/dinosaur/dinohunt.html">Dinosaurios</a></font></td>
     <td width="100%" height="44">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000033"><a target="_blank" href="http://cecasun.utc.edu/%7Etpa/mcallister/scavenger.html">Internet Scavenger Hunts (University of Tennessee at Chattanooga)</a></font></td>
+  <font face="Arial Narrow" color="#000033"><a target="_blank" href="http://cecasun.utc.edu/%7Etpa/mcallister/scavenger.html">Internet Scavenger Hunts (University of Tennessee at Chattanooga)</a></font></td>
   </tr>
   <tr>
     <td valign="top" height="31">
-    <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000033"><a href="http://webtech.kennesaw.edu/ltaylor/scav_hunts/scavhunt_barcelona.htm">Barcelona</a>
+    <font face="Arial Narrow" color="#000033"><a href="http://webtech.kennesaw.edu/ltaylor/scav_hunts/scavhunt_barcelona.htm">Barcelona</a>
   </font></td>
     <td width="100%" valign="top" height="31">
-    <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000033"><a target="_blank" href="http://iteslj.org/th/">Internet Treasure Hunts for 
+    <font face="Arial Narrow" color="#000033"><a target="_blank" href="http://iteslj.org/th/">Internet Treasure Hunts for 
     ESL students.</a></font></td>
   </tr>
   <tr>
     <td valign="top" height="36">
-    <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000033"><a href="http://www.henry.k12.ga.us/pges/xmas_around.htm" target="_blank">Christmas around the World</a>,</font></td>
+    <font face="Arial Narrow" color="#000033"><a href="http://www.henry.k12.ga.us/pges/xmas_around.htm" target="_blank">Christmas around the World</a>,</font></td>
     <td width="100%" valign="top" height="36">
-    <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow"><a target="_blank" href="http://www.prof2000.pt/users/estante/treasure_hunts/thanksgiving/index.html">Thanksgiving</a> </font></td>
+    <font face="Arial Narrow"><a target="_blank" href="http://www.prof2000.pt/users/estante/treasure_hunts/thanksgiving/index.html">Thanksgiving</a> </font></td>
   </tr>
   <tr>
     <td height="22">
-    <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000033"><a href="http://www.kn.pacbell.com/wired/China/chinahunt.html" target="_blank">The treasure of China </a></font></td>
+    <font face="Arial Narrow" color="#000033"><a href="http://www.kn.pacbell.com/wired/China/chinahunt.html" target="_blank">The treasure of China </a></font></td>
     <td width="100%" height="22">
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow"><a target="_blank" href="http://edweb.sdsu.edu/courses/edtec670/egypt/hunt/EgyptHunt.html">Egyptian Scavenger Hunt</a> </font></td>
+  <font face="Arial Narrow"><a target="_blank" href="http://edweb.sdsu.edu/courses/edtec670/egypt/hunt/EgyptHunt.html">Egyptian Scavenger Hunt</a> </font></td>
   </tr>
   <tr>
     <td height="44">
-    <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000033"><a target="_blank" href="http://www.geocities.com/Athens/Parthenon/8565/Film/hitch.html">Alfred Hitchcock</a></font></td>
+    <font face="Arial Narrow" color="#000033"><a target="_blank" href="http://www.geocities.com/Athens/Parthenon/8565/Film/hitch.html">Alfred Hitchcock</a></font></td>
     <td width="100%" height="44">
-    <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><a target="_blank" href="http://www.aea14.k12.ia.us/technology/ScavengerHunt.html"><font face="Arial Narrow">Bernie Poole´s 
+    <a target="_blank" href="http://www.aea14.k12.ia.us/technology/ScavengerHunt.html"><font face="Arial Narrow">Bernie Poole´s 
     Edinex of Web Resources </font></a><font face="Arial Narrow"> muchos 
     ejemplos clasificados por áreas y enlaces de interés.</font></td>
   </tr>

@@ -219,7 +219,7 @@ El Greco</a> </td>
 Huerta </a> . Nueva caza de Tesoros para 2º de Primaria.</td>
     <td width="50%" valign="top" height="22">
     
-    <a href="http://www.juntadeandalucia.es/averroes/cepmotril/webquest/trabajos/ecoanda/ecoanda.htm">La Economía Andaluza </a> . Área: Desarrollo social y funcional. Nivel: Formación de Base.</td>
+  <a href="http://www.juntadeandalucia.es/averroes/cepmotril/webquest/trabajos/ecoanda/ecoanda.htm">La Economía Andaluza </a> . Área: Desarrollo social y funcional. Nivel: Formación de Base.</td>
   </tr>
   <tr>
     <td width="50%" height="22">
@@ -470,7 +470,7 @@ tesoros.</td>
 	<p align="justify"> </p></li><li>
   <p align="justify">
   
-	<a href="http://www.omerique.net/twiki/bin/view/CEIPsanjose/MaterialTIC#MaterialTicElaboradoEnElCentro">
+<a href="http://www.omerique.net/twiki/bin/view/CEIPsanjose/MaterialTIC#MaterialTicElaboradoEnElCentro">
 	Para estar al día de los nuevos materiales que elaboran.</a>
 </p></li></ul>
 <font size="2" face="Comic Sans MS" color="#808080"> <p align="justify"><font size="2" face="Comic Sans MS" color="#808080"> </p><p><font size="2" face="Comic Sans MS" color="#808080"> </p></td>
@@ -673,7 +673,7 @@ sus alumnos. </p>
 			<a href="http://personales.ya.com/helmanticoxx/Husos/inicio.htm">La 
 			vuelta al mundo en 80 días </a>de Fernando Muñoz profesor del
 			<a href="http://es.geocities.com/guijuelo10/">Departamento de 
-			Matemáticas del IES La Rábida</a><img width="22" height="14" border="0" src="http://www.aula21.net/segunda/imghotpotatoes/new.gif" /></p><p align="justify">
+			Matemáticas del IES La Rábida</a></p><p align="justify">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
   </a> 
 			Me escriben del<a href="http://iesmonterroso.org/index.php"> I.E.S. 
@@ -696,7 +696,7 @@ sus alumnos. </p>
 				<p align="justify">
 				Caza de Tesoros. 
 				
-				<a href="http://iesmonterroso.org/recursos/digestivo/index.htm">
+<a href="http://iesmonterroso.org/recursos/digestivo/index.htm">
 				Aparato digestivo </a>Área: Biología y Geología. Nivel: 3º ESO</p>
 				</li></ul>
 			<p align="justify">
@@ -821,7 +821,7 @@ Cambios y paisajes históricos, investigaciones. 2º ciclo de Primaria</p>
 
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
   </a><a href="http://www.xtec.es/iesserrallarga/Materiales/LITERATURA/HISTORIA_LITERATURA/MARSE/h_caza_marse.htm">Juán 
-Marsé</a> de Lourdes Domenech y Ana Romeo. <img width="22" height="14" border="0" src="http://www.aula21.net/segunda/imghotpotatoes/new.gif" /></p>
+Marsé</a> de Lourdes Domenech y Ana Romeo. </p>
 			<p align="justify">
 
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
@@ -836,9 +836,9 @@ Callas </a></p>
 genio, Mozart</a> , completa unidad didáctica que incluye
 <a href="http://iesdolmendesoto.org/zonatic/mozart/investiga.html">dos Cazas de 
 Tesoros</a> sobre el genial músico</p>
-			<p align="justify">
+<p align="justify">
 
-			<img width="22" height="14" border="0" src="http://www.aula21.net/segunda/imghotpotatoes/new.gif" /></p><p align="justify">
+</p><p align="justify">
 
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
   </a><a href="http://www.juntadeandalucia.es/averroes/%7E29602220/Mi_Caza/Dia_del_Libro3.htm">El día del libro.</a> Área: Transversales. Nivel: Primaria (2º y 3er. Ciclo)</p><p align="justify">
@@ -855,7 +855,7 @@ La Real Academia de la lengua</a> para la ESO</p><p align="justify">
 
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
   </a><a href="http://www.aehermes.org/phormiga/inv/inv_cazas.htm">Colección 
-de Cazas del proyecto Hormiga </a> <img width="22" height="14" border="0" src="http://www.aula21.net/segunda/imghotpotatoes/new.gif" /></p><p align="justify">
+de Cazas del proyecto Hormiga </a> </p><p align="justify">
 
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
   </a>
@@ -887,7 +887,7 @@ http://canariaswebquest.blogspot.com/2006/08/la-caza-del-tesoro.html#links</a>
   <a href="http://www.kn.pacbell.com/wired/BHM/bh_hunt_quiz.html">Black History- 
 past to present: an interactive treasure hunt</a> </p>
 
-    </td>
+  </td>
     <td width="100%" height="44">
   <a target="_blank" href="http://www.ctnba.org/ctn/k8/treasure.html">Internet-Based 
 Scavenger Hunts for Students.</a></td>

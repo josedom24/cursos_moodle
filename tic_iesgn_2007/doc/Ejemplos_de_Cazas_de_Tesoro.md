@@ -280,7 +280,7 @@ Los profesores han realizado un total de
 <a href="http://www.lopezdearenas.com/filosofia/tesoro/cep/">10 Cazas de Tesoros
 </a><font color="#000080">.
 
-    </td>
+  </td>
   </tr>
   <tr>
     <td width="50%" height="22">
@@ -288,7 +288,7 @@ Los profesores han realizado un total de
   <font face="Arial Narrow" color="#000080"><a href="http://www.auladeletras.net/material/gloriafuertes/gloriafuertes.htm">"Biografía 
 de Gloria Fuertes" </a></font>
 
-    </td>
+  </td>
     <td width="50%" height="22">
 
 <p align="justify">

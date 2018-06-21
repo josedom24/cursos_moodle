@@ -100,7 +100,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
     * [Ejercicio: correo interno en la red MZ](doc/Ejercicio_correo_interno_en_la_red_MZ.md)
 * [Configuración de Postfix a través de un relay host autenticado](doc/Configuracion_de_Postfix_a_traves_de_un_relay_host_autenticado.md)
     * [Ejercicio: configuración; solución a los casos 3 y 5.](doc/Ejercicio_configuracion\_solucion_a_los_casos_3_y_5.md)
-* [Lectura del correo: Dovecot IMAP + POP](doc/Lectura_del_correo:_Dovecot_IMAP_+_POP.md)
+* [Lectura del correo: Dovecot IMAP + POP](doc/Lectura_del_correo_Dovecot_IMAP_+_POP.md)
     * [Ejercicio: Lectura desde un cliente](doc/Ejercicio_Lectura_desde_un_cliente.md)
     * [Ejercicio: Squirrelmail como webmail](doc/Ejercicio_Squirrelmail_como_webmail.md)
 * [Tarea: Envío y recepción de correos entre usuarios de nuestro dominio y usuarios de dominios externos.](doc/Tarea:_Envio_y_recepcion_de_correos_entre_usuarios_de_nuestro_dominio_y_usuarios_de_dominios_externos..md)

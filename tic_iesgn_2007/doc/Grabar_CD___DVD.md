@@ -32,7 +32,7 @@ Imaginemos que tenemos que guardar los archivos de un trabajo importante para la
 
 **Explicación Animada**
 
- [![Thumb-grabarcd.gif](http://www.guadalinex.org/guadapedia/images/8/82/Thumb-grabarcd.gif)](http://www.guadalinex.org/guadapedia/images/6/69/Grabarcd.gif "http://www.guadalinex.org/guadapedia/images/6/69/Grabarcd.gif") (_http://www.guadalinex.org/guadapedia/images/6/69/Grabarcd.gif_) Pincha en la imagen para ver la animación a su tamaño completo.
+ [![Thumb-grabarcd.gif](http://www.guadalinex.org/guadapedia/images/8/82/Thumb-grabarcd.gif)](http://www.guadalinex.org/guadapedia/images/6/69/Grabarcd.gif "http://www.guadalinex.org/guadapedia/images/6/69/Grabarcd.gif")  Pincha en la imagen para ver la animación a su tamaño completo.
 
 ### Grabar Sonido en CD o DVD
 
@@ -89,7 +89,7 @@ Si tenemos un CD o DVD y queremos copiarlo a un medio virgen lo haremos, con ext
 
 **Explicación Animada**
 
- [![Thumb-grabarcd2.gif](http://www.guadalinex.org/guadapedia/images/2/2a/Thumb-grabarcd2.gif)](http://www.guadalinex.org/guadapedia/images/5/53/Grabarcd2.gif "http://www.guadalinex.org/guadapedia/images/5/53/Grabarcd2.gif") (_http://www.guadalinex.org/guadapedia/images/5/53/Grabarcd2.gif_) Pincha en la imagen para ver la animación a su tamaño completo.
+ [![Thumb-grabarcd2.gif](http://www.guadalinex.org/guadapedia/images/2/2a/Thumb-grabarcd2.gif)](http://www.guadalinex.org/guadapedia/images/5/53/Grabarcd2.gif "http://www.guadalinex.org/guadapedia/images/5/53/Grabarcd2.gif")  Pincha en la imagen para ver la animación a su tamaño completo.
 
 ## Más programas...
 

@@ -12,13 +12,13 @@ Audacity es un programa libre y de código abierto para grabar y editar sonidos.
 
 Gtick es una aplicación de metrónomo gráfica y acústica, con muestra de tabla de acentos, posibilidad de ajuste de velocidad (de 30 a 250 pulsos por minuto) y volumen, y manejo de compases de 2/4, 3/4, 4/4 y otros.  
   
-![music](..img/gtick.png "music")  
+![music](../img/gtick.png "music")  
   
 ## noteedit
 
 NoteEdit es probablemente el software más completo en Linux para editar partituras con una interfaz gráfica. Debido a que las notas introducidas suenan inmediatamente en el dispositivo Midi seleccionado, NoteEdit permite incluso a principiantes crear partituras fácil y rápidamente. Este programa proporciona una gran variedad de signos musicales para escribir partituras. Con NoteEdit no sólo puede fijar notas, sino también reproducir y grabar archivos MIDI. Las partituras se pueden exportar en varios formatos (entre otros MusixTeX y LilyPond).?  
   
-![noteedit](..img/noteedit.png "noteedit")  
+![noteedit](../img/noteedit.png "noteedit")  
   
 ## Rosegarden4
 

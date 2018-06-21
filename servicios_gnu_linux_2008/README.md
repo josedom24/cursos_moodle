@@ -53,7 +53,7 @@ Introducción a los servicios en GNU/Linux de Alberto Molina Coballes y José Do
 * [Más opciones de APT](doc/Mas_opciones_de_APT.md)
 * [Trabajando con paquetes. Instalando servicios](doc/Trabajando_con_paquetes._Instalando_servicios.md)
 * [Niveles de ejecución. Arranque y parada de los servicios](doc/Niveles_de_ejecucion._Arranque_y_parada_de_los_servicios.md)
-* [Logs: obteniendo información del sistema](doc/Logs:_obteniendo_informacion_del_sistema.md)
+* [Logs: obteniendo información del sistema](doc/Logs_obteniendo_informacion_del_sistema.md)
 * [Configuración básica de red](doc/Configuracion_basica_de_red.md)
 
 ![](img/plantilla2.jpg)
@@ -163,7 +163,7 @@ Introducción a los servicios en GNU/Linux de Alberto Molina Coballes y José Do
 ### Prácticas
 
 * [Instalación y puesta en marcha del servidor proFTPd](doc/Instalacion_y_puesta_en_marcha_del_servidor_proFTPd.md)
-* [Servidor proFTPd: Usuarios virtuales con LDAP](doc/Servidor_proFTPd:_Usuarios_virtuales_con_LDAP.md)
+* [Servidor proFTPd: Usuarios virtuales con LDAP](doc/Servidor_proFTPd_Usuarios_virtuales_con_LDAP.md)
 * [Creación de un FTP Anónimo](doc/Creacion_de_un_FTP_Anonimo.md)
 
 ![](img/plantilla7.jpg)
@@ -191,10 +191,10 @@ Introducción a los servicios en GNU/Linux de Alberto Molina Coballes y José Do
 
 ### Prácticas
 
-* [Virtual Hosting: Creación y gestión de dos subdominios](doc/Virtual_Hosting:_Creacion_y_gestion_de_dos_subdominios.md)
-* [Uso de módulos en Apache2: userdir.mod](doc/Uso_de_modulos_en_Apache2:_userdir.mod.md)
+* [Virtual Hosting: Creación y gestión de dos subdominios](doc/Virtual_Hosting_Creacion_y_gestion_de_dos_subdominios.md)
+* [Uso de módulos en Apache2: userdir.mod](doc/Uso_de_modulos_en_Apache2_userdir.mod.md)
 * [Configuración de awstats para virtual hosting](doc/Configuracion_de_awstats_para_virtual_hosting.md)
-* [Instalación de un CMS: Moodle](doc/Instalacion_de_un_CMS:_Moodle.md)
+* [Instalación de un CMS: Moodle](doc/Instalacion_de_un_CMS_Moodle.md)
 * [Autenticación mediante LDAP en moodle](doc/Autenticacion_mediante_LDAP_en_moodle.md)
 
 ### Practicas adicionales
@@ -229,7 +229,7 @@ Introducción a los servicios en GNU/Linux de Alberto Molina Coballes y José Do
 
 ## NFS, SAMBA y Mdns
 
-* [Índice de ficheros en red: NFS, SAMBA y Mdns](doc/Indice_de_ficheros_en_red:_NFS,_SAMBA_y_Mdns.md)
+* [Índice de ficheros en red: NFS, SAMBA y Mdns](doc/Indice_de_ficheros_en_red_NFS,_SAMBA_y_Mdns.md)
 
 ### Documentación
 
@@ -254,7 +254,7 @@ Introducción a los servicios en GNU/Linux de Alberto Molina Coballes y José Do
 
 ## Cortafuegos con iptables
 
-* [Índice de cortafuegos: iptables](doc/Indice_de_cortafuegos:_iptables.md)
+* [Índice de cortafuegos: iptables](doc/Indice_de_cortafuegos_iptables.md)
 
 ### Documentación
 

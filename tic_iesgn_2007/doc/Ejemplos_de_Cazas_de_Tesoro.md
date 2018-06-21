@@ -1,18 +1,11 @@
 # Ejemplos de Cazas de Tesoro
 
-<p align="justify" style="font-family: Trebuchet MS,Verdana,Arial,Helvetica,sans-serif;"><font size="3"><font color="#000033">En 
-Inglés hay muchos sitios Web con colecciones de &quot;cazas de tesoros&quot; hechas por 
-docentes de todos los niveles y áreas. Si introducimos en cualquier buscador tipo 
-Google la cadena ?treasure hunt? ? scavenger hunt ? o ?knowledge hunt ? 
-encontraremos miles de ellas. En español sin embargo existen pocas. </font></font></p>
+En Inglés hay muchos sitios Web con colecciones de "cazas de tesoros" hechas por docentes de todos los niveles y áreas. Si introducimos en cualquier buscador tipo Google la cadena ?treasure hunt? ? scavenger hunt ? o ?knowledge hunt ? encontraremos miles de ellas. En español sin embargo existen pocas. 
 
-<p align="justify" style="font-family: Trebuchet MS,Verdana,Arial,Helvetica,sans-serif;"><font size="3"><font color="#000033">A 
-continuación incluimos algunas páginas que contienen cazas de 
-tesoros. También se incluirán aquí algunas actividades mal llamadas WebQuest por 
-sus autores y que consideramos deben ser catalogadas como &quot;Cazas de Tesoros&quot;</font></font></p><table width="603" cellspacing="0" cellpadding="0" bordercolor="#008000" border="3" style="border-collapse: collapse;" id="AutoNumber3"><tbody><tr><td width="694" colspan="4"><p align="left"><font size="3" face="Arial Narrow" style="font-family: Trebuchet MS,Verdana,Arial,Helvetica,sans-serif;"><img width="27" height="19" border="0" src="http://www.aula21.net/tercera/imagenes/espana.gif" /></font><strong><font size="2" face="Arial" color="#cf6834"><font size="3"><span style="font-family: Trebuchet MS,Verdana,Arial,Helvetica,sans-serif;">C<span style="font-family: Trebuchet MS,Verdana,Arial,Helvetica,sans-serif;">azas 
-          elaboradas por mis alumnos del Seminario de Ciencias Experimentales 
-          organizado por el C.P.R. de Mérida  en el I.E.S. Santa Eulalia de 
-          dicha localidad en </span></span></font><span style="font-family: Trebuchet MS,Verdana,Arial,Helvetica,sans-serif;">Marzo/Mayo de 2004.</span></font></strong></p></td>
+A continuación incluimos algunas páginas que contienen cazas de tesoros. También se incluirán aquí algunas actividades mal llamadas WebQuest por sus autores y que consideramos deben ser catalogadas como "Cazas de Tesoros"
+
+**Cazas elaboradas por mis alumnos del Seminario de Ciencias Experimentales organizado por el C.P.R. de Mérida  en el I.E.S. Santa Eulalia de dicha localidad en Marzo/Mayo de 2004.**
+<table>
         </tr>
         <tr>
           <td width="161">
@@ -29,7 +22,7 @@ sus autores y que consideramos deben ser catalogadas como &quot;Cazas de Tesoros
           <p align="center">
 
 <font size="4" face="Arial Narrow">
-          <img width="11" height="11" border="0" src="http://www.aula21.net/nav/check01_red.gif" /></font><a target="_top" href="http://www.aula21.net/cazas/cazasaula21/reciclaje.html">Reciclaje</a></p></td>
+          </font><a target="_top" href="http://www.aula21.net/cazas/cazasaula21/reciclaje.html">Reciclaje</a></p></td>
           <td width="170">
           <p align="center">Ciencias</p></td>
           <td width="72">
@@ -42,7 +35,7 @@ sus autores y que consideramos deben ser catalogadas como &quot;Cazas de Tesoros
           <p align="center">
 
 <font size="4" face="Arial Narrow">
-          <img width="11" height="11" border="0" src="http://www.aula21.net/nav/check01_red.gif" /></font><a target="_top" href="http://www.aula21.net/cazas/cazasaula21/perfumes.html">¿Qué 
+          </font><a target="_top" href="http://www.aula21.net/cazas/cazasaula21/perfumes.html">¿Qué 
           sabes de los perfumes?</a></p></td>
           <td width="170">
           <p align="center"><font color="#333333">Biología y Geología (Botánica 
@@ -58,7 +51,7 @@ sus autores y que consideramos deben ser catalogadas como &quot;Cazas de Tesoros
           <p align="center">
 
 <font size="4" face="Arial Narrow">
-          <img width="11" height="11" border="0" src="http://www.aula21.net/nav/check01_red.gif" /></font><font color="#333333"><a target="_top" href="http://www.aula21.net/cazas/cazasaula21/quimicaza.html">Energía 
+          </font><font color="#333333"><a target="_top" href="http://www.aula21.net/cazas/cazasaula21/quimicaza.html">Energía 
           en las Reacciones Químicas  - Electroquímica 
           -</a></font></p></td>
           <td width="170">
@@ -71,7 +64,7 @@ sus autores y que consideramos deben ser catalogadas como &quot;Cazas de Tesoros
           <td width="161" align="center">
           
 <font size="4" face="Arial Narrow">
-          <img width="11" height="11" border="0" src="http://www.aula21.net/nav/check01_red.gif" /></font><a target="_top" href="http://www.aula21.net/cazas/cazasaula21/paradoja.html">Paradojas 
+          </font><a target="_top" href="http://www.aula21.net/cazas/cazasaula21/paradoja.html">Paradojas 
           y falacias</a></td>
           <td width="170" align="center">Matemáticas</td>
           <td width="72" align="center">  <font color="#000000">ESO</font></td>
@@ -82,7 +75,7 @@ sus autores y que consideramos deben ser catalogadas como &quot;Cazas de Tesoros
           <td width="161" align="center">
           
 <font size="4" face="Arial Narrow">
-          <img width="11" height="11" border="0" src="http://www.aula21.net/nav/check01_red.gif" /></font><a target="_top" href="http://www.aula21.net/cazas/cazasaula21/la_luz.html">La 
+          </font><a target="_top" href="http://www.aula21.net/cazas/cazasaula21/la_luz.html">La 
           Luz, una onda electromagnética.</a></td>
           <td width="170" align="center">Física y Química</td>
           <td width="72" align="center">2º Ciclo E.S.O.</td>
@@ -92,7 +85,7 @@ sus autores y que consideramos deben ser catalogadas como &quot;Cazas de Tesoros
           <td width="161" align="center">
           
 <font size="4" face="Arial Narrow">
-          <img width="11" height="11" border="0" src="http://www.aula21.net/nav/check01_red.gif" /></font><a target="_top" href="http://www.aula21.net/cazas/cazasaula21/ecosistemas.html">Ecosistemas</a></td>
+          </font><a target="_top" href="http://www.aula21.net/cazas/cazasaula21/ecosistemas.html">Ecosistemas</a></td>
           <td width="170" align="center">Ciencias Naturales</td>
           <td width="72" align="center">2º Ciclo E.S.O.</td>
           <td width="291" align="center">Sebastián Barriga Gallardo</td>
@@ -101,7 +94,7 @@ sus autores y que consideramos deben ser catalogadas como &quot;Cazas de Tesoros
           <td width="161" align="center">
           
 <font size="4" face="Arial Narrow">
-          <img width="11" height="11" border="0" src="http://www.aula21.net/nav/check01_red.gif" /></font><a target="_top" href="http://www.aula21.net/cazas/cazasaula21/chinatos.html">Mira 
+          </font><a target="_top" href="http://www.aula21.net/cazas/cazasaula21/chinatos.html">Mira 
           lo que pisas colega</a></td>
           <td width="170" align="center">Ciencias Naturales </td>
           <td width="72" align="center">3º y 4º de la E.S.O. </td>
@@ -112,7 +105,7 @@ sus autores y que consideramos deben ser catalogadas como &quot;Cazas de Tesoros
           <td width="161" align="center">
           
 <font size="4" face="Arial Narrow">
-          <img width="11" height="11" border="0" src="http://www.aula21.net/nav/check01_red.gif" /></font><a target="_top" href="http://www.aula21.net/cazas/cazasaula21/tablaperiodica.html">Curiosidades 
+          </font><a target="_top" href="http://www.aula21.net/cazas/cazasaula21/tablaperiodica.html">Curiosidades 
           de la Tabla Periódica</a></td>
           <td width="170" align="center">Física y Química</td>
           <td width="72" align="center">3º ESO</td>
@@ -122,7 +115,7 @@ sus autores y que consideramos deben ser catalogadas como &quot;Cazas de Tesoros
           <td width="161" align="center">
           
 <font size="4" face="Arial Narrow">
-          <img width="11" height="11" border="0" src="http://www.aula21.net/nav/check01_red.gif" /></font><a target="_top" href="http://www.aula21.net/cazas/cazasaula21/reproduccion.html">Reproducción</a></td>
+          </font><a target="_top" href="http://www.aula21.net/cazas/cazasaula21/reproduccion.html">Reproducción</a></td>
           <td width="170" align="center">Biología</td>
           <td width="72" align="center">1º Bachillerato</td>
           <td width="291" align="center">Pura Ramírez</td>
@@ -269,7 +262,7 @@ propuesta</a>  de<i> Ga</i>briel F. del Pilar profesor de Filosofía, del
 <p align="justify">
 <font face="Arial Narrow" color="#000080">
 <a href="http://www.lopezdearenas.com/filosofia/tesoro/alumnos/">En su página 
-podemos leer </a> : <i>&quot;Se supone que las Cazas del Tesoro y las Webquests 
+podemos leer </a> : <i>"Se supone que las Cazas del Tesoro y las Webquests 
 deben ser diseñadas por los profesores. Considero muy interesante que los 
 alumnos de Bachillerato y de 4º de la ESO sean capaces ellos mismos de empezar 
 poco a poco y con la ayuda de su profesor a buscar los mejores enlaces, y a 
@@ -283,23 +276,23 @@ vosotros mismos podéis comprobar cómo la calidad de a sus cazas es equiparable
 las diseñadas <a href="http://www.lopezdearenas.com/filosofia/tesoro/cep/">
 Profesores de Filosofía de Secundaria</a></i></font><i><font face="Arial Narrow">
 </font><font face="Arial Narrow" color="#000080">, y en algunos casos, 
-incluso superior&quot;. </font></i>
+incluso superior". </font></i>
 <font face="Arial Narrow" color="#000080">Sus alumnos de 1º de 
-Filosofía han realizado 17 &quot;Cazas de Tesoros &quot;
+Filosofía han realizado 17 "Cazas de Tesoros "
 <a href="http://www.aula21.net/cazas/caza.htm">usando el generador de aula21</a> 
 . Enhorabuena por el trabajo, es para mi una enorme satisfacción constatar que 
 el generador es de utilidad para profesores y alumnos.<br />
 Los profesores han realizado un total de
 <a href="http://www.lopezdearenas.com/filosofia/tesoro/cep/">10 Cazas de Tesoros
-</a><font color="#000080">.</font></font></p>
+</a><font color="#000080">.
 
     </td>
   </tr>
   <tr>
     <td width="50%" height="22">
 
-  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000080"><a href="http://www.auladeletras.net/material/gloriafuertes/gloriafuertes.htm">&quot;Biografía 
-de Gloria Fuertes&quot; </a></font>
+  <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /><font face="Arial Narrow" color="#000080"><a href="http://www.auladeletras.net/material/gloriafuertes/gloriafuertes.htm">"Biografía 
+de Gloria Fuertes" </a></font>
 
     </td>
     <td width="50%" height="22">
@@ -791,7 +784,7 @@ prehistoria</a> Caza de tesoros 5º de Primaria</font></p>
 <font face="Arial Narrow" color="#000080">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">
   <img width="12" height="10" border="0" src="http://www.aula21.net/tercera/imagenes/bullet.gif" /></a></font><font face="Arial Narrow"><a href="http://www.juntadeandalucia.es/averroes/ceip_san_tesifon/recursos/curso6/noticia/index.html">Caza 
-del Tesoro sobre LA NOTICIA</a><font color="#000080"> 5º de Primaria.</font></font></p>
+del Tesoro sobre LA NOTICIA</a><font color="#000080"> 5º de Primaria.
 			<p align="justify">
 <font face="Arial Narrow" color="#000080">
   <a href="http://www.elrebumbio.org/materialasist/index.htm">

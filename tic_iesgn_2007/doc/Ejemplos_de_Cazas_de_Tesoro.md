@@ -230,8 +230,7 @@ Huerta </a> . Nueva caza de Tesoros para 2º de Primaria.</font></td>
   Formación de Base (Educación de Adultos)</font></p></td>
     <td width="50%" valign="top" height="22">
   <font face="Arial Narrow" color="#000033">
-  
-    <a href="http://www.juntadeandalucia.es/averroes/cepmotril/webquest/trabajos/sol/sol.htm">
+  <a href="http://www.juntadeandalucia.es/averroes/cepmotril/webquest/trabajos/sol/sol.htm">
     El Sol</a>. Área: Conocimiento del medio. Nivel: TERCERO</font></td>
   </tr>
   <tr>
